@@ -1,0 +1,2047 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 58%
+	Available Physical Memory: 6752m/16176m
+	Available Page File: 10613m/23088m
+	Available Virtual Memory: 134213482m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 32m
+	Quota Peak Page Pool Usage: 215k
+	Quota Page Pool Usage: 211k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/1670190356/Cluster_2/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 682257
+[00:00:00]: Current time: Wed Aug 13 20:57:43 2025
+
+[00:00:00]: Don't Starve Together: 682257 WIN32
+[00:00:00]: Build Date: 3475
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 2232 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_2 -ownernetid 76561199630456084 -ownerdir 1670190356 -clouddir 1670190356 -backup_log_count 25 -backup_log_period 0 -ugc_directory D:\\steam\\steamapps\\workshop -shard Master -secondary_log_prefix master -sigprefix DST_Master -token ************************************************************************************ 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (19944)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:0.45
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\steam\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: THREAD - started 'StreamInput' (11440)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1670190356/client_save/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1670190356/client_save/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/1670190356/client_save/whitelist.txt (Failure)
+[00:00:00]: Offline user ID: OU_76561199630456084
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.19045
+    platformSpecific          SP 0.0
+    architecture              64 位
+  CPU                       
+    clockSpeed                2400
+    name                      13th Gen Intel(R) Core(TM) i7-13620H
+    manufacturer              GenuineIntel
+    numCores                  10
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      2560 x 1600 x 4294967296 种颜色
+    name                      NVIDIA GeForce RTX 4050 Laptop GPU
+    driverVersion             31.0.15.3770
+    driverDate                20231018000000.000000-000
+    refreshRate               165
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:01]:   taskgrouplist:	default	联机版	
+[00:00:01]:   taskgrouplist:	classic	经典	
+[00:00:01]:   taskgrouplist:	cave_default	地下	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:02]: Running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:02]: SUCCESS: Loaded modoverrides.lua	
+[00:00:02]: modoverrides.lua enabling workshop-2287303119	
+[00:00:02]: modoverrides.lua enabling workshop-1185229307	
+[00:00:02]: modoverrides.lua enabling workshop-3138571948	
+[00:00:02]: modoverrides.lua enabling workshop-1216718131	
+[00:00:02]: modoverrides.lua enabling workshop-1898292532	
+[00:00:02]: modoverrides.lua enabling workshop-3092317730	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1216718131_CLIENT	
+[00:00:02]: Loading mod: workshop-1216718131 (防卡两招(Antistun)) Version:1.0.7	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2287303119_CLIENT	
+[00:00:02]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.7	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:02]: Loading mod: workshop-1185229307 (史诗血量条) Version:98	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-3138571948_CLIENT	
+[00:00:02]: Loading mod: workshop-3138571948 (全图定位(完全同步)) Version:2.4.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1898292532_CLIENT	
+[00:00:02]: Loading mod: workshop-1898292532 (Tips) Version:1.6.6	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-3092317730_CLIENT	
+[00:00:02]: Loading mod: workshop-3092317730 (Combined Status) Version:1.9.1d	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:02]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:02]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:02]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:02]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:02]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option Show_range with value true	
+[00:00:02]: Overriding mod workshop-2287303119's option show_planar_resist with value true	
+[00:00:02]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:02]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:02]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option Show_naughtiness with value true	
+[00:00:02]: Overriding mod workshop-2287303119's option show_fueled with value 3	
+[00:00:02]: Overriding mod workshop-2287303119's option show_fuel with value true	
+[00:00:02]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:02]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option lang with value auto	
+[00:00:02]: Overriding mod workshop-2287303119's option show_nutrients with value 1	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:02]: Overriding mod workshop-1185229307's option CAPTURE with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option CAMERA with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:02]: Overriding mod workshop-1185229307's option GLOBAL with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option TAG with value EPIC	
+[00:00:02]: Overriding mod workshop-1185229307's option HEADER_SERVER with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option TRANSLATOR with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option GLOBAL_NUMBERS with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option HEADER_CLIENT with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-3138571948	
+[00:00:02]: Overriding mod workshop-3138571948's option remove_maprevealer_tag with value false	
+[00:00:02]: Overriding mod workshop-3138571948's option GLOBAL_COURIER with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option OVERRIDEMODE with value false	
+[00:00:02]: Overriding mod workshop-3138571948's option FIREOPTIONS with value 2	
+[00:00:02]: Overriding mod workshop-3138571948's option UPDADTEFREQUENCY with value 0.5	
+[00:00:02]: Overriding mod workshop-3138571948's option ENABLEPINGS with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option disable_fogrevealer with value false	
+[00:00:02]: Overriding mod workshop-3138571948's option REMOVE_GHOST_ICONS with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option use_optimizer with value false	
+[00:00:02]: Overriding mod workshop-3138571948's option optimization_tile with value 0	
+[00:00:02]: Overriding mod workshop-3138571948's option lang with value auto	
+[00:00:02]: Overriding mod workshop-3138571948's option Space1 with value 0	
+[00:00:02]: Overriding mod workshop-3138571948's option SHAREMINIMAPPROGRESS with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option SHOWPLAYERICONS with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option SHOWFIREICONS with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:02]: Overriding mod workshop-3138571948's option COMPLETESYNC with value true	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1216718131	
+[00:00:02]: Overriding mod workshop-1216718131's option stack with value true	
+[00:00:02]: Overriding mod workshop-1216718131's option lang with value true	
+[00:00:02]: Overriding mod workshop-1216718131's option clean with value true	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1898292532	
+[00:00:02]: Overriding mod workshop-1898292532's option atrium_gate with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option antlion with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option bearger with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option daywalker with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option beequeenhive with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option crabking with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option klaus_sack with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option daywalker2 with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option dragonfly with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option deerclops with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option wagboss_robot with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option toadstool with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option hound with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option lunarrift_portal with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option tips_method with value 1	
+[00:00:02]: Overriding mod workshop-1898292532's option prime_mate with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option malbatross with value false	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-3092317730	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWTEMPBADGES with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWBEAVERNESS with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option UNIT with value T	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWWORLDTEMP with value false	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWMOON with value 1	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWWANINGMOON with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option FLIPMOON with value false	
+[00:00:02]: Overriding mod workshop-3092317730's option SEASONOPTIONS with value Clock	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWSTATNUMBERS with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option HUDSCALEFACTOR with value 100	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWCLOCKTEXT with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option HIDECAVECLOCK with value false	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWTEMPERATURE with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWNEXTFULLMOON with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWNAUGHTINESS with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWMAXONNUMBERS with value true	
+[00:00:02]: Mod: workshop-1185229307 (史诗血量条)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1185229307 (史诗血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1185229307 (史诗血量条)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:02]: ShowMe version:	0.59.9.7	
+[00:00:02]: show_food_units	-1	-1	-1	
+[00:00:02]: show_uses	-1	-1	-1	
+[00:00:02]: Detected language for ShowMe: 	auto	zh	
+[00:00:02]: modimport: ../mods/workshop-2287303119/scripts/showme_range_indicators.lua	
+[00:00:02]: modimport: ../mods/workshop-2287303119/scripts/showme_naughtiness.lua	
+[00:00:02]: Mod: workshop-3092317730 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-3092317730 (Combined Status)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-1898292532 (Tips)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1898292532 (Tips)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1898292532 (Tips)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1898292532/common	
+[00:00:02]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1216718131/scripts/stack.lua	
+[00:00:02]: modimport: ../mods/workshop-1216718131/scripts/clean.lua	
+[00:00:02]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-3138571948 (全图定位(完全同步))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modmain.lua	
+[00:00:02]: [global position (CompleteSync)] This is a new version without GemCore	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: Registering Server mod namespace "globalpositioncompletesync"
+[00:00:03]: Registering Server mod namespace "showmeshint"
+[00:00:03]: Registering Server mod namespace "tips"
+[00:00:03]: Registering Server mod namespace "showme"
+[00:00:03]: Registering Client mod namespace "workshop-1185229307"
+[00:00:03]: Registering Shard mod namespace "globalpositioncompletesync"
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: ServerPreferences could not load server_preferences	
+[00:00:03]: ConsoleScreenSettings could not load consolescreen	
+[00:00:03]: bloom_enabled	true	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:04]: Mod: workshop-1185229307 (史诗血量条)	Registering prefabs	
+[00:00:04]: Mod: workshop-1185229307 (史诗血量条)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:04]: Mod: workshop-1185229307 (史诗血量条)	    epichealth_proxy	
+[00:00:04]: Mod: workshop-1185229307 (史诗血量条)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	  Registering prefab file: prefabs/showme_range	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	    lhr_range_indicator	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	    ocep_range_indicator	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-3092317730 (Combined Status)	Registering prefabs	
+[00:00:04]: Mod: workshop-3092317730 (Combined Status)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-1898292532 (Tips)	Registering prefabs	
+[00:00:04]: Mod: workshop-1898292532 (Tips)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-1216718131 (防卡两招(Antistun))	Registering prefabs	
+[00:00:04]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	Registering prefabs	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalposition_classified	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/smoketrail	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    smoketrail	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/pings	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_generic	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_omw	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_danger	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_explore	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_gohere	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering default mod prefab	
+[00:00:05]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (11948)
+[00:00:05]: FilesExistAsyncThread started (26681 files)...
+[00:00:05]: Check for write access: TRUE
+[00:00:05]: Check for read access: TRUE
+[00:00:05]: Available disk space for save files: 164416 MB
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:05]: [IPC] Signal 'DST_Master_Kill' opened  #0000000000000778
+[00:00:05]: [IPC] Registering handler for signal #0000000000000778
+[00:00:05]: [IPC] Handle #0000000000000778 added to the Eventhandles
+[00:00:05]: [IPC] Signal 'DST_Master_ShutdownNoSave' opened  #0000000000000644
+[00:00:05]: [IPC] Registering handler for signal #0000000000000644
+[00:00:05]: [IPC] Handle #0000000000000644 added to the Eventhandles
+[00:00:05]: [IPC] Signal 'DST_Master_Starting' opened  #000000000000069C
+[00:00:05]: [IPC] Sending signal... #000000000000069C
+[00:00:06]: [200] Account Communication Success (6)
+[00:00:06]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether/1670190356/Cluster_2/Master/save/cached_userid
+[00:00:06]: Received (KU_NSBnThNL) from TokenPurpose
+[00:00:06]: Starting Dedicated Server Game	
+[00:00:06]: Network tick rate: U=15(2), D=0
+[00:00:06]: About to start a server with the following settings:
+[00:00:06]:   Dedicated: true
+[00:00:06]:   Online: true
+[00:00:06]:   Passworded: true
+[00:00:06]:   ServerPort: 10999
+[00:00:06]:   SteamAuthPort: 8766
+[00:00:06]:   SteamMasterServerPort: 27016
+[00:00:06]:   ClanID: false
+[00:00:06]:   ClanOnly: false
+[00:00:06]:   ClanAdmin: false
+[00:00:06]:   LanOnly: false
+[00:00:06]:   FriendsOnly: false
+[00:00:06]:   EnableAutosaver: true
+[00:00:06]:   EncodeUserPath: true
+[00:00:06]:   PVP: false
+[00:00:06]:   MaxPlayers: 6
+[00:00:06]:   GameMode: survival
+[00:00:06]:   OverridenDNS: 
+[00:00:06]:   PauseWhenEmpty: true
+[00:00:06]:   IdleTimeout: 1800s
+[00:00:06]:   VoteEnabled: false
+[00:00:06]:   InternetBroadcasting: true
+[00:00:06]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-3092317730	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-3138571948	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1216718131	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1898292532	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:00:06]: Online Server Started on port: 10999
+[00:00:06]: SUCCESS: Loaded modoverrides.lua	
+[00:00:06]: Found a level data override file with these contents:	
+[00:00:06]: 	K: 	desc	 V: 	永不结束的饥荒沙盒模式。
+永远可以在绚丽之门复活。	
+[00:00:06]: 	K: 	hideminimap	 V: 	false	
+[00:00:06]: 	K: 	id	 V: 	ENDLESS	
+[00:00:06]: 	K: 	location	 V: 	forest	
+[00:00:06]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:06]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:06]: 	K: 	name	 V: 	无尽	
+[00:00:06]: 	K: 	numrandom_set_pieces	 V: 	4	
+[00:00:06]: 	K: 	override_level_string	 V: 	false	
+[00:00:06]: 	K: 	overrides	 V: 	table: 000000000C1E6720	
+[00:00:06]: 		K: 	alternatehunt	 V: 	default	
+[00:00:06]: 		K: 	angrybees	 V: 	default	
+[00:00:06]: 		K: 	antliontribute	 V: 	default	
+[00:00:06]: 		K: 	autumn	 V: 	default	
+[00:00:06]: 		K: 	balatro	 V: 	default	
+[00:00:06]: 		K: 	bananabush_portalrate	 V: 	default	
+[00:00:06]: 		K: 	basicresource_regrowth	 V: 	always	
+[00:00:06]: 		K: 	bats_setting	 V: 	default	
+[00:00:06]: 		K: 	bearger	 V: 	default	
+[00:00:06]: 		K: 	beefalo	 V: 	default	
+[00:00:06]: 		K: 	beefaloheat	 V: 	default	
+[00:00:06]: 		K: 	beequeen	 V: 	default	
+[00:00:06]: 		K: 	bees	 V: 	default	
+[00:00:06]: 		K: 	bees_setting	 V: 	default	
+[00:00:06]: 		K: 	berrybush	 V: 	default	
+[00:00:06]: 		K: 	birds	 V: 	default	
+[00:00:06]: 		K: 	boons	 V: 	default	
+[00:00:06]: 		K: 	branching	 V: 	default	
+[00:00:06]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:06]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:06]: 		K: 	butterfly	 V: 	default	
+[00:00:06]: 		K: 	buzzard	 V: 	default	
+[00:00:06]: 		K: 	cactus	 V: 	default	
+[00:00:06]: 		K: 	cactus_regrowth	 V: 	default	
+[00:00:06]: 		K: 	carrot	 V: 	default	
+[00:00:06]: 		K: 	carrots_regrowth	 V: 	default	
+[00:00:06]: 		K: 	catcoon	 V: 	default	
+[00:00:06]: 		K: 	catcoons	 V: 	default	
+[00:00:06]: 		K: 	chess	 V: 	default	
+[00:00:06]: 		K: 	cookiecutters	 V: 	default	
+[00:00:06]: 		K: 	crabking	 V: 	default	
+[00:00:06]: 		K: 	crow_carnival	 V: 	default	
+[00:00:06]: 		K: 	darkness	 V: 	default	
+[00:00:06]: 		K: 	day	 V: 	default	
+[00:00:06]: 		K: 	daywalker2	 V: 	default	
+[00:00:06]: 		K: 	deciduousmonster	 V: 	default	
+[00:00:06]: 		K: 	deciduoustree_regrowth	 V: 	default	
+[00:00:06]: 		K: 	deerclops	 V: 	default	
+[00:00:06]: 		K: 	dragonfly	 V: 	default	
+[00:00:06]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:06]: 		K: 	evergreen_regrowth	 V: 	default	
+[00:00:06]: 		K: 	extrastartingitems	 V: 	default	
+[00:00:06]: 		K: 	eyeofterror	 V: 	default	
+[00:00:06]: 		K: 	fishschools	 V: 	default	
+[00:00:06]: 		K: 	flint	 V: 	default	
+[00:00:06]: 		K: 	flowers	 V: 	default	
+[00:00:06]: 		K: 	flowers_regrowth	 V: 	default	
+[00:00:06]: 		K: 	frograin	 V: 	default	
+[00:00:06]: 		K: 	frogs	 V: 	default	
+[00:00:06]: 		K: 	fruitfly	 V: 	default	
+[00:00:06]: 		K: 	ghostenabled	 V: 	always	
+[00:00:06]: 		K: 	ghostsanitydrain	 V: 	none	
+[00:00:06]: 		K: 	gnarwail	 V: 	default	
+[00:00:06]: 		K: 	goosemoose	 V: 	default	
+[00:00:06]: 		K: 	grass	 V: 	default	
+[00:00:06]: 		K: 	grassgekkos	 V: 	default	
+[00:00:06]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:06]: 		K: 	has_ocean	 V: 	true	
+[00:00:06]: 		K: 	healthpenalty	 V: 	always	
+[00:00:06]: 		K: 	hound_mounds	 V: 	default	
+[00:00:06]: 		K: 	houndmound	 V: 	default	
+[00:00:06]: 		K: 	hounds	 V: 	default	
+[00:00:06]: 		K: 	hunger	 V: 	default	
+[00:00:06]: 		K: 	hunt	 V: 	default	
+[00:00:06]: 		K: 	junkyard	 V: 	default	
+[00:00:06]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:06]: 		K: 	klaus	 V: 	default	
+[00:00:06]: 		K: 	krampus	 V: 	default	
+[00:00:06]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:00:06]: 		K: 	lessdamagetaken	 V: 	none	
+[00:00:06]: 		K: 	liefs	 V: 	default	
+[00:00:06]: 		K: 	lightcrab_portalrate	 V: 	default	
+[00:00:06]: 		K: 	lightning	 V: 	default	
+[00:00:06]: 		K: 	lightninggoat	 V: 	default	
+[00:00:06]: 		K: 	loop	 V: 	default	
+[00:00:06]: 		K: 	lunarhail_frequency	 V: 	default	
+[00:00:06]: 		K: 	lureplants	 V: 	default	
+[00:00:06]: 		K: 	malbatross	 V: 	default	
+[00:00:06]: 		K: 	marshbush	 V: 	default	
+[00:00:06]: 		K: 	merm	 V: 	default	
+[00:00:06]: 		K: 	merms	 V: 	default	
+[00:00:06]: 		K: 	meteorshowers	 V: 	default	
+[00:00:06]: 		K: 	meteorspawner	 V: 	default	
+[00:00:06]: 		K: 	moles	 V: 	default	
+[00:00:06]: 		K: 	moles_setting	 V: 	default	
+[00:00:06]: 		K: 	monkeytail_portalrate	 V: 	default	
+[00:00:06]: 		K: 	moon_berrybush	 V: 	default	
+[00:00:06]: 		K: 	moon_bullkelp	 V: 	default	
+[00:00:06]: 		K: 	moon_carrot	 V: 	default	
+[00:00:06]: 		K: 	moon_fissure	 V: 	default	
+[00:00:06]: 		K: 	moon_fruitdragon	 V: 	default	
+[00:00:06]: 		K: 	moon_hotspring	 V: 	default	
+[00:00:06]: 		K: 	moon_rock	 V: 	default	
+[00:00:06]: 		K: 	moon_sapling	 V: 	default	
+[00:00:06]: 		K: 	moon_spider	 V: 	default	
+[00:00:06]: 		K: 	moon_spiders	 V: 	default	
+[00:00:06]: 		K: 	moon_starfish	 V: 	default	
+[00:00:06]: 		K: 	moon_tree	 V: 	default	
+[00:00:06]: 		K: 	moon_tree_regrowth	 V: 	default	
+[00:00:06]: 		K: 	mosquitos	 V: 	default	
+[00:00:06]: 		K: 	mushroom	 V: 	default	
+[00:00:06]: 		K: 	mutated_hounds	 V: 	default	
+[00:00:06]: 		K: 	no_joining_islands	 V: 	true	
+[00:00:06]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:06]: 		K: 	ocean_bullkelp	 V: 	default	
+[00:00:06]: 		K: 	ocean_otterdens	 V: 	default	
+[00:00:06]: 		K: 	ocean_seastack	 V: 	ocean_default	
+[00:00:06]: 		K: 	ocean_shoal	 V: 	default	
+[00:00:06]: 		K: 	ocean_waterplant	 V: 	ocean_default	
+[00:00:06]: 		K: 	ocean_wobsterden	 V: 	default	
+[00:00:06]: 		K: 	otters_setting	 V: 	default	
+[00:00:06]: 		K: 	palmcone_seed_portalrate	 V: 	default	
+[00:00:06]: 		K: 	palmconetree	 V: 	default	
+[00:00:06]: 		K: 	palmconetree_regrowth	 V: 	default	
+[00:00:06]: 		K: 	penguins	 V: 	default	
+[00:00:06]: 		K: 	penguins_moon	 V: 	default	
+[00:00:06]: 		K: 	perd	 V: 	default	
+[00:00:06]: 		K: 	petrification	 V: 	default	
+[00:00:06]: 		K: 	pigs	 V: 	default	
+[00:00:06]: 		K: 	pigs_setting	 V: 	default	
+[00:00:06]: 		K: 	pirateraids	 V: 	default	
+[00:00:06]: 		K: 	ponds	 V: 	default	
+[00:00:06]: 		K: 	portal_spawnrate	 V: 	default	
+[00:00:06]: 		K: 	portalresurection	 V: 	always	
+[00:00:06]: 		K: 	powder_monkey_portalrate	 V: 	default	
+[00:00:06]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:06]: 		K: 	rabbits	 V: 	default	
+[00:00:06]: 		K: 	rabbits_setting	 V: 	default	
+[00:00:06]: 		K: 	reeds	 V: 	default	
+[00:00:06]: 		K: 	reeds_regrowth	 V: 	default	
+[00:00:06]: 		K: 	regrowth	 V: 	default	
+[00:00:06]: 		K: 	resettime	 V: 	none	
+[00:00:06]: 		K: 	rifts_enabled	 V: 	default	
+[00:00:06]: 		K: 	rifts_frequency	 V: 	default	
+[00:00:06]: 		K: 	roads	 V: 	default	
+[00:00:06]: 		K: 	rock	 V: 	default	
+[00:00:06]: 		K: 	rock_ice	 V: 	default	
+[00:00:06]: 		K: 	saltstack_regrowth	 V: 	default	
+[00:00:06]: 		K: 	sapling	 V: 	default	
+[00:00:06]: 		K: 	season_start	 V: 	default	
+[00:00:06]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:06]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:06]: 		K: 	sharkboi	 V: 	default	
+[00:00:06]: 		K: 	sharks	 V: 	default	
+[00:00:06]: 		K: 	spawnmode	 V: 	fixed	
+[00:00:06]: 		K: 	spawnprotection	 V: 	default	
+[00:00:06]: 		K: 	specialevent	 V: 	default	
+[00:00:06]: 		K: 	spider_warriors	 V: 	default	
+[00:00:06]: 		K: 	spiderqueen	 V: 	default	
+[00:00:06]: 		K: 	spiders	 V: 	default	
+[00:00:06]: 		K: 	spiders_setting	 V: 	default	
+[00:00:06]: 		K: 	spring	 V: 	default	
+[00:00:06]: 		K: 	squid	 V: 	default	
+[00:00:06]: 		K: 	stageplays	 V: 	default	
+[00:00:06]: 		K: 	start_location	 V: 	default	
+[00:00:06]: 		K: 	summer	 V: 	default	
+[00:00:06]: 		K: 	summerhounds	 V: 	default	
+[00:00:06]: 		K: 	tallbirds	 V: 	default	
+[00:00:06]: 		K: 	task_set	 V: 	default	
+[00:00:06]: 		K: 	temperaturedamage	 V: 	default	
+[00:00:06]: 		K: 	tentacles	 V: 	default	
+[00:00:06]: 		K: 	terrariumchest	 V: 	default	
+[00:00:06]: 		K: 	touchstone	 V: 	default	
+[00:00:06]: 		K: 	trees	 V: 	default	
+[00:00:06]: 		K: 	tumbleweed	 V: 	default	
+[00:00:06]: 		K: 	twiggytrees_regrowth	 V: 	default	
+[00:00:06]: 		K: 	walrus	 V: 	default	
+[00:00:06]: 		K: 	walrus_setting	 V: 	default	
+[00:00:06]: 		K: 	wanderingtrader_enabled	 V: 	always	
+[00:00:06]: 		K: 	wasps	 V: 	default	
+[00:00:06]: 		K: 	weather	 V: 	default	
+[00:00:06]: 		K: 	wildfires	 V: 	default	
+[00:00:06]: 		K: 	winter	 V: 	default	
+[00:00:06]: 		K: 	winterhounds	 V: 	default	
+[00:00:06]: 		K: 	winters_feast	 V: 	default	
+[00:00:06]: 		K: 	wobsters	 V: 	default	
+[00:00:06]: 		K: 	world_size	 V: 	default	
+[00:00:06]: 		K: 	wormhole_prefab	 V: 	wormhole	
+[00:00:06]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_bunnyman	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_dragonfly	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_snake	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:06]: 	K: 	playstyle	 V: 	endless	
+[00:00:06]: 	K: 	random_set_pieces	 V: 	table: 000000000C1E6D60	
+[00:00:06]: 		K: 	1	 V: 	Sculptures_2	
+[00:00:06]: 		K: 	2	 V: 	Sculptures_3	
+[00:00:06]: 		K: 	3	 V: 	Sculptures_4	
+[00:00:06]: 		K: 	4	 V: 	Sculptures_5	
+[00:00:06]: 		K: 	5	 V: 	Chessy_1	
+[00:00:06]: 		K: 	6	 V: 	Chessy_2	
+[00:00:06]: 		K: 	7	 V: 	Chessy_3	
+[00:00:06]: 		K: 	8	 V: 	Chessy_4	
+[00:00:06]: 		K: 	9	 V: 	Chessy_5	
+[00:00:06]: 		K: 	10	 V: 	Chessy_6	
+[00:00:06]: 		K: 	11	 V: 	Maxwell1	
+[00:00:06]: 		K: 	12	 V: 	Maxwell2	
+[00:00:06]: 		K: 	13	 V: 	Maxwell3	
+[00:00:06]: 		K: 	14	 V: 	Maxwell4	
+[00:00:06]: 		K: 	15	 V: 	Maxwell6	
+[00:00:06]: 		K: 	16	 V: 	Maxwell7	
+[00:00:06]: 		K: 	17	 V: 	Warzone_1	
+[00:00:06]: 		K: 	18	 V: 	Warzone_2	
+[00:00:06]: 		K: 	19	 V: 	Warzone_3	
+[00:00:06]: 	K: 	required_prefabs	 V: 	table: 000000000C1E6F90	
+[00:00:06]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:06]: 	K: 	required_setpieces	 V: 	table: 000000000C1E7300	
+[00:00:06]: 		K: 	1	 V: 	Sculptures_1	
+[00:00:06]: 		K: 	2	 V: 	Maxwell5	
+[00:00:06]: 	K: 	settings_desc	 V: 	永不结束的饥荒沙盒模式。
+永远可以在绚丽之门复活。	
+[00:00:06]: 	K: 	settings_id	 V: 	ENDLESS	
+[00:00:06]: 	K: 	settings_name	 V: 	无尽	
+[00:00:06]: 	K: 	substitutes	 V: 	table: 000000000C1E7350	
+[00:00:06]: 	K: 	version	 V: 	4	
+[00:00:06]: 	K: 	worldgen_desc	 V: 	永不结束的饥荒沙盒模式。
+永远可以在绚丽之门复活。	
+[00:00:06]: 	K: 	worldgen_id	 V: 	ENDLESS	
+[00:00:06]: 	K: 	worldgen_name	 V: 	无尽	
+[00:00:06]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:06]: Overwriting savedata with level data file.	
+[00:00:06]: Not applying world gen overrides.	
+[00:00:06]: Collecting garbage...
+[00:00:06]: lua_gc took 0.06 seconds
+[00:00:06]: ~ShardLuaProxy()
+[00:00:06]: ~cEventLeaderboardProxy()
+[00:00:06]: ~ItemServerLuaProxy()
+[00:00:06]: ~InventoryLuaProxy()
+[00:00:06]: ~NetworkLuaProxy()
+[00:00:06]: ~SimLuaProxy()
+[00:00:06]: FilesExistAsyncThread aborted.
+[00:00:06]: ... FilesExistAsyncThread complete
+[00:00:06]: lua_close took 0.06 seconds
+[00:00:06]: ReleaseAll
+[00:00:06]: ReleaseAll Finished
+[00:00:06]: cGame::StartPlaying
+[00:00:06]: AppVersion::GetArchitecture() x64
+[00:00:06]: LOADING LUA
+[00:00:06]: DoLuaFile scripts/main.lua
+[00:00:06]: DoLuaFile loading buffer scripts/main.lua
+[00:00:06]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:07]:   taskgrouplist:	default	联机版	
+[00:00:07]:   taskgrouplist:	classic	经典	
+[00:00:07]:   taskgrouplist:	cave_default	地下	
+[00:00:07]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:07]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:07]: Running main.lua
+	
+[00:00:07]: loaded modindex	
+[00:00:07]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:07]: SUCCESS: Loaded modoverrides.lua	
+[00:00:07]: modoverrides.lua enabling workshop-2287303119	
+[00:00:07]: modoverrides.lua enabling workshop-1185229307	
+[00:00:07]: modoverrides.lua enabling workshop-3138571948	
+[00:00:07]: modoverrides.lua enabling workshop-1216718131	
+[00:00:07]: modoverrides.lua enabling workshop-1898292532	
+[00:00:07]: modoverrides.lua enabling workshop-3092317730	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1216718131	
+[00:00:07]: Loading mod: workshop-1216718131 (防卡两招(Antistun)) Version:1.0.7	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:00:07]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.7	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:07]: Loading mod: workshop-1185229307 (史诗血量条) Version:98	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-3138571948	
+[00:00:07]: Loading mod: workshop-3138571948 (全图定位(完全同步)) Version:2.4.0	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1898292532	
+[00:00:07]: Loading mod: workshop-1898292532 (Tips) Version:1.6.6	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-3092317730	
+[00:00:07]: Loading mod: workshop-3092317730 (Combined Status) Version:1.9.1d	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:07]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:07]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:07]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:07]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:07]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option Show_range with value true	
+[00:00:07]: Overriding mod workshop-2287303119's option show_planar_resist with value true	
+[00:00:07]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:07]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:07]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option Show_naughtiness with value true	
+[00:00:07]: Overriding mod workshop-2287303119's option show_fueled with value 3	
+[00:00:07]: Overriding mod workshop-2287303119's option show_fuel with value true	
+[00:00:07]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:07]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option lang with value auto	
+[00:00:07]: Overriding mod workshop-2287303119's option show_nutrients with value 1	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:07]: Overriding mod workshop-1185229307's option CAPTURE with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option CAMERA with value true	
+[00:00:07]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:07]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:07]: Overriding mod workshop-1185229307's option GLOBAL with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option TAG with value EPIC	
+[00:00:07]: Overriding mod workshop-1185229307's option HEADER_SERVER with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option TRANSLATOR with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:07]: Overriding mod workshop-1185229307's option GLOBAL_NUMBERS with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option HEADER_CLIENT with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-3138571948	
+[00:00:07]: Overriding mod workshop-3138571948's option remove_maprevealer_tag with value false	
+[00:00:07]: Overriding mod workshop-3138571948's option GLOBAL_COURIER with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option OVERRIDEMODE with value false	
+[00:00:07]: Overriding mod workshop-3138571948's option FIREOPTIONS with value 2	
+[00:00:07]: Overriding mod workshop-3138571948's option UPDADTEFREQUENCY with value 0.5	
+[00:00:07]: Overriding mod workshop-3138571948's option ENABLEPINGS with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option disable_fogrevealer with value false	
+[00:00:07]: Overriding mod workshop-3138571948's option REMOVE_GHOST_ICONS with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option use_optimizer with value false	
+[00:00:07]: Overriding mod workshop-3138571948's option optimization_tile with value 0	
+[00:00:07]: Overriding mod workshop-3138571948's option lang with value auto	
+[00:00:07]: Overriding mod workshop-3138571948's option Space1 with value 0	
+[00:00:07]: Overriding mod workshop-3138571948's option SHAREMINIMAPPROGRESS with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option SHOWPLAYERICONS with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option SHOWFIREICONS with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:07]: Overriding mod workshop-3138571948's option COMPLETESYNC with value true	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-1216718131	
+[00:00:07]: Overriding mod workshop-1216718131's option stack with value true	
+[00:00:07]: Overriding mod workshop-1216718131's option lang with value true	
+[00:00:07]: Overriding mod workshop-1216718131's option clean with value true	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-1898292532	
+[00:00:07]: Overriding mod workshop-1898292532's option atrium_gate with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option antlion with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option bearger with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option daywalker with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option beequeenhive with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option crabking with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option klaus_sack with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option daywalker2 with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option dragonfly with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option deerclops with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option wagboss_robot with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option toadstool with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option hound with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option lunarrift_portal with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option tips_method with value 1	
+[00:00:07]: Overriding mod workshop-1898292532's option prime_mate with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option malbatross with value false	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-3092317730	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWTEMPBADGES with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWBEAVERNESS with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option UNIT with value T	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWWORLDTEMP with value false	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWMOON with value 1	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWWANINGMOON with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option FLIPMOON with value false	
+[00:00:07]: Overriding mod workshop-3092317730's option SEASONOPTIONS with value Clock	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWSTATNUMBERS with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option HUDSCALEFACTOR with value 100	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWCLOCKTEXT with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option HIDECAVECLOCK with value false	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWTEMPERATURE with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWNEXTFULLMOON with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWNAUGHTINESS with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWMAXONNUMBERS with value true	
+[00:00:07]: Mod: workshop-1185229307 (史诗血量条)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-1185229307 (史诗血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-1185229307 (史诗血量条)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:07]: ShowMe version:	0.59.9.7	
+[00:00:07]: show_food_units	-1	-1	-1	
+[00:00:07]: show_uses	-1	-1	-1	
+[00:00:07]: Detected language for ShowMe: 	auto	zh	
+[00:00:07]: modimport: ../mods/workshop-2287303119/scripts/showme_range_indicators.lua	
+[00:00:07]: modimport: ../mods/workshop-2287303119/scripts/showme_naughtiness.lua	
+[00:00:07]: Mod: workshop-3092317730 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-3092317730 (Combined Status)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-1898292532 (Tips)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-1898292532 (Tips)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-1898292532 (Tips)	Loading modmain.lua	
+[00:00:08]: modimport: ../mods/workshop-1898292532/common	
+[00:00:08]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modmain.lua	
+[00:00:08]: modimport: ../mods/workshop-1216718131/scripts/stack.lua	
+[00:00:08]: modimport: ../mods/workshop-1216718131/scripts/clean.lua	
+[00:00:08]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-3138571948 (全图定位(完全同步))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modmain.lua	
+[00:00:08]: [global position (CompleteSync)] This is a new version without GemCore	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:00:08]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:00:08]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:08]: LOADING LUA SUCCESS
+[00:00:08]: Registering Server mod namespace "globalpositioncompletesync"
+[00:00:08]: Registering Server mod namespace "showmeshint"
+[00:00:08]: Registering Server mod namespace "tips"
+[00:00:08]: Registering Server mod namespace "showme"
+[00:00:08]: Registering Client mod namespace "workshop-1185229307"
+[00:00:08]: Registering Shard mod namespace "globalpositioncompletesync"
+[00:00:08]: PlayerDeaths could not load morgue	
+[00:00:08]: PlayerHistory could not load player_history	
+[00:00:08]: ServerPreferences could not load server_preferences	
+[00:00:08]: ConsoleScreenSettings could not load consolescreen	
+[00:00:08]: bloom_enabled	true	
+[00:00:08]: OnFilesLoaded()	
+[00:00:08]: OnUpdatePurchaseStateComplete	
+[00:00:08]: Loading world: session/44EC2868DDAD173E/0000000265	
+[00:00:08]: Save file is at version 5.156	
+[00:00:08]: Klump load on boot started.	
+[00:00:08]: Klump files loaded: 	0	
+[00:00:08]: 	Unload FE	
+[00:00:08]: 	Unload FE done	
+[00:00:20]: Mod: workshop-1185229307 (史诗血量条)	Registering prefabs	
+[00:00:20]: Mod: workshop-1185229307 (史诗血量条)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:20]: Mod: workshop-1185229307 (史诗血量条)	    epichealth_proxy	
+[00:00:20]: Mod: workshop-1185229307 (史诗血量条)	  Registering default mod prefab	
+[00:00:20]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:20]: Mod: workshop-2287303119 (Show Me (中文))	  Registering prefab file: prefabs/showme_range	
+[00:00:20]: Mod: workshop-2287303119 (Show Me (中文))	    lhr_range_indicator	
+[00:00:20]: Mod: workshop-2287303119 (Show Me (中文))	    ocep_range_indicator	
+[00:00:20]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:20]: Mod: workshop-3092317730 (Combined Status)	Registering prefabs	
+[00:00:20]: Mod: workshop-3092317730 (Combined Status)	  Registering default mod prefab	
+[00:00:20]: Mod: workshop-1898292532 (Tips)	Registering prefabs	
+[00:00:20]: Mod: workshop-1898292532 (Tips)	  Registering default mod prefab	
+[00:00:20]: Mod: workshop-1216718131 (防卡两招(Antistun))	Registering prefabs	
+[00:00:20]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Registering default mod prefab	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	Registering prefabs	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalposition_classified	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/smoketrail	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	    smoketrail	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalmapicon_noproxy	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/pings	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_generic	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_omw	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_danger	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_explore	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_gohere	
+[00:00:20]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering default mod prefab	
+[00:00:20]: 	LOAD BE	
+[00:00:29]: 	LOAD BE: done	
+[00:00:29]: Begin Session: 44EC2868DDAD173E
+[00:00:29]: saving to server_temp/server_save	
+[00:00:29]: OVERRIDE: setting	healthpenalty	to	always	
+[00:00:29]: OVERRIDE: setting	wanderingtrader_enabled	to	always	
+[00:00:29]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:00:29]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:00:29]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:00:29]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/campfire.xml )
+[00:00:29]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_generic.xml )
+[00:00:29]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_gohere.xml )
+[00:00:29]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_explore.xml )
+[00:00:29]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_danger.xml )
+[00:00:29]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_omw.xml )
+[00:00:29]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/beef_bell_linked.xml )
+[00:00:29]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/shadow_beef_bell_linked.xml )
+[00:00:29]: OLD[global position (CompleteSync)]The maprecorder is empty, are you starting a new game or adding this mod to old game?	
+[00:00:29]: Loading 19 new character(s)	
+[00:00:30]: Total 19 character(s) loaded	
+[00:00:30]: Loading Nav Grid	
+[00:00:30]: World generated on build 677386 with save version: 5.156, using seed: 421389217	
+[00:00:30]: setting 	summerlength	15	
+[00:00:30]: setting 	cavemoonphase	full	
+[00:00:30]: setting 	iscavefullmoon	false	
+[00:00:30]: setting 	isnightmaredawn	false	
+[00:00:30]: setting 	elapseddaysinseason	12	
+[00:00:30]: setting 	isfullmoon	false	
+[00:00:30]: setting 	moisture	2379.7263183594	
+[00:00:30]: setting 	springlength	20	
+[00:00:30]: setting 	islunarhailing	false	
+[00:00:30]: setting 	isnightmarewild	false	
+[00:00:30]: setting 	nightmaretimeinphase	0	
+[00:00:30]: setting 	precipitationrate	0	
+[00:00:30]: setting 	iswet	false	
+[00:00:30]: setting 	isnewmoon	false	
+[00:00:30]: setting 	israining	false	
+[00:00:30]: setting 	iswinter	true	
+[00:00:30]: setting 	isnightmarewarn	false	
+[00:00:30]: setting 	precipitation	none	
+[00:00:30]: setting 	iscavewaxingmoon	false	
+[00:00:30]: setting 	isacidraining	false	
+[00:00:30]: setting 	moonphase	full	
+[00:00:30]: setting 	remainingdaysinseason	3	
+[00:00:30]: setting 	temperature	-7.0422693442357	
+[00:00:30]: setting 	wetness	0	
+[00:00:30]: setting 	cycles	242	
+[00:00:30]: setting 	moistureceil	2655.0124511719	
+[00:00:30]: setting 	isday	true	
+[00:00:30]: setting 	winterlength	15	
+[00:00:30]: setting 	season	winter	
+[00:00:30]: setting 	iswaxingmoon	false	
+[00:00:30]: setting 	isalterawake	true	
+[00:00:30]: setting 	isnightmarecalm	false	
+[00:00:30]: setting 	isnight	false	
+[00:00:30]: setting 	isdusk	false	
+[00:00:30]: setting 	isspring	false	
+[00:00:30]: setting 	isautumn	false	
+[00:00:30]: setting 	iscaveday	true	
+[00:00:30]: setting 	lunarhaillevel	0	
+[00:00:30]: setting 	pop	0.76618548881168	
+[00:00:30]: setting 	snowlevel	1	
+[00:00:30]: setting 	issnowcovered	true	
+[00:00:30]: setting 	autumnlength	20	
+[00:00:30]: setting 	phase	day	
+[00:00:30]: setting 	nightmaretime	0	
+[00:00:30]: setting 	issnowing	false	
+[00:00:30]: setting 	iscavedusk	false	
+[00:00:30]: setting 	nightmarephase	none	
+[00:00:30]: setting 	timeinphase	0.75445994059245	
+[00:00:30]: setting 	seasonprogress	0.8	
+[00:00:30]: setting 	iscavenight	false	
+[00:00:30]: setting 	iscavenewmoon	false	
+[00:00:30]: setting 	issummer	false	
+[00:00:30]: setting 	cavephase	day	
+[00:00:30]: setting 	time	0.23576873143514	
+[00:00:30]: Connected shards:	
+[00:00:30]: OVERRIDE: setting	ghostenabled	to	always	
+[00:00:30]: OVERRIDE: setting	resettime	to	none	
+[00:00:30]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:00:30]: OVERRIDE: setting	portalresurection	to	always	
+[00:00:30]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:00:30]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:00:31]: Could not find anim [idle_planted] in bank [ancienttree_nightvision]
+[00:00:33]: Reconstructing topology	
+[00:00:33]: 	...Sorting points	
+[00:00:33]: 	...Sorting edges	
+[00:00:33]: 	...Connecting nodes	
+[00:00:33]: 	...Validating connections	
+[00:00:33]: 	...Housekeeping	
+[00:00:33]: 	...Done!	
+[00:00:33]: in worldprefab postinit	
+[00:00:33]: [global position (CompleteSync)]The world is not newly created	
+[00:00:33]: [global position (CompleteSync)]The maprecorder is not empty.	
+[00:00:33]: 1 uploads added to server. From server_temp
+[00:00:33]: About to start a shard with these settings:
+[00:00:33]:   ShardName: [SHDMASTER]
+[00:00:33]:   ShardID: 1
+[00:00:33]:   ShardRole: MASTER
+[00:00:33]:   MasterHost: (null)
+[00:00:33]:   MasterBind: 127.0.0.1
+[00:00:33]:   MasterPort: 10888
+[00:00:33]: [Shard] Starting master server
+[00:00:33]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:33]: [Shard] Shard server started on port: 10888
+[00:00:33]: [IPC] Signal 'DST_Master_Ready' opened  #000000000000089C
+[00:00:33]: [IPC] Sending signal... #000000000000089C
+[00:00:33]: Telling Client our new session identifier: 44EC2868DDAD173E
+[00:00:33]: Check for write access: TRUE
+[00:00:33]: Check for read access: TRUE
+[00:00:33]: Available disk space for save files: 164420 MB
+[00:00:33]: ModIndex: Load sequence finished successfully.	
+[00:00:33]: Reset() returning
+[00:00:34]: Validating portal[9] <-> 1720328666[9] (inactive)	
+[00:00:34]: Validating portal[8] <-> 1720328666[8] (inactive)	
+[00:00:34]: Validating portal[10] <-> 1720328666[10] (inactive)	
+[00:00:34]: Validating portal[1] <-> 1720328666[1] (inactive)	
+[00:00:34]: Validating portal[3] <-> 1720328666[3] (inactive)	
+[00:00:34]: Validating portal[7] <-> 1720328666[7] (inactive)	
+[00:00:34]: Validating portal[6] <-> 1720328666[6] (inactive)	
+[00:00:34]: Validating portal[5] <-> 1720328666[5] (inactive)	
+[00:00:34]: Validating portal[4] <-> 1720328666[4] (inactive)	
+[00:00:34]: Validating portal[2] <-> 1720328666[2] (inactive)	
+[00:00:34]: Sim paused
+[00:00:34]: Server registered via geo DNS in ap-southeast-1
+[00:00:34]: [Shard] Secondary shard Caves(1720328666) connected: [LAN] 127.0.0.1
+[00:01:50]: [Shard] Secondary Caves(1720328666) ready!
+[00:01:50]: World 1720328666 is now connected	
+[00:01:50]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:01:50]: Validating portal[9] <-> 1720328666[9] (active)	
+[00:01:50]: Validating portal[8] <-> 1720328666[8] (disabled)	
+[00:01:50]: Validating portal[10] <-> 1720328666[10] (disabled)	
+[00:01:50]: Validating portal[1] <-> 1720328666[1] (disabled)	
+[00:01:50]: Validating portal[3] <-> 1720328666[3] (disabled)	
+[00:01:50]: Validating portal[7] <-> 1720328666[7] (active)	
+[00:01:50]: Validating portal[6] <-> 1720328666[6] (disabled)	
+[00:01:50]: Validating portal[5] <-> 1720328666[5] (disabled)	
+[00:01:50]: Validating portal[4] <-> 1720328666[4] (active)	
+[00:01:50]: Validating portal[2] <-> 1720328666[2] (active)	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option krampus = default to secondary shards.	
+[00:01:50]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[00:01:53]: New incoming connection 127.0.0.1|52663 <7694803442326131046>
+[00:01:53]: Client connected from [LAN] 127.0.0.1|52663 <7694803442326131046>
+[00:01:53]: ValidateGameSessionToken GUID<7694803442326131046>
+[00:01:53]: Client authenticated: (KU_NSBnThNL) 王好爱吃麻包蛋
+[00:01:53]: [Steam] Authenticated host '76561199630456084'
+[00:01:55]: There is no active event to validate against.
+[00:01:55]: [Shard] Read save location file for (KU_NSBnThNL)
+[00:02:15]: Resuming user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000265
+[00:02:15]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:02:15]: User ID	KU_NSBnThNL	assigned ownership to entity	121793 - wathgrithr	
+[00:02:15]: Spawning player at: [Load] (-233.53, 0.00, 418.45)	
+[00:02:15]: Sim unpaused
+[00:02:15]: [global position (CompleteSync)]Player joined	
+[00:02:15]: [global position (CompleteSync)] learning from buffer	
+[00:02:15]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:02:16]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:02:16]: [global position (CompleteSync)] succeed	
+[00:02:24]: Server Autopaused	
+[00:02:44]: [P2P] Session request for '76561198812174063'
+[00:02:48]: [P2P] Create session: 157.30.206.68|1 '76561198812174063'
+[00:02:48]: [P2P] Received from 157.30.206.68|1 '76561198812174063'
+[00:02:48]: [P2P] Sent to 157.30.206.68|1 '76561198812174063'
+[00:02:48]: New incoming connection 157.30.206.68|1 <1356764778471615325>
+[00:02:48]: Client connected from 157.30.206.68|1 <1356764778471615325>
+[00:02:48]: ValidateGameSessionToken GUID<1356764778471615325>
+[00:02:48]: Client authenticated: (KU_Qvt-jPlq) King Jong-un
+[00:02:48]: [Steam] SendUserConnectAndAuthenticate for '76561198812174063'
+[00:02:49]: [Steam] Authenticated client '76561198812174063'
+[00:02:49]: There is no active event to validate against.
+[00:02:49]: [Shard] Read save location file for (KU_Qvt-jPlq)
+[00:03:12]: Server Unpaused	
+[00:03:14]: Resuming user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000265
+[00:03:14]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:03:14]: User ID	KU_Qvt-jPlq	assigned ownership to entity	122444 - wolfgang	
+[00:03:14]: Spawning player at: [Load] (-236.73, 0.00, 416.41)	
+[00:03:14]: [global position (CompleteSync)]Player joined	
+[00:03:14]: [global position (CompleteSync)] saving to buffer	
+[00:03:14]: [global position (CompleteSync)] success to saving to buffer	
+[00:03:14]: [global position (CompleteSync)] learning from buffer	
+[00:03:14]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:03:15]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:03:15]: [global position (CompleteSync)] succeed	
+[00:08:57]: Failed to assign item skin ids due to ownership check failure.
+[00:09:11]: Available disk space for save files: 164419 MB
+[00:09:11]: [global position (CompleteSync)] saving to buffer	
+[00:09:11]: [global position (CompleteSync)] success to saving to buffer	
+[00:09:11]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:09:11]: [global position (CompleteSync)] now delete map info from user	
+[00:09:11]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000266
+[00:09:11]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:09:11]: [global position (CompleteSync)] now delete map info from user	
+[00:09:11]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000266
+[00:09:11]: Serializing world: session/44EC2868DDAD173E/0000000266
+[00:10:13]: Failed to assign item skin ids due to ownership check failure.
+[00:13:25]: Server Paused	
+[00:14:01]: Server Unpaused	
+[00:16:23]: Failed to assign item skin ids due to ownership check failure.
+[00:17:47]: Available disk space for save files: 164412 MB
+[00:17:47]: [global position (CompleteSync)] saving to buffer	
+[00:17:47]: [global position (CompleteSync)] success to saving to buffer	
+[00:17:47]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:17:47]: [global position (CompleteSync)] now delete map info from user	
+[00:17:47]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000267
+[00:17:47]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:17:47]: [global position (CompleteSync)] now delete map info from user	
+[00:17:47]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000267
+[00:17:47]: Serializing world: session/44EC2868DDAD173E/0000000267
+[00:25:47]: Available disk space for save files: 164407 MB
+[00:25:47]: [global position (CompleteSync)] saving to buffer	
+[00:25:47]: [global position (CompleteSync)] success to saving to buffer	
+[00:25:47]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:25:47]: [global position (CompleteSync)] now delete map info from user	
+[00:25:47]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000268
+[00:25:47]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:25:47]: [global position (CompleteSync)] now delete map info from user	
+[00:25:47]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000268
+[00:25:48]: Serializing world: session/44EC2868DDAD173E/0000000268
+[00:30:06]: [200] Account Communication Success (6)
+[00:30:06]: Received (KU_NSBnThNL) from TokenPurpose
+[00:33:48]: Available disk space for save files: 164402 MB
+[00:33:48]: [global position (CompleteSync)] saving to buffer	
+[00:33:48]: [global position (CompleteSync)] success to saving to buffer	
+[00:33:48]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:33:48]: [global position (CompleteSync)] now delete map info from user	
+[00:33:48]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000269
+[00:33:48]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:33:48]: [global position (CompleteSync)] now delete map info from user	
+[00:33:48]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000269
+[00:33:48]: Missing reference:	131641 - bird_mutant_spitter	->	130645	130645 - moonstorm_static	
+[00:33:48]: Serializing world: session/44EC2868DDAD173E/0000000269
+[00:34:34]: Could not find anim [death] in bank [ghost]
+[00:34:34]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:34:34]: [global position (CompleteSync)] now delete map info from user	
+[00:34:34]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000270
+[00:34:38]: Seamless Spawn request: wonkey
+[00:34:38]: Skin request: () () () () ()
+[00:34:38]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:34:38]: User ID	KU_NSBnThNL	assigned ownership to entity	132039 - wonkey	
+[00:34:38]: [global position (CompleteSync)]In my SaveForReroll	
+[00:34:38]: [global position (CompleteSync)] now delete map info from user when rerolling	
+[00:34:38]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:34:38]: [global position (CompleteSync)] now delete map info from user	
+[00:34:38]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000270
+[00:34:38]: [global position (CompleteSync)]Player joined	
+[00:34:38]: [global position (CompleteSync)] saving to buffer	
+[00:34:38]: [global position (CompleteSync)] success to saving to buffer	
+[00:34:38]: [global position (CompleteSync)] learning from buffer	
+[00:34:38]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:34:38]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:34:39]: [global position (CompleteSync)] succeed	
+[00:34:52]: KU_NSBnThNL	running text command:	rollback	true	
+[00:34:57]: Received world rollback request: count=1	
+[00:34:57]: Truncating to snapshot #269...
+[00:34:57]:  - session/44EC2868DDAD173E/0000000260
+[00:34:57]:  - session/44EC2868DDAD173E/0000000261
+[00:34:57]:  - session/44EC2868DDAD173E/0000000262
+[00:34:57]:  - session/44EC2868DDAD173E/0000000263
+[00:34:57]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000270
+[00:34:57]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000263
+[00:34:57]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000262
+[00:34:57]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000261
+[00:34:57]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000260
+[00:34:57]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000270
+[00:34:57]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000263
+[00:34:57]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000262
+[00:34:57]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000261
+[00:34:57]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000260
+[00:34:57]:    14 file(s) removed
+[00:34:58]: Collecting garbage...
+[00:34:58]: lua_gc took 0.19 seconds
+[00:34:58]: ~ShardLuaProxy()
+[00:34:58]: ~cEventLeaderboardProxy()
+[00:34:58]: ~ItemServerLuaProxy()
+[00:34:58]: ~InventoryLuaProxy()
+[00:34:58]: ~NetworkLuaProxy()
+[00:34:58]: ~SimLuaProxy()
+[00:34:58]: lua_close took 0.35 seconds
+[00:34:58]: ReleaseAll
+[00:34:58]: ReleaseAll Finished
+[00:34:58]: cGame::StartPlaying
+[00:34:58]: AppVersion::GetArchitecture() x64
+[00:34:58]: LOADING LUA
+[00:34:58]: DoLuaFile scripts/main.lua
+[00:34:58]: DoLuaFile loading buffer scripts/main.lua
+[00:34:58]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:34:59]:   taskgrouplist:	default	联机版	
+[00:34:59]:   taskgrouplist:	classic	经典	
+[00:34:59]:   taskgrouplist:	cave_default	地下	
+[00:34:59]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:34:59]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:34:59]: Running main.lua
+	
+[00:35:00]: loaded modindex	
+[00:35:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:35:00]: SUCCESS: Loaded modoverrides.lua	
+[00:35:00]: modoverrides.lua enabling workshop-2287303119	
+[00:35:00]: modoverrides.lua enabling workshop-1185229307	
+[00:35:00]: modoverrides.lua enabling workshop-3138571948	
+[00:35:00]: modoverrides.lua enabling workshop-1216718131	
+[00:35:00]: modoverrides.lua enabling workshop-1898292532	
+[00:35:00]: modoverrides.lua enabling workshop-3092317730	
+[00:35:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:35:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:35:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:35:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:35:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:35:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:35:00]: Could not load mod_config_data/modconfiguration_workshop-1216718131	
+[00:35:00]: Loading mod: workshop-1216718131 (防卡两招(Antistun)) Version:1.0.7	
+[00:35:00]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:35:00]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.7	
+[00:35:00]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:35:00]: Loading mod: workshop-1185229307 (史诗血量条) Version:98	
+[00:35:00]: Could not load mod_config_data/modconfiguration_workshop-3138571948	
+[00:35:00]: Loading mod: workshop-3138571948 (全图定位(完全同步)) Version:2.4.0	
+[00:35:00]: Could not load mod_config_data/modconfiguration_workshop-1898292532	
+[00:35:00]: Loading mod: workshop-1898292532 (Tips) Version:1.6.6	
+[00:35:00]: Could not load mod_config_data/modconfiguration_workshop-3092317730	
+[00:35:00]: Loading mod: workshop-3092317730 (Combined Status) Version:1.9.1d	
+[00:35:00]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:35:00]: Overriding mod workshop-2287303119's option  with value 0	
+[00:35:00]: Overriding mod workshop-2287303119's option  with value 0	
+[00:35:00]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:35:00]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:35:00]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:35:00]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:35:00]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:35:00]: Overriding mod workshop-2287303119's option Show_range with value true	
+[00:35:00]: Overriding mod workshop-2287303119's option show_planar_resist with value true	
+[00:35:00]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:35:00]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:35:00]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:35:00]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:35:00]: Overriding mod workshop-2287303119's option Show_naughtiness with value true	
+[00:35:00]: Overriding mod workshop-2287303119's option show_fueled with value 3	
+[00:35:00]: Overriding mod workshop-2287303119's option show_fuel with value true	
+[00:35:00]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:35:00]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:35:00]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:35:00]: Overriding mod workshop-2287303119's option lang with value auto	
+[00:35:00]: Overriding mod workshop-2287303119's option show_nutrients with value 1	
+[00:35:00]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:35:00]: Overriding mod workshop-1185229307's option CAPTURE with value false	
+[00:35:00]: Overriding mod workshop-1185229307's option CAMERA with value true	
+[00:35:00]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:35:00]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:35:00]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:35:00]: Overriding mod workshop-1185229307's option GLOBAL with value false	
+[00:35:00]: Overriding mod workshop-1185229307's option TAG with value EPIC	
+[00:35:00]: Overriding mod workshop-1185229307's option HEADER_SERVER with value false	
+[00:35:00]: Overriding mod workshop-1185229307's option TRANSLATOR with value false	
+[00:35:00]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:35:00]: Overriding mod workshop-1185229307's option GLOBAL_NUMBERS with value false	
+[00:35:00]: Overriding mod workshop-1185229307's option HEADER_CLIENT with value false	
+[00:35:00]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:35:00]: applying configuration_options from modoverrides.lua to mod workshop-3138571948	
+[00:35:00]: Overriding mod workshop-3138571948's option remove_maprevealer_tag with value false	
+[00:35:00]: Overriding mod workshop-3138571948's option GLOBAL_COURIER with value true	
+[00:35:00]: Overriding mod workshop-3138571948's option OVERRIDEMODE with value false	
+[00:35:00]: Overriding mod workshop-3138571948's option FIREOPTIONS with value 2	
+[00:35:00]: Overriding mod workshop-3138571948's option UPDADTEFREQUENCY with value 0.5	
+[00:35:00]: Overriding mod workshop-3138571948's option ENABLEPINGS with value true	
+[00:35:00]: Overriding mod workshop-3138571948's option disable_fogrevealer with value false	
+[00:35:00]: Overriding mod workshop-3138571948's option REMOVE_GHOST_ICONS with value true	
+[00:35:00]: Overriding mod workshop-3138571948's option use_optimizer with value false	
+[00:35:00]: Overriding mod workshop-3138571948's option optimization_tile with value 0	
+[00:35:00]: Overriding mod workshop-3138571948's option lang with value auto	
+[00:35:00]: Overriding mod workshop-3138571948's option Space1 with value 0	
+[00:35:00]: Overriding mod workshop-3138571948's option SHAREMINIMAPPROGRESS with value true	
+[00:35:00]: Overriding mod workshop-3138571948's option SHOWPLAYERICONS with value true	
+[00:35:00]: Overriding mod workshop-3138571948's option SHOWFIREICONS with value true	
+[00:35:00]: Overriding mod workshop-3138571948's option SHOWPLAYERSOPTIONS with value 2	
+[00:35:00]: Overriding mod workshop-3138571948's option COMPLETESYNC with value true	
+[00:35:00]: applying configuration_options from modoverrides.lua to mod workshop-1216718131	
+[00:35:00]: Overriding mod workshop-1216718131's option stack with value true	
+[00:35:00]: Overriding mod workshop-1216718131's option lang with value true	
+[00:35:00]: Overriding mod workshop-1216718131's option clean with value true	
+[00:35:00]: applying configuration_options from modoverrides.lua to mod workshop-1898292532	
+[00:35:00]: Overriding mod workshop-1898292532's option atrium_gate with value false	
+[00:35:00]: Overriding mod workshop-1898292532's option antlion with value true	
+[00:35:00]: Overriding mod workshop-1898292532's option bearger with value true	
+[00:35:00]: Overriding mod workshop-1898292532's option daywalker with value false	
+[00:35:00]: Overriding mod workshop-1898292532's option beequeenhive with value false	
+[00:35:00]: Overriding mod workshop-1898292532's option crabking with value false	
+[00:35:00]: Overriding mod workshop-1898292532's option klaus_sack with value false	
+[00:35:00]: Overriding mod workshop-1898292532's option daywalker2 with value false	
+[00:35:00]: Overriding mod workshop-1898292532's option dragonfly with value false	
+[00:35:00]: Overriding mod workshop-1898292532's option deerclops with value true	
+[00:35:00]: Overriding mod workshop-1898292532's option wagboss_robot with value false	
+[00:35:00]: Overriding mod workshop-1898292532's option toadstool with value false	
+[00:35:00]: Overriding mod workshop-1898292532's option hound with value true	
+[00:35:00]: Overriding mod workshop-1898292532's option lunarrift_portal with value true	
+[00:35:00]: Overriding mod workshop-1898292532's option tips_method with value 1	
+[00:35:00]: Overriding mod workshop-1898292532's option prime_mate with value true	
+[00:35:00]: Overriding mod workshop-1898292532's option malbatross with value false	
+[00:35:00]: applying configuration_options from modoverrides.lua to mod workshop-3092317730	
+[00:35:00]: Overriding mod workshop-3092317730's option SHOWTEMPBADGES with value true	
+[00:35:00]: Overriding mod workshop-3092317730's option SHOWBEAVERNESS with value true	
+[00:35:00]: Overriding mod workshop-3092317730's option UNIT with value T	
+[00:35:00]: Overriding mod workshop-3092317730's option SHOWWORLDTEMP with value false	
+[00:35:00]: Overriding mod workshop-3092317730's option SHOWMOON with value 1	
+[00:35:00]: Overriding mod workshop-3092317730's option SHOWWANINGMOON with value true	
+[00:35:00]: Overriding mod workshop-3092317730's option FLIPMOON with value false	
+[00:35:00]: Overriding mod workshop-3092317730's option SEASONOPTIONS with value Clock	
+[00:35:00]: Overriding mod workshop-3092317730's option SHOWSTATNUMBERS with value true	
+[00:35:00]: Overriding mod workshop-3092317730's option HUDSCALEFACTOR with value 100	
+[00:35:00]: Overriding mod workshop-3092317730's option SHOWCLOCKTEXT with value true	
+[00:35:00]: Overriding mod workshop-3092317730's option HIDECAVECLOCK with value false	
+[00:35:00]: Overriding mod workshop-3092317730's option SHOWTEMPERATURE with value true	
+[00:35:00]: Overriding mod workshop-3092317730's option SHOWNEXTFULLMOON with value true	
+[00:35:00]: Overriding mod workshop-3092317730's option SHOWNAUGHTINESS with value true	
+[00:35:00]: Overriding mod workshop-3092317730's option SHOWMAXONNUMBERS with value true	
+[00:35:00]: Mod: workshop-1185229307 (史诗血量条)	Loading modworldgenmain.lua	
+[00:35:00]: Mod: workshop-1185229307 (史诗血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:35:00]: Mod: workshop-1185229307 (史诗血量条)	Loading modmain.lua	
+[00:35:00]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:35:00]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:35:00]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:35:00]: ShowMe version:	0.59.9.7	
+[00:35:00]: show_food_units	-1	-1	-1	
+[00:35:00]: show_uses	-1	-1	-1	
+[00:35:00]: Detected language for ShowMe: 	auto	zh	
+[00:35:00]: modimport: ../mods/workshop-2287303119/scripts/showme_range_indicators.lua	
+[00:35:00]: modimport: ../mods/workshop-2287303119/scripts/showme_naughtiness.lua	
+[00:35:00]: Mod: workshop-3092317730 (Combined Status)	Loading modworldgenmain.lua	
+[00:35:00]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:35:00]: Mod: workshop-3092317730 (Combined Status)	Loading modmain.lua	
+[00:35:00]: Mod: workshop-1898292532 (Tips)	Loading modworldgenmain.lua	
+[00:35:00]: Mod: workshop-1898292532 (Tips)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:35:00]: Mod: workshop-1898292532 (Tips)	Loading modmain.lua	
+[00:35:00]: modimport: ../mods/workshop-1898292532/common	
+[00:35:00]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modworldgenmain.lua	
+[00:35:00]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:35:00]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modmain.lua	
+[00:35:00]: modimport: ../mods/workshop-1216718131/scripts/stack.lua	
+[00:35:00]: modimport: ../mods/workshop-1216718131/scripts/clean.lua	
+[00:35:00]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modworldgenmain.lua	
+[00:35:00]: Mod: workshop-3138571948 (全图定位(完全同步))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:35:00]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modmain.lua	
+[00:35:00]: [global position (CompleteSync)] This is a new version without GemCore	
+[00:35:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:35:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:35:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:35:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:35:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:35:00]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:35:00]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:35:00]: LOADING LUA SUCCESS
+[00:35:00]: Registering Server mod namespace "globalpositioncompletesync"
+[00:35:00]: Registering Server mod namespace "showmeshint"
+[00:35:00]: Registering Server mod namespace "tips"
+[00:35:00]: Registering Server mod namespace "showme"
+[00:35:00]: Registering Client mod namespace "workshop-1185229307"
+[00:35:00]: Registering Shard mod namespace "globalpositioncompletesync"
+[00:35:00]: PlayerDeaths could not load morgue	
+[00:35:00]: PlayerHistory could not load player_history	
+[00:35:00]: ServerPreferences could not load server_preferences	
+[00:35:00]: ConsoleScreenSettings could not load consolescreen	
+[00:35:00]: bloom_enabled	true	
+[00:35:00]: OnFilesLoaded()	
+[00:35:00]: OnUpdatePurchaseStateComplete	
+[00:35:00]: Loading world: session/44EC2868DDAD173E/0000000269	
+[00:35:00]: Save file is at version 5.156	
+[00:35:00]: Klump load on boot started.	
+[00:35:00]: Klump files loaded: 	0	
+[00:35:00]: 	Unload characters	
+[00:35:00]: 	BE assets already loaded	
+[00:35:01]: Mod: workshop-1185229307 (史诗血量条)	Registering prefabs	
+[00:35:01]: Mod: workshop-1185229307 (史诗血量条)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:35:01]: Mod: workshop-1185229307 (史诗血量条)	    epichealth_proxy	
+[00:35:01]: Mod: workshop-1185229307 (史诗血量条)	  Registering default mod prefab	
+[00:35:01]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:35:01]: Mod: workshop-2287303119 (Show Me (中文))	  Registering prefab file: prefabs/showme_range	
+[00:35:01]: Mod: workshop-2287303119 (Show Me (中文))	    lhr_range_indicator	
+[00:35:01]: Mod: workshop-2287303119 (Show Me (中文))	    ocep_range_indicator	
+[00:35:01]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:35:01]: Mod: workshop-3092317730 (Combined Status)	Registering prefabs	
+[00:35:01]: Mod: workshop-3092317730 (Combined Status)	  Registering default mod prefab	
+[00:35:01]: Mod: workshop-1898292532 (Tips)	Registering prefabs	
+[00:35:01]: Mod: workshop-1898292532 (Tips)	  Registering default mod prefab	
+[00:35:01]: Mod: workshop-1216718131 (防卡两招(Antistun))	Registering prefabs	
+[00:35:01]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Registering default mod prefab	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	Registering prefabs	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalposition_classified	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalposition_classified	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/smoketrail	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	    smoketrail	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalmapicon_noproxy	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/pings	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_generic	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_omw	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_danger	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_explore	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_gohere	
+[00:35:01]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering default mod prefab	
+[00:35:01]: Begin Session: 44EC2868DDAD173E
+[00:35:01]: Stomping previously assigned session identifier, two loads issued.
+[00:35:01]: saving to server_temp/server_save	
+[00:35:01]: OVERRIDE: setting	healthpenalty	to	always	
+[00:35:01]: OVERRIDE: setting	wanderingtrader_enabled	to	always	
+[00:35:01]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:35:01]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:35:01]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:35:01]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/campfire.xml )
+[00:35:01]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_generic.xml )
+[00:35:01]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_gohere.xml )
+[00:35:01]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_explore.xml )
+[00:35:01]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_danger.xml )
+[00:35:01]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_omw.xml )
+[00:35:01]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/beef_bell_linked.xml )
+[00:35:01]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/shadow_beef_bell_linked.xml )
+[00:35:01]: OLD[global position (CompleteSync)]The maprecorder is empty, are you starting a new game or adding this mod to old game?	
+[00:35:01]: Loading 19 new character(s)	
+[00:35:01]: Total 19 character(s) loaded	
+[00:35:01]: Loading Nav Grid	
+[00:35:01]: World generated on build 677386 with save version: 5.156, using seed: 421389217	
+[00:35:01]: setting 	summerlength	15	
+[00:35:01]: setting 	cavemoonphase	full	
+[00:35:01]: setting 	iscavefullmoon	false	
+[00:35:01]: setting 	isnightmaredawn	false	
+[00:35:01]: setting 	elapseddaysinseason	1	
+[00:35:01]: setting 	isfullmoon	false	
+[00:35:01]: setting 	moisture	705.81390380859	
+[00:35:01]: setting 	springlength	20	
+[00:35:01]: setting 	islunarhailing	false	
+[00:35:01]: setting 	isnightmarewild	false	
+[00:35:01]: setting 	nightmaretimeinphase	0	
+[00:35:01]: setting 	precipitationrate	0.70147526264191	
+[00:35:01]: setting 	iswet	true	
+[00:35:01]: setting 	isnewmoon	false	
+[00:35:01]: setting 	israining	true	
+[00:35:01]: setting 	iswinter	false	
+[00:35:01]: setting 	isnightmarewarn	false	
+[00:35:01]: setting 	precipitation	rain	
+[00:35:01]: setting 	iscavewaxingmoon	false	
+[00:35:01]: setting 	isacidraining	false	
+[00:35:01]: setting 	moonphase	full	
+[00:35:01]: setting 	remainingdaysinseason	19	
+[00:35:01]: setting 	temperature	7.4250599985131	
+[00:35:01]: setting 	wetness	67.500694274902	
+[00:35:01]: setting 	cycles	246	
+[00:35:01]: setting 	moistureceil	2013.5621337891	
+[00:35:01]: setting 	isday	true	
+[00:35:01]: setting 	winterlength	15	
+[00:35:01]: setting 	season	spring	
+[00:35:01]: setting 	iswaxingmoon	false	
+[00:35:01]: setting 	isalterawake	true	
+[00:35:01]: setting 	isnightmarecalm	false	
+[00:35:01]: setting 	isnight	false	
+[00:35:01]: setting 	isdusk	false	
+[00:35:01]: setting 	isspring	true	
+[00:35:01]: setting 	isautumn	false	
+[00:35:01]: setting 	iscaveday	true	
+[00:35:01]: setting 	lunarhaillevel	0	
+[00:35:01]: setting 	pop	1	
+[00:35:01]: setting 	snowlevel	0	
+[00:35:01]: setting 	issnowcovered	false	
+[00:35:01]: setting 	autumnlength	20	
+[00:35:01]: setting 	phase	day	
+[00:35:01]: setting 	nightmaretime	0	
+[00:35:01]: setting 	issnowing	false	
+[00:35:01]: setting 	iscavedusk	false	
+[00:35:01]: setting 	nightmarephase	none	
+[00:35:01]: setting 	timeinphase	0.0068567911783854	
+[00:35:01]: setting 	seasonprogress	0.05	
+[00:35:01]: setting 	iscavenight	false	
+[00:35:01]: setting 	iscavenewmoon	false	
+[00:35:01]: setting 	issummer	false	
+[00:35:01]: setting 	cavephase	day	
+[00:35:01]: setting 	time	0.0021427472432455	
+[00:35:01]: Connected shards:	
+[00:35:01]: OVERRIDE: setting	ghostenabled	to	always	
+[00:35:01]: OVERRIDE: setting	resettime	to	none	
+[00:35:01]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:35:01]: OVERRIDE: setting	portalresurection	to	always	
+[00:35:01]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:35:01]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:35:03]: Could not find anim [idle_planted] in bank [ancienttree_nightvision]
+[00:35:05]: Reconstructing topology	
+[00:35:05]: 	...Sorting points	
+[00:35:05]: 	...Sorting edges	
+[00:35:05]: 	...Connecting nodes	
+[00:35:05]: 	...Validating connections	
+[00:35:05]: 	...Housekeeping	
+[00:35:05]: 	...Done!	
+[00:35:05]: in worldprefab postinit	
+[00:35:05]: [global position (CompleteSync)]The world is not newly created	
+[00:35:05]: [global position (CompleteSync)]The maprecorder is not empty.	
+[00:35:05]: Restoring user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000269	
+[00:35:05]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:35:05]: Restoring user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000269	
+[00:35:05]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:35:05]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:35:05]: [global position (CompleteSync)] now delete map info from user	
+[00:35:05]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000270
+[00:35:05]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:35:05]: [global position (CompleteSync)] now delete map info from user	
+[00:35:05]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000270
+[00:35:05]: 1 uploads added to server. From server_temp
+[00:35:05]: World 1720328666 is now connected	
+[00:35:05]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
+[00:35:05]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:35:05]: [IPC] Sending signal... #000000000000089C
+[00:35:05]: Telling Client our new session identifier: 44EC2868DDAD173E
+[00:35:05]: Check for write access: TRUE
+[00:35:05]: Check for read access: TRUE
+[00:35:05]: Available disk space for save files: 164415 MB
+[00:35:05]: ModIndex: Load sequence finished successfully.	
+[00:35:05]: Reset() returning
+[00:35:05]: Received resync request from client with no player
+[00:35:05]: [Shard] Secondary shard 'Caves(1720328666)' restarting...
+[00:35:05]: World 1720328666 is now disconnected	
+[00:35:05]: [global position (CompleteSync)] _restoredworldnumdirty current value	0	
+[00:35:05]: Validating portal[5] <-> 1720328666[5] (inactive)	
+[00:35:05]: Validating portal[7] <-> 1720328666[7] (inactive)	
+[00:35:05]: Validating portal[8] <-> 1720328666[8] (inactive)	
+[00:35:05]: Validating portal[1] <-> 1720328666[1] (inactive)	
+[00:35:05]: Validating portal[4] <-> 1720328666[4] (inactive)	
+[00:35:05]: Validating portal[10] <-> 1720328666[10] (inactive)	
+[00:35:05]: Validating portal[3] <-> 1720328666[3] (inactive)	
+[00:35:05]: Validating portal[6] <-> 1720328666[6] (inactive)	
+[00:35:05]: Validating portal[9] <-> 1720328666[9] (inactive)	
+[00:35:05]: Validating portal[2] <-> 1720328666[2] (inactive)	
+[00:35:05]: Sim paused
+[00:35:12]: [Shard] Secondary Caves(1720328666) ready!
+[00:35:12]: World 1720328666 is now connected	
+[00:35:12]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:35:12]: Validating portal[5] <-> 1720328666[5] (disabled)	
+[00:35:12]: Validating portal[7] <-> 1720328666[7] (active)	
+[00:35:12]: Validating portal[8] <-> 1720328666[8] (disabled)	
+[00:35:12]: Validating portal[1] <-> 1720328666[1] (disabled)	
+[00:35:12]: Validating portal[4] <-> 1720328666[4] (active)	
+[00:35:12]: Validating portal[10] <-> 1720328666[10] (disabled)	
+[00:35:12]: Validating portal[3] <-> 1720328666[3] (disabled)	
+[00:35:12]: Validating portal[6] <-> 1720328666[6] (disabled)	
+[00:35:12]: Validating portal[9] <-> 1720328666[9] (active)	
+[00:35:12]: Validating portal[2] <-> 1720328666[2] (active)	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option krampus = default to secondary shards.	
+[00:35:12]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[00:35:16]: Restarting player migration on master server
+[00:35:16]: [Shard] Read save location file for (KU_NSBnThNL)
+[00:35:16]: Resuming user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000270
+[00:35:16]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:35:16]: User ID	KU_NSBnThNL	assigned ownership to entity	122928 - wathgrithr	
+[00:35:16]: Spawning player at: [Load] (-333.13, 0.00, -14.71)	
+[00:35:16]: Sim unpaused
+[00:35:16]: [global position (CompleteSync)]Player joined	
+[00:35:16]: [global position (CompleteSync)] learning from buffer	
+[00:35:16]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:35:16]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:35:17]: [global position (CompleteSync)] succeed	
+[00:35:18]: Restarting player migration on master server
+[00:35:18]: [Shard] Read save location file for (KU_Qvt-jPlq)
+[00:35:18]: Resuming user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000270
+[00:35:18]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:35:18]: User ID	KU_Qvt-jPlq	assigned ownership to entity	123004 - wolfgang	
+[00:35:18]: Spawning player at: [Load] (-327.67, 0.00, -22.98)	
+[00:35:18]: [global position (CompleteSync)]Player joined	
+[00:35:18]: [global position (CompleteSync)] saving to buffer	
+[00:35:18]: [global position (CompleteSync)] success to saving to buffer	
+[00:35:18]: [global position (CompleteSync)] learning from buffer	
+[00:35:18]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:35:19]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:35:19]: [global position (CompleteSync)] succeed	
+[00:36:46]: Could not find anim [death] in bank [ghost]
+[00:36:46]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:36:46]: [global position (CompleteSync)] now delete map info from user	
+[00:36:46]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000270
+[00:36:52]: Server Paused	
+[00:37:00]: Server Unpaused	
+[00:37:02]: KU_NSBnThNL	running text command:	rollback	true	
+[00:37:07]: Received world rollback request: count=1	
+[00:37:07]: Truncating to snapshot #269...
+[00:37:07]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000270
+[00:37:07]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000270
+[00:37:07]:    2 file(s) removed
+[00:37:08]: Collecting garbage...
+[00:37:08]: lua_gc took 0.26 seconds
+[00:37:08]: ~ShardLuaProxy()
+[00:37:08]: ~cEventLeaderboardProxy()
+[00:37:08]: ~ItemServerLuaProxy()
+[00:37:08]: ~InventoryLuaProxy()
+[00:37:08]: ~NetworkLuaProxy()
+[00:37:08]: ~SimLuaProxy()
+[00:37:08]: lua_close took 0.35 seconds
+[00:37:08]: ReleaseAll
+[00:37:08]: ReleaseAll Finished
+[00:37:08]: cGame::StartPlaying
+[00:37:08]: AppVersion::GetArchitecture() x64
+[00:37:08]: LOADING LUA
+[00:37:08]: DoLuaFile scripts/main.lua
+[00:37:08]: DoLuaFile loading buffer scripts/main.lua
+[00:37:08]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:37:10]:   taskgrouplist:	default	联机版	
+[00:37:10]:   taskgrouplist:	classic	经典	
+[00:37:10]:   taskgrouplist:	cave_default	地下	
+[00:37:10]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:37:10]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:37:10]: Running main.lua
+	
+[00:37:10]: loaded modindex	
+[00:37:10]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:37:10]: SUCCESS: Loaded modoverrides.lua	
+[00:37:10]: modoverrides.lua enabling workshop-2287303119	
+[00:37:10]: modoverrides.lua enabling workshop-1185229307	
+[00:37:10]: modoverrides.lua enabling workshop-3138571948	
+[00:37:10]: modoverrides.lua enabling workshop-1216718131	
+[00:37:10]: modoverrides.lua enabling workshop-1898292532	
+[00:37:10]: modoverrides.lua enabling workshop-3092317730	
+[00:37:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:37:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:37:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:37:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:37:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:37:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:37:10]: Could not load mod_config_data/modconfiguration_workshop-1216718131	
+[00:37:10]: Loading mod: workshop-1216718131 (防卡两招(Antistun)) Version:1.0.7	
+[00:37:10]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:37:10]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.7	
+[00:37:10]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:37:10]: Loading mod: workshop-1185229307 (史诗血量条) Version:98	
+[00:37:10]: Could not load mod_config_data/modconfiguration_workshop-3138571948	
+[00:37:10]: Loading mod: workshop-3138571948 (全图定位(完全同步)) Version:2.4.0	
+[00:37:10]: Could not load mod_config_data/modconfiguration_workshop-1898292532	
+[00:37:10]: Loading mod: workshop-1898292532 (Tips) Version:1.6.6	
+[00:37:10]: Could not load mod_config_data/modconfiguration_workshop-3092317730	
+[00:37:10]: Loading mod: workshop-3092317730 (Combined Status) Version:1.9.1d	
+[00:37:10]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:37:10]: Overriding mod workshop-2287303119's option  with value 0	
+[00:37:10]: Overriding mod workshop-2287303119's option  with value 0	
+[00:37:10]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:37:10]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:37:10]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:37:10]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:37:10]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:37:10]: Overriding mod workshop-2287303119's option Show_range with value true	
+[00:37:10]: Overriding mod workshop-2287303119's option show_planar_resist with value true	
+[00:37:10]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:37:10]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:37:10]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:37:10]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:37:10]: Overriding mod workshop-2287303119's option Show_naughtiness with value true	
+[00:37:10]: Overriding mod workshop-2287303119's option show_fueled with value 3	
+[00:37:10]: Overriding mod workshop-2287303119's option show_fuel with value true	
+[00:37:10]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:37:10]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:37:10]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:37:10]: Overriding mod workshop-2287303119's option lang with value auto	
+[00:37:10]: Overriding mod workshop-2287303119's option show_nutrients with value 1	
+[00:37:10]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:37:10]: Overriding mod workshop-1185229307's option CAPTURE with value false	
+[00:37:10]: Overriding mod workshop-1185229307's option CAMERA with value true	
+[00:37:10]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:37:10]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:37:10]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:37:10]: Overriding mod workshop-1185229307's option GLOBAL with value false	
+[00:37:10]: Overriding mod workshop-1185229307's option TAG with value EPIC	
+[00:37:10]: Overriding mod workshop-1185229307's option HEADER_SERVER with value false	
+[00:37:10]: Overriding mod workshop-1185229307's option TRANSLATOR with value false	
+[00:37:10]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:37:10]: Overriding mod workshop-1185229307's option GLOBAL_NUMBERS with value false	
+[00:37:10]: Overriding mod workshop-1185229307's option HEADER_CLIENT with value false	
+[00:37:10]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:37:10]: applying configuration_options from modoverrides.lua to mod workshop-3138571948	
+[00:37:10]: Overriding mod workshop-3138571948's option remove_maprevealer_tag with value false	
+[00:37:10]: Overriding mod workshop-3138571948's option GLOBAL_COURIER with value true	
+[00:37:10]: Overriding mod workshop-3138571948's option OVERRIDEMODE with value false	
+[00:37:10]: Overriding mod workshop-3138571948's option FIREOPTIONS with value 2	
+[00:37:10]: Overriding mod workshop-3138571948's option UPDADTEFREQUENCY with value 0.5	
+[00:37:10]: Overriding mod workshop-3138571948's option ENABLEPINGS with value true	
+[00:37:10]: Overriding mod workshop-3138571948's option disable_fogrevealer with value false	
+[00:37:10]: Overriding mod workshop-3138571948's option REMOVE_GHOST_ICONS with value true	
+[00:37:10]: Overriding mod workshop-3138571948's option use_optimizer with value false	
+[00:37:10]: Overriding mod workshop-3138571948's option optimization_tile with value 0	
+[00:37:10]: Overriding mod workshop-3138571948's option lang with value auto	
+[00:37:10]: Overriding mod workshop-3138571948's option Space1 with value 0	
+[00:37:10]: Overriding mod workshop-3138571948's option SHAREMINIMAPPROGRESS with value true	
+[00:37:10]: Overriding mod workshop-3138571948's option SHOWPLAYERICONS with value true	
+[00:37:10]: Overriding mod workshop-3138571948's option SHOWFIREICONS with value true	
+[00:37:10]: Overriding mod workshop-3138571948's option SHOWPLAYERSOPTIONS with value 2	
+[00:37:10]: Overriding mod workshop-3138571948's option COMPLETESYNC with value true	
+[00:37:10]: applying configuration_options from modoverrides.lua to mod workshop-1216718131	
+[00:37:10]: Overriding mod workshop-1216718131's option stack with value true	
+[00:37:10]: Overriding mod workshop-1216718131's option lang with value true	
+[00:37:10]: Overriding mod workshop-1216718131's option clean with value true	
+[00:37:10]: applying configuration_options from modoverrides.lua to mod workshop-1898292532	
+[00:37:10]: Overriding mod workshop-1898292532's option atrium_gate with value false	
+[00:37:10]: Overriding mod workshop-1898292532's option antlion with value true	
+[00:37:10]: Overriding mod workshop-1898292532's option bearger with value true	
+[00:37:10]: Overriding mod workshop-1898292532's option daywalker with value false	
+[00:37:10]: Overriding mod workshop-1898292532's option beequeenhive with value false	
+[00:37:10]: Overriding mod workshop-1898292532's option crabking with value false	
+[00:37:10]: Overriding mod workshop-1898292532's option klaus_sack with value false	
+[00:37:10]: Overriding mod workshop-1898292532's option daywalker2 with value false	
+[00:37:10]: Overriding mod workshop-1898292532's option dragonfly with value false	
+[00:37:10]: Overriding mod workshop-1898292532's option deerclops with value true	
+[00:37:10]: Overriding mod workshop-1898292532's option wagboss_robot with value false	
+[00:37:10]: Overriding mod workshop-1898292532's option toadstool with value false	
+[00:37:10]: Overriding mod workshop-1898292532's option hound with value true	
+[00:37:10]: Overriding mod workshop-1898292532's option lunarrift_portal with value true	
+[00:37:10]: Overriding mod workshop-1898292532's option tips_method with value 1	
+[00:37:10]: Overriding mod workshop-1898292532's option prime_mate with value true	
+[00:37:10]: Overriding mod workshop-1898292532's option malbatross with value false	
+[00:37:10]: applying configuration_options from modoverrides.lua to mod workshop-3092317730	
+[00:37:10]: Overriding mod workshop-3092317730's option SHOWTEMPBADGES with value true	
+[00:37:10]: Overriding mod workshop-3092317730's option SHOWBEAVERNESS with value true	
+[00:37:10]: Overriding mod workshop-3092317730's option UNIT with value T	
+[00:37:10]: Overriding mod workshop-3092317730's option SHOWWORLDTEMP with value false	
+[00:37:10]: Overriding mod workshop-3092317730's option SHOWMOON with value 1	
+[00:37:10]: Overriding mod workshop-3092317730's option SHOWWANINGMOON with value true	
+[00:37:10]: Overriding mod workshop-3092317730's option FLIPMOON with value false	
+[00:37:10]: Overriding mod workshop-3092317730's option SEASONOPTIONS with value Clock	
+[00:37:10]: Overriding mod workshop-3092317730's option SHOWSTATNUMBERS with value true	
+[00:37:10]: Overriding mod workshop-3092317730's option HUDSCALEFACTOR with value 100	
+[00:37:10]: Overriding mod workshop-3092317730's option SHOWCLOCKTEXT with value true	
+[00:37:10]: Overriding mod workshop-3092317730's option HIDECAVECLOCK with value false	
+[00:37:10]: Overriding mod workshop-3092317730's option SHOWTEMPERATURE with value true	
+[00:37:10]: Overriding mod workshop-3092317730's option SHOWNEXTFULLMOON with value true	
+[00:37:10]: Overriding mod workshop-3092317730's option SHOWNAUGHTINESS with value true	
+[00:37:10]: Overriding mod workshop-3092317730's option SHOWMAXONNUMBERS with value true	
+[00:37:10]: Mod: workshop-1185229307 (史诗血量条)	Loading modworldgenmain.lua	
+[00:37:10]: Mod: workshop-1185229307 (史诗血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:37:10]: Mod: workshop-1185229307 (史诗血量条)	Loading modmain.lua	
+[00:37:10]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:37:10]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:37:10]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:37:10]: ShowMe version:	0.59.9.7	
+[00:37:10]: show_food_units	-1	-1	-1	
+[00:37:10]: show_uses	-1	-1	-1	
+[00:37:10]: Detected language for ShowMe: 	auto	zh	
+[00:37:10]: modimport: ../mods/workshop-2287303119/scripts/showme_range_indicators.lua	
+[00:37:10]: modimport: ../mods/workshop-2287303119/scripts/showme_naughtiness.lua	
+[00:37:10]: Mod: workshop-3092317730 (Combined Status)	Loading modworldgenmain.lua	
+[00:37:10]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:37:10]: Mod: workshop-3092317730 (Combined Status)	Loading modmain.lua	
+[00:37:10]: Mod: workshop-1898292532 (Tips)	Loading modworldgenmain.lua	
+[00:37:10]: Mod: workshop-1898292532 (Tips)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:37:10]: Mod: workshop-1898292532 (Tips)	Loading modmain.lua	
+[00:37:10]: modimport: ../mods/workshop-1898292532/common	
+[00:37:10]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modworldgenmain.lua	
+[00:37:10]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:37:10]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modmain.lua	
+[00:37:10]: modimport: ../mods/workshop-1216718131/scripts/stack.lua	
+[00:37:10]: modimport: ../mods/workshop-1216718131/scripts/clean.lua	
+[00:37:10]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modworldgenmain.lua	
+[00:37:10]: Mod: workshop-3138571948 (全图定位(完全同步))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:37:10]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modmain.lua	
+[00:37:10]: [global position (CompleteSync)] This is a new version without GemCore	
+[00:37:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:37:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:37:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:37:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:37:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:37:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:37:10]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:37:10]: LOADING LUA SUCCESS
+[00:37:10]: Registering Server mod namespace "globalpositioncompletesync"
+[00:37:10]: Registering Server mod namespace "showmeshint"
+[00:37:10]: Registering Server mod namespace "tips"
+[00:37:10]: Registering Server mod namespace "showme"
+[00:37:10]: Registering Client mod namespace "workshop-1185229307"
+[00:37:10]: Registering Shard mod namespace "globalpositioncompletesync"
+[00:37:10]: PlayerDeaths could not load morgue	
+[00:37:10]: PlayerHistory could not load player_history	
+[00:37:10]: ServerPreferences could not load server_preferences	
+[00:37:10]: ConsoleScreenSettings could not load consolescreen	
+[00:37:10]: bloom_enabled	true	
+[00:37:10]: OnFilesLoaded()	
+[00:37:10]: OnUpdatePurchaseStateComplete	
+[00:37:10]: Loading world: session/44EC2868DDAD173E/0000000269	
+[00:37:10]: Save file is at version 5.156	
+[00:37:10]: Klump load on boot started.	
+[00:37:10]: Klump files loaded: 	0	
+[00:37:10]: 	Unload characters	
+[00:37:10]: 	BE assets already loaded	
+[00:37:11]: Mod: workshop-1185229307 (史诗血量条)	Registering prefabs	
+[00:37:11]: Mod: workshop-1185229307 (史诗血量条)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:37:11]: Mod: workshop-1185229307 (史诗血量条)	    epichealth_proxy	
+[00:37:11]: Mod: workshop-1185229307 (史诗血量条)	  Registering default mod prefab	
+[00:37:11]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:37:11]: Mod: workshop-2287303119 (Show Me (中文))	  Registering prefab file: prefabs/showme_range	
+[00:37:11]: Mod: workshop-2287303119 (Show Me (中文))	    lhr_range_indicator	
+[00:37:11]: Mod: workshop-2287303119 (Show Me (中文))	    ocep_range_indicator	
+[00:37:11]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:37:11]: Mod: workshop-3092317730 (Combined Status)	Registering prefabs	
+[00:37:11]: Mod: workshop-3092317730 (Combined Status)	  Registering default mod prefab	
+[00:37:11]: Mod: workshop-1898292532 (Tips)	Registering prefabs	
+[00:37:11]: Mod: workshop-1898292532 (Tips)	  Registering default mod prefab	
+[00:37:11]: Mod: workshop-1216718131 (防卡两招(Antistun))	Registering prefabs	
+[00:37:11]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Registering default mod prefab	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	Registering prefabs	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalposition_classified	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalposition_classified	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/smoketrail	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	    smoketrail	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalmapicon_noproxy	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/pings	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_generic	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_omw	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_danger	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_explore	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_gohere	
+[00:37:11]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering default mod prefab	
+[00:37:11]: Begin Session: 44EC2868DDAD173E
+[00:37:11]: Stomping previously assigned session identifier, two loads issued.
+[00:37:11]: saving to server_temp/server_save	
+[00:37:11]: OVERRIDE: setting	healthpenalty	to	always	
+[00:37:11]: OVERRIDE: setting	wanderingtrader_enabled	to	always	
+[00:37:11]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:37:11]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:37:11]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:37:11]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/campfire.xml )
+[00:37:11]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_generic.xml )
+[00:37:11]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_gohere.xml )
+[00:37:11]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_explore.xml )
+[00:37:11]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_danger.xml )
+[00:37:11]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_omw.xml )
+[00:37:11]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/beef_bell_linked.xml )
+[00:37:11]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/shadow_beef_bell_linked.xml )
+[00:37:11]: OLD[global position (CompleteSync)]The maprecorder is empty, are you starting a new game or adding this mod to old game?	
+[00:37:11]: Loading 19 new character(s)	
+[00:37:11]: Total 19 character(s) loaded	
+[00:37:11]: Loading Nav Grid	
+[00:37:11]: World generated on build 677386 with save version: 5.156, using seed: 421389217	
+[00:37:11]: setting 	summerlength	15	
+[00:37:11]: setting 	cavemoonphase	full	
+[00:37:11]: setting 	iscavefullmoon	false	
+[00:37:11]: setting 	isnightmaredawn	false	
+[00:37:11]: setting 	elapseddaysinseason	1	
+[00:37:11]: setting 	isfullmoon	false	
+[00:37:11]: setting 	moisture	705.81390380859	
+[00:37:11]: setting 	springlength	20	
+[00:37:11]: setting 	islunarhailing	false	
+[00:37:11]: setting 	isnightmarewild	false	
+[00:37:11]: setting 	nightmaretimeinphase	0	
+[00:37:11]: setting 	precipitationrate	0.70147526264191	
+[00:37:11]: setting 	iswet	true	
+[00:37:11]: setting 	isnewmoon	false	
+[00:37:11]: setting 	israining	true	
+[00:37:11]: setting 	iswinter	false	
+[00:37:11]: setting 	isnightmarewarn	false	
+[00:37:11]: setting 	precipitation	rain	
+[00:37:11]: setting 	iscavewaxingmoon	false	
+[00:37:11]: setting 	isacidraining	false	
+[00:37:11]: setting 	moonphase	full	
+[00:37:11]: setting 	remainingdaysinseason	19	
+[00:37:11]: setting 	temperature	7.4250599985131	
+[00:37:11]: setting 	wetness	67.500694274902	
+[00:37:11]: setting 	cycles	246	
+[00:37:11]: setting 	moistureceil	2013.5621337891	
+[00:37:11]: setting 	isday	true	
+[00:37:11]: setting 	winterlength	15	
+[00:37:11]: setting 	season	spring	
+[00:37:11]: setting 	iswaxingmoon	false	
+[00:37:11]: setting 	isalterawake	true	
+[00:37:11]: setting 	isnightmarecalm	false	
+[00:37:11]: setting 	isnight	false	
+[00:37:11]: setting 	isdusk	false	
+[00:37:11]: setting 	isspring	true	
+[00:37:11]: setting 	isautumn	false	
+[00:37:11]: setting 	iscaveday	true	
+[00:37:11]: setting 	lunarhaillevel	0	
+[00:37:11]: setting 	pop	1	
+[00:37:11]: setting 	snowlevel	0	
+[00:37:11]: setting 	issnowcovered	false	
+[00:37:11]: setting 	autumnlength	20	
+[00:37:11]: setting 	phase	day	
+[00:37:11]: setting 	nightmaretime	0	
+[00:37:11]: setting 	issnowing	false	
+[00:37:11]: setting 	iscavedusk	false	
+[00:37:11]: setting 	nightmarephase	none	
+[00:37:11]: setting 	timeinphase	0.0068567911783854	
+[00:37:11]: setting 	seasonprogress	0.05	
+[00:37:11]: setting 	iscavenight	false	
+[00:37:11]: setting 	iscavenewmoon	false	
+[00:37:11]: setting 	issummer	false	
+[00:37:11]: setting 	cavephase	day	
+[00:37:11]: setting 	time	0.0021427472432455	
+[00:37:11]: Connected shards:	
+[00:37:11]: OVERRIDE: setting	ghostenabled	to	always	
+[00:37:11]: OVERRIDE: setting	resettime	to	none	
+[00:37:11]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:37:11]: OVERRIDE: setting	portalresurection	to	always	
+[00:37:11]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:37:11]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:37:13]: Could not find anim [idle_planted] in bank [ancienttree_nightvision]
+[00:37:15]: Reconstructing topology	
+[00:37:15]: 	...Sorting points	
+[00:37:15]: 	...Sorting edges	
+[00:37:15]: 	...Connecting nodes	
+[00:37:15]: 	...Validating connections	
+[00:37:15]: 	...Housekeeping	
+[00:37:15]: 	...Done!	
+[00:37:15]: in worldprefab postinit	
+[00:37:15]: [global position (CompleteSync)]The world is not newly created	
+[00:37:15]: [global position (CompleteSync)]The maprecorder is not empty.	
+[00:37:15]: Restoring user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000269	
+[00:37:15]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:37:15]: Restoring user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000269	
+[00:37:15]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:37:15]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:37:15]: [global position (CompleteSync)] now delete map info from user	
+[00:37:15]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000270
+[00:37:15]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:37:15]: [global position (CompleteSync)] now delete map info from user	
+[00:37:15]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000270
+[00:37:15]: 1 uploads added to server. From server_temp
+[00:37:15]: World 1720328666 is now connected	
+[00:37:15]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
+[00:37:15]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:37:15]: [IPC] Sending signal... #000000000000089C
+[00:37:15]: Telling Client our new session identifier: 44EC2868DDAD173E
+[00:37:15]: Check for write access: TRUE
+[00:37:15]: Check for read access: TRUE
+[00:37:15]: Available disk space for save files: 164423 MB
+[00:37:15]: ModIndex: Load sequence finished successfully.	
+[00:37:15]: Reset() returning
+[00:37:15]: [Shard] Secondary shard 'Caves(1720328666)' restarting...
+[00:37:15]: World 1720328666 is now disconnected	
+[00:37:15]: [global position (CompleteSync)] _restoredworldnumdirty current value	0	
+[00:37:15]: Validating portal[3] <-> 1720328666[3] (inactive)	
+[00:37:15]: Validating portal[9] <-> 1720328666[9] (inactive)	
+[00:37:15]: Validating portal[5] <-> 1720328666[5] (inactive)	
+[00:37:15]: Validating portal[8] <-> 1720328666[8] (inactive)	
+[00:37:15]: Validating portal[1] <-> 1720328666[1] (inactive)	
+[00:37:15]: Validating portal[7] <-> 1720328666[7] (inactive)	
+[00:37:15]: Validating portal[10] <-> 1720328666[10] (inactive)	
+[00:37:15]: Validating portal[6] <-> 1720328666[6] (inactive)	
+[00:37:15]: Validating portal[2] <-> 1720328666[2] (inactive)	
+[00:37:15]: Validating portal[4] <-> 1720328666[4] (inactive)	
+[00:37:16]: Sim paused
+[00:37:22]: [Shard] Secondary Caves(1720328666) ready!
+[00:37:22]: World 1720328666 is now connected	
+[00:37:22]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:37:22]: Validating portal[3] <-> 1720328666[3] (disabled)	
+[00:37:22]: Validating portal[9] <-> 1720328666[9] (active)	
+[00:37:22]: Validating portal[5] <-> 1720328666[5] (disabled)	
+[00:37:22]: Validating portal[8] <-> 1720328666[8] (disabled)	
+[00:37:22]: Validating portal[1] <-> 1720328666[1] (disabled)	
+[00:37:22]: Validating portal[7] <-> 1720328666[7] (active)	
+[00:37:22]: Validating portal[10] <-> 1720328666[10] (disabled)	
+[00:37:22]: Validating portal[6] <-> 1720328666[6] (disabled)	
+[00:37:22]: Validating portal[2] <-> 1720328666[2] (active)	
+[00:37:22]: Validating portal[4] <-> 1720328666[4] (active)	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option krampus = default to secondary shards.	
+[00:37:22]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[00:37:25]: Restarting player migration on master server
+[00:37:25]: [Shard] Read save location file for (KU_NSBnThNL)
+[00:37:25]: Resuming user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000270
+[00:37:25]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:37:25]: User ID	KU_NSBnThNL	assigned ownership to entity	122929 - wathgrithr	
+[00:37:25]: Spawning player at: [Load] (-333.13, 0.00, -14.71)	
+[00:37:25]: Sim unpaused
+[00:37:25]: [global position (CompleteSync)]Player joined	
+[00:37:25]: [global position (CompleteSync)] learning from buffer	
+[00:37:25]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:37:26]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:37:26]: [global position (CompleteSync)] succeed	
+[00:37:28]: Restarting player migration on master server
+[00:37:28]: [Shard] Read save location file for (KU_Qvt-jPlq)
+[00:37:28]: Resuming user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000270
+[00:37:28]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:37:28]: User ID	KU_Qvt-jPlq	assigned ownership to entity	123003 - wolfgang	
+[00:37:28]: Spawning player at: [Load] (-327.67, 0.00, -22.98)	
+[00:37:28]: [global position (CompleteSync)]Player joined	
+[00:37:28]: [global position (CompleteSync)] saving to buffer	
+[00:37:28]: [global position (CompleteSync)] success to saving to buffer	
+[00:37:28]: [global position (CompleteSync)] learning from buffer	
+[00:37:28]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:37:28]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:37:29]: [global position (CompleteSync)] succeed	
+[00:37:30]: Server Paused	
+[01:00:07]: [200] Account Communication Success (6)
+[01:00:07]: Received (KU_NSBnThNL) from TokenPurpose
+[01:18:19]: [global position (CompleteSync)]Player despawned	
+[01:18:19]: [global position (CompleteSync)] saving to buffer	
+[01:18:19]: [global position (CompleteSync)] success to saving to buffer	
+[01:18:19]: [Steam] SendUserDisconnect for '76561199630456084'
+[01:18:19]: [Shard] (KU_NSBnThNL) disconnected from [SHDMASTER](1)
+[01:18:19]: Server Unpaused	
+[01:18:19]: [IPC] Received shutdown signal.
+[01:18:19]: Available disk space for save files: 164435 MB
+[01:18:20]: [global position (CompleteSync)] saving to buffer	
+[01:18:20]: [global position (CompleteSync)] success to saving to buffer	
+[01:18:20]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:18:20]: [global position (CompleteSync)] now delete map info from user	
+[01:18:20]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000270
+[01:18:20]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:18:20]: [global position (CompleteSync)] now delete map info from user	
+[01:18:20]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000270
+[01:18:20]: Serializing world: session/44EC2868DDAD173E/0000000270
+[01:18:20]: Truncating to snapshot #270...
+[01:18:20]:  - session/44EC2868DDAD173E/0000000264
+[01:18:20]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000264
+[01:18:20]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000264
+[01:18:20]:    3 file(s) removed
+[01:18:20]: Removing server from lobby
+[01:18:20]: [Shard] Stopping shard mode
+[01:18:20]: [Steam] SendUserDisconnect for ''
+[01:18:20]: [global position (CompleteSync)]Player despawned	
+[01:18:20]: [global position (CompleteSync)] saving to buffer	
+[01:18:20]: [global position (CompleteSync)] success to saving to buffer	
+[01:18:20]: [Steam] SendUserDisconnect for '76561198812174063'
+[01:18:20]: Collecting garbage...
+[01:18:20]: lua_gc took 0.27 seconds
+[01:18:21]: ~ShardLuaProxy()
+[01:18:21]: ~cEventLeaderboardProxy()
+[01:18:21]: ~ItemServerLuaProxy()
+[01:18:21]: ~InventoryLuaProxy()
+[01:18:21]: ~NetworkLuaProxy()
+[01:18:21]: ~SimLuaProxy()
+[01:18:21]: lua_close took 0.35 seconds
+[01:18:21]: CurlRequestManager::ClientThread::Main() complete
+[01:18:21]: HttpClient2 discarded 0 callbacks.
+[01:18:21]: Shutting down

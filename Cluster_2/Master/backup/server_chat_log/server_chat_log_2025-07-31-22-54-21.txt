@@ -1,0 +1,16 @@
+[00:00:44]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:09]: [Join Announcement] Readamancy
+[00:02:10]: [Join Announcement] King Jong-un
+[00:03:55]: [Join Announcement] Superboy
+[00:13:20]: [Death Announcement] Readamancy 死于： 洞穴蠕虫。他变成了可怕的鬼魂！
+[00:13:47]: [Resurrect Announcement] Readamancy 复活自： 重生护符.
+[00:17:39]: [Death Announcement] 王好爱吃麻包蛋 死于： 洞穴蠕虫。她变成了可怕的鬼魂！
+[00:18:13]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 重生护符.
+[00:31:07]: [Death Announcement] Readamancy 死于： 黑暗。他变成了可怕的鬼魂！
+[00:32:10]: [Death Announcement] Superboy 死于： 梦魇尖喙。她变成了可怕的鬼魂！
+[00:32:27]: [Death Announcement] 王好爱吃麻包蛋 死于： 爬行恐惧。她变成了可怕的鬼魂！
+[00:32:44]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 重生护符.
+[00:34:25]: [Death Announcement] King Jong-un 死于： 大虚影。他变成了可怕的鬼魂！
+[00:34:41]: [Vote Announcement] rollback passed
+[00:35:03]: [Vote Announcement] rollback passed
+[00:36:06]: [Leave Announcement] 王好爱吃麻包蛋

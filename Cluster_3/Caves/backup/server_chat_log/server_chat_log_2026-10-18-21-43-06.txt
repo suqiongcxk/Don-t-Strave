@@ -1,0 +1,9 @@
+[00:01:40]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:29]: [Join Announcement] King Jong-un
+[00:03:16]: [Join Announcement] Readamancy
+[00:14:19]: [Death Announcement] 王好爱吃麻包蛋 死于： 小虚影。他变成了可怕的鬼魂！
+[00:16:10]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： Readamancy.
+[00:21:44]: [Death Announcement] 王好爱吃麻包蛋 死于： 大虚影。他变成了可怕的鬼魂！
+[00:23:39]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： Readamancy.
+[00:31:20]: [Skin Announcement] 王好爱吃麻包蛋 body_trimmed_blouse_red_higgsbury
+[00:37:18]: [Leave Announcement] 王好爱吃麻包蛋

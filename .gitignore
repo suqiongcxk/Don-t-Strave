@@ -1,0 +1,7 @@
+# 不影响存档恢复的临时文件
+CloudSaves/
+client_save/inventory_cache_prod
+client_save/inventory_cache_prod_sig
+client_save/ping_cache
+Cluster_*/Master/server_log.txt
+Cluster_*/Caves/server_log.txt

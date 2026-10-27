@@ -1,0 +1,6 @@
+[00:01:08]: [Join Announcement] 王好爱吃麻包蛋
+[00:34:45]: [Death Announcement] 王好爱吃麻包蛋 死于： 钻地藤蔓。他变成了可怕的鬼魂！
+[00:45:04]: [Join Announcement] King Jong-un
+[00:47:39]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： King Jong-un.
+[00:48:54]: [Leave Announcement] King Jong-un
+[00:53:49]: [Leave Announcement] 王好爱吃麻包蛋

@@ -1,0 +1,7 @@
+[00:00:51]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:15]: [Join Announcement] Readamancy
+[00:51:58]: [Skin Announcement] 王好爱吃麻包蛋 legs_checkered_pleats_blue_cornflower
+[01:56:02]: [Death Announcement] 王好爱吃麻包蛋 死于： 蜘蛛战士。他变成了可怕的鬼魂！
+[01:57:26]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： Readamancy.
+[02:12:45]: [Leave Announcement] Readamancy
+[03:37:37]: [Leave Announcement] 王好爱吃麻包蛋

@@ -1,0 +1,10 @@
+[00:01:04]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:23]: [Join Announcement] King Jong-un
+[00:02:51]: [Death Announcement] 王好爱吃麻包蛋 死于： 洞穴蠕虫。他变成了可怕的鬼魂！
+[00:02:57]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 恶作剧.
+[00:14:19]: [Skin Announcement] 王好爱吃麻包蛋 body_polo_green_pistachio
+[00:21:20]: [Death Announcement] 王好爱吃麻包蛋 死于： 嗡嗡蜜蜂。他变成了可怕的鬼魂！
+[00:22:26]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 恶作剧.
+[00:22:47]: [Death Announcement] 王好爱吃麻包蛋 死于： 嗡嗡蜜蜂。他变成了可怕的鬼魂！
+[00:23:11]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 恶作剧.
+[00:32:01]: [Skin Announcement] King Jong-un legs_pants_basic_black_scribble

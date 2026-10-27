@@ -1,0 +1,4 @@
+[00:00:46]: [Join Announcement] 王好爱吃麻包蛋
+[00:01:38]: [Join Announcement] Readamancy
+[00:30:30]: [Death Announcement] 王好爱吃麻包蛋 死于： 梦魇疯猪。他变成了可怕的鬼魂！
+[00:31:26]: [Leave Announcement] 王好爱吃麻包蛋

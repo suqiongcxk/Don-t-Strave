@@ -1,0 +1,4 @@
+[00:00:42]: [Join Announcement] 王好爱吃麻包蛋
+[00:01:35]: [Join Announcement] Readamancy
+[00:17:10]: [Leave Announcement] Readamancy
+[01:43:29]: [Leave Announcement] 王好爱吃麻包蛋

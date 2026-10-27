@@ -1,0 +1,17 @@
+[00:01:28]: [Join Announcement] 王好爱吃麻包蛋
+[00:03:01]: [Death Announcement] 王好爱吃麻包蛋 死于： 钻地藤蔓。他变成了可怕的鬼魂！
+[00:05:06]: [Join Announcement] King Jong-un
+[00:06:38]: [Death Announcement] King Jong-un 死于： 致命亮茄。它变成了可怕的鬼魂！
+[00:09:41]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 恶作剧.
+[00:09:41]: [Resurrect Announcement] King Jong-un 复活自： 恶作剧.
+[00:09:47]: [Death Announcement] 王好爱吃麻包蛋 死于： 钻地藤蔓。他变成了可怕的鬼魂！
+[00:16:13]: [Death Announcement] King Jong-un 死于： 钻地藤蔓。它变成了可怕的鬼魂！
+[00:16:24]: [Resurrect Announcement] King Jong-un 复活自： 恶作剧.
+[00:16:24]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 恶作剧.
+[00:16:32]: [Death Announcement] 王好爱吃麻包蛋 死于： 钻地藤蔓。他变成了可怕的鬼魂！
+[00:16:40]: [Death Announcement] King Jong-un 死于： 钻地藤蔓。它变成了可怕的鬼魂！
+[00:16:54]: [Vote Announcement] rollback passed
+[00:18:24]: [Death Announcement] King Jong-un 死于： 水晶冠秃鹫。它变成了可怕的鬼魂！
+[00:18:35]: [Vote Announcement] rollback passed
+[00:33:49]: [Leave Announcement] King Jong-un
+[00:33:50]: [Leave Announcement] 王好爱吃麻包蛋

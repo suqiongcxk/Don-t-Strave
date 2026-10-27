@@ -1,0 +1,43 @@
+[00:00:42]: [Join Announcement] 王好爱吃麻包蛋
+[00:03:07]: [Join Announcement] Superboy
+[00:04:18]: [Join Announcement] King Jong-un
+[00:13:03]: [Death Announcement] 王好爱吃麻包蛋 死于： 天体英雄。她变成了可怕的鬼魂！
+[00:13:16]: [Vote Announcement] rollback passed
+[00:20:23]: [Death Announcement] 王好爱吃麻包蛋 死于： 天体英雄。她变成了可怕的鬼魂！
+[00:20:44]: [Death Announcement] Superboy 死于： 天体英雄。她变成了可怕的鬼魂！
+[00:21:28]: [Death Announcement] King Jong-un 死于： 小虚影。他变成了可怕的鬼魂！
+[00:21:36]: [Vote Announcement] rollback passed
+[00:28:13]: [Death Announcement] Superboy 死于： 天体英雄。她变成了可怕的鬼魂！
+[00:30:04]: [Death Announcement] 王好爱吃麻包蛋 死于： 天体英雄。她变成了可怕的鬼魂！
+[00:31:30]: [Death Announcement] King Jong-un 死于： 小虚影。他变成了可怕的鬼魂！
+[00:31:35]: [Vote Announcement] rollback passed
+[00:32:02]: [Death Announcement] 王好爱吃麻包蛋 死于： 恶作剧。她变成了可怕的鬼魂！
+[00:33:53]: [Death Announcement] King Jong-un 死于： 小虚影。他变成了可怕的鬼魂！
+[00:33:59]: [Vote Announcement] rollback passed
+[00:34:30]: [Death Announcement] 王好爱吃麻包蛋 死于： 恶作剧。她变成了可怕的鬼魂！
+[00:39:13]: [Death Announcement] King Jong-un 死于： 大虚影。他变成了可怕的鬼魂！
+[00:39:17]: [Vote Announcement] rollback passed
+[00:39:49]: [Death Announcement] 王好爱吃麻包蛋 死于： 恶作剧。她变成了可怕的鬼魂！
+[00:42:45]: [Death Announcement] King Jong-un 死于： 天体英雄。他变成了可怕的鬼魂！
+[00:42:52]: [Vote Announcement] rollback passed
+[00:43:21]: [Death Announcement] 王好爱吃麻包蛋 死于： 恶作剧。她变成了可怕的鬼魂！
+[00:43:25]: [Vote Announcement] rollback passed
+[00:44:02]: [Kick Announcement] Superboy
+[00:50:57]: [Announcement] 这将是一个恐怖之夜……
+[00:51:07]: [Announcement] 双子魔眼盯上了王好爱吃麻包蛋
+[00:58:09]: [Death Announcement] 王好爱吃麻包蛋 死于： 天体英雄。她变成了可怕的鬼魂！
+[00:58:22]: [Announcement] 这将是一个恐怖之夜……
+[00:58:32]: [Announcement] 双子魔眼盯上了王好爱吃麻包蛋
+[01:02:25]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 重生护符.
+[01:06:41]: [Announcement] 这将是一个恐怖之夜……
+[01:06:51]: [Announcement] 双子魔眼盯上了King Jong-un
+[01:10:46]: [Death Announcement] 王好爱吃麻包蛋 死于： 大虚影。她变成了可怕的鬼魂！
+[01:15:24]: [Announcement] 这将是一个恐怖之夜……
+[01:15:34]: [Announcement] 双子魔眼盯上了King Jong-un
+[01:17:39]: [Death Announcement] King Jong-un 死于： 天体英雄。他变成了可怕的鬼魂！
+[01:17:41]: [Vote Announcement] rollback passed
+[01:18:11]: [Vote Announcement] rollback passed
+[01:21:59]: [Death Announcement] 王好爱吃麻包蛋 死于： 天体英雄。她变成了可怕的鬼魂！
+[01:25:07]: [Announcement] 这将是一个恐怖之夜……
+[01:25:17]: [Announcement] 双子魔眼盯上了王好爱吃麻包蛋
+[01:32:50]: [Leave Announcement] 王好爱吃麻包蛋

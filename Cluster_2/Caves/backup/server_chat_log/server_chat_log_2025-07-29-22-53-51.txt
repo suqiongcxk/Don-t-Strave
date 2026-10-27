@@ -1,0 +1,9 @@
+[00:01:07]: [Join Announcement] 王好爱吃麻包蛋
+[00:01:42]: [Join Announcement] King Jong-un
+[00:02:22]: [Join Announcement] Superboy
+[00:10:44]: [Death Announcement] 王好爱吃麻包蛋 死于： 火。她变成了可怕的鬼魂！
+[00:10:48]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 重生护符.
+[00:12:26]: [Death Announcement] 王好爱吃麻包蛋 死于： 火。她变成了可怕的鬼魂！
+[00:12:36]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 重生护符.
+[00:29:08]: [Leave Announcement] King Jong-un
+[00:30:50]: [Leave Announcement] 王好爱吃麻包蛋

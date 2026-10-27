@@ -1,0 +1,6 @@
+[00:01:23]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:48]: [Join Announcement] Readamancy
+[00:03:06]: [Join Announcement] King Jong-un
+[00:33:38]: [Leave Announcement] Readamancy
+[00:48:09]: [Leave Announcement] King Jong-un
+[00:49:44]: [Leave Announcement] 王好爱吃麻包蛋

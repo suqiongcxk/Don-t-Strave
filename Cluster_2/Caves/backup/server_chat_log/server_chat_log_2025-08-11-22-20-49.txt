@@ -1,0 +1,14 @@
+[00:00:39]: [Join Announcement] 王好爱吃麻包蛋
+[00:01:19]: [Join Announcement] King Jong-un
+[00:01:41]: [Join Announcement] Superboy
+[00:09:33]: [Skin Announcement] King Jong-un legs_jeans_black_scribble
+[00:54:35]: [Death Announcement] 王好爱吃麻包蛋 死于： 洞穴蠕虫。她变成了可怕的鬼魂！
+[00:54:45]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 重生护符.
+[00:55:49]: [Death Announcement] Superboy 死于： 梦魇疯猪。她变成了可怕的鬼魂！
+[00:56:05]: [Death Announcement] King Jong-un 死于： 梦魇疯猪。他变成了可怕的鬼魂！
+[00:56:20]: [Resurrect Announcement] Superboy 复活自： 重生护符.
+[00:56:31]: [Death Announcement] Superboy 死于： 梦魇疯猪。她变成了可怕的鬼魂！
+[00:56:33]: [Death Announcement] 王好爱吃麻包蛋 死于： 梦魇疯猪。她变成了可怕的鬼魂！
+[00:56:51]: [Leave Announcement] 王好爱吃麻包蛋
+[00:56:51]: [Leave Announcement] King Jong-un
+[00:56:51]: [Leave Announcement] Superboy

@@ -1,0 +1,1784 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 48%
+	Available Physical Memory: 8309m/16176m
+	Available Page File: 11463m/22832m
+	Available Virtual Memory: 134213482m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 32m
+	Quota Peak Page Pool Usage: 215k
+	Quota Page Pool Usage: 211k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/1670190356/Cluster_2/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 680682
+[00:00:00]: Current time: Tue Jul 29 22:53:51 2025
+
+[00:00:00]: Don't Starve Together: 680682 WIN32
+[00:00:00]: Build Date: 3441
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 15820 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_2 -ownernetid 76561199630456084 -ownerdir 1670190356 -clouddir 1670190356 -backup_log_count 25 -backup_log_period 0 -ugc_directory D:\\steam\\steamapps\\workshop -shard Master -secondary_log_prefix master -sigprefix DST_Master -token ************************************************************************************ 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (12512)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:0.71
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\steam\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: THREAD - started 'StreamInput' (20212)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1670190356/client_save/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1670190356/client_save/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/1670190356/client_save/whitelist.txt (Failure)
+[00:00:00]: Offline user ID: OU_76561199630456084
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.19045
+    platformSpecific          SP 0.0
+    architecture              64 位
+  CPU                       
+    clockSpeed                2400
+    name                      13th Gen Intel(R) Core(TM) i7-13620H
+    manufacturer              GenuineIntel
+    numCores                  10
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      2560 x 1600 x 4294967296 种颜色
+    name                      NVIDIA GeForce RTX 4050 Laptop GPU
+    driverVersion             31.0.15.3770
+    driverDate                20231018000000.000000-000
+    refreshRate               165
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:02]:   taskgrouplist:	default	联机版	
+[00:00:02]:   taskgrouplist:	classic	经典	
+[00:00:02]:   taskgrouplist:	cave_default	地下	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:02]: Running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:02]: SUCCESS: Loaded modoverrides.lua	
+[00:00:02]: modoverrides.lua enabling workshop-2287303119	
+[00:00:02]: modoverrides.lua enabling workshop-1185229307	
+[00:00:02]: modoverrides.lua enabling workshop-3138571948	
+[00:00:02]: modoverrides.lua enabling workshop-1216718131	
+[00:00:02]: modoverrides.lua enabling workshop-1898292532	
+[00:00:02]: modoverrides.lua enabling workshop-3092317730	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1216718131_CLIENT	
+[00:00:02]: Loading mod: workshop-1216718131 (防卡两招(Antistun)) Version:1.0.7	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2287303119_CLIENT	
+[00:00:02]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.7	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:02]: Loading mod: workshop-1185229307 (史诗血量条) Version:98	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-3138571948_CLIENT	
+[00:00:02]: Loading mod: workshop-3138571948 (全图定位(完全同步)) Version:2.4.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1898292532_CLIENT	
+[00:00:02]: Loading mod: workshop-1898292532 (Tips) Version:1.6.6	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-3092317730_CLIENT	
+[00:00:02]: Loading mod: workshop-3092317730 (Combined Status) Version:1.9.1d	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:02]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:02]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:02]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:02]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:02]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option Show_range with value true	
+[00:00:02]: Overriding mod workshop-2287303119's option show_planar_resist with value true	
+[00:00:02]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:02]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:02]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option Show_naughtiness with value true	
+[00:00:02]: Overriding mod workshop-2287303119's option show_fueled with value 3	
+[00:00:02]: Overriding mod workshop-2287303119's option show_fuel with value true	
+[00:00:02]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:02]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-2287303119's option lang with value auto	
+[00:00:02]: Overriding mod workshop-2287303119's option show_nutrients with value 1	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:02]: Overriding mod workshop-1185229307's option CAPTURE with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option CAMERA with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:02]: Overriding mod workshop-1185229307's option GLOBAL with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option TAG with value EPIC	
+[00:00:02]: Overriding mod workshop-1185229307's option HEADER_SERVER with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option TRANSLATOR with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option GLOBAL_NUMBERS with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option HEADER_CLIENT with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-3138571948	
+[00:00:02]: Overriding mod workshop-3138571948's option remove_maprevealer_tag with value false	
+[00:00:02]: Overriding mod workshop-3138571948's option GLOBAL_COURIER with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option OVERRIDEMODE with value false	
+[00:00:02]: Overriding mod workshop-3138571948's option FIREOPTIONS with value 2	
+[00:00:02]: Overriding mod workshop-3138571948's option UPDADTEFREQUENCY with value 0.5	
+[00:00:02]: Overriding mod workshop-3138571948's option ENABLEPINGS with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option disable_fogrevealer with value false	
+[00:00:02]: Overriding mod workshop-3138571948's option REMOVE_GHOST_ICONS with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option use_optimizer with value false	
+[00:00:02]: Overriding mod workshop-3138571948's option optimization_tile with value 0	
+[00:00:02]: Overriding mod workshop-3138571948's option lang with value auto	
+[00:00:02]: Overriding mod workshop-3138571948's option Space1 with value 0	
+[00:00:02]: Overriding mod workshop-3138571948's option SHAREMINIMAPPROGRESS with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option SHOWPLAYERICONS with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option SHOWFIREICONS with value true	
+[00:00:02]: Overriding mod workshop-3138571948's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:02]: Overriding mod workshop-3138571948's option COMPLETESYNC with value true	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1216718131	
+[00:00:02]: Overriding mod workshop-1216718131's option stack with value true	
+[00:00:02]: Overriding mod workshop-1216718131's option lang with value true	
+[00:00:02]: Overriding mod workshop-1216718131's option clean with value true	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1898292532	
+[00:00:02]: Overriding mod workshop-1898292532's option atrium_gate with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option antlion with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option bearger with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option daywalker with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option beequeenhive with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option crabking with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option klaus_sack with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option daywalker2 with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option dragonfly with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option deerclops with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option wagboss_robot with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option toadstool with value false	
+[00:00:02]: Overriding mod workshop-1898292532's option hound with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option lunarrift_portal with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option tips_method with value 1	
+[00:00:02]: Overriding mod workshop-1898292532's option prime_mate with value true	
+[00:00:02]: Overriding mod workshop-1898292532's option malbatross with value false	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-3092317730	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWTEMPBADGES with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWBEAVERNESS with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option UNIT with value T	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWWORLDTEMP with value false	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWMOON with value 1	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWWANINGMOON with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option FLIPMOON with value false	
+[00:00:02]: Overriding mod workshop-3092317730's option SEASONOPTIONS with value Clock	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWSTATNUMBERS with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option HUDSCALEFACTOR with value 100	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWCLOCKTEXT with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option HIDECAVECLOCK with value false	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWTEMPERATURE with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWNEXTFULLMOON with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWNAUGHTINESS with value true	
+[00:00:02]: Overriding mod workshop-3092317730's option SHOWMAXONNUMBERS with value true	
+[00:00:02]: Mod: workshop-1185229307 (史诗血量条)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1185229307 (史诗血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1185229307 (史诗血量条)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:02]: ShowMe version:	0.59.9.7	
+[00:00:02]: show_food_units	-1	-1	-1	
+[00:00:02]: show_uses	-1	-1	-1	
+[00:00:02]: Detected language for ShowMe: 	auto	zh	
+[00:00:02]: modimport: ../mods/workshop-2287303119/scripts/showme_range_indicators.lua	
+[00:00:02]: modimport: ../mods/workshop-2287303119/scripts/showme_naughtiness.lua	
+[00:00:02]: Mod: workshop-3092317730 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-3092317730 (Combined Status)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-1898292532 (Tips)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1898292532 (Tips)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1898292532 (Tips)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1898292532/common	
+[00:00:02]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1216718131/scripts/stack.lua	
+[00:00:02]: modimport: ../mods/workshop-1216718131/scripts/clean.lua	
+[00:00:02]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-3138571948 (全图定位(完全同步))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modmain.lua	
+[00:00:02]: [global position (CompleteSync)] This is a new version without GemCore	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: Registering Server mod namespace "globalpositioncompletesync"
+[00:00:03]: Registering Server mod namespace "showmeshint"
+[00:00:03]: Registering Server mod namespace "tips"
+[00:00:03]: Registering Server mod namespace "showme"
+[00:00:03]: Registering Client mod namespace "workshop-1185229307"
+[00:00:03]: Registering Shard mod namespace "globalpositioncompletesync"
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: ServerPreferences could not load server_preferences	
+[00:00:03]: ConsoleScreenSettings could not load consolescreen	
+[00:00:03]: bloom_enabled	true	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:04]: Mod: workshop-1185229307 (史诗血量条)	Registering prefabs	
+[00:00:04]: Mod: workshop-1185229307 (史诗血量条)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:04]: Mod: workshop-1185229307 (史诗血量条)	    epichealth_proxy	
+[00:00:04]: Mod: workshop-1185229307 (史诗血量条)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	  Registering prefab file: prefabs/showme_range	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	    lhr_range_indicator	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	    ocep_range_indicator	
+[00:00:04]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-3092317730 (Combined Status)	Registering prefabs	
+[00:00:04]: Mod: workshop-3092317730 (Combined Status)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-1898292532 (Tips)	Registering prefabs	
+[00:00:04]: Mod: workshop-1898292532 (Tips)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-1216718131 (防卡两招(Antistun))	Registering prefabs	
+[00:00:04]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	Registering prefabs	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalposition_classified	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/smoketrail	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    smoketrail	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/pings	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_generic	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_omw	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_danger	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_explore	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_gohere	
+[00:00:04]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering default mod prefab	
+[00:00:05]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (1456)
+[00:00:05]: FilesExistAsyncThread started (26586 files)...
+[00:00:05]: Check for write access: TRUE
+[00:00:05]: Check for read access: TRUE
+[00:00:05]: Available disk space for save files: 174949 MB
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:05]: [IPC] Signal 'DST_Master_Kill' opened  #000000000000078C
+[00:00:05]: [IPC] Registering handler for signal #000000000000078C
+[00:00:05]: [IPC] Handle #000000000000078C added to the Eventhandles
+[00:00:05]: [IPC] Signal 'DST_Master_ShutdownNoSave' opened  #000000000000077C
+[00:00:05]: [IPC] Registering handler for signal #000000000000077C
+[00:00:05]: [IPC] Handle #000000000000077C added to the Eventhandles
+[00:00:05]: [IPC] Signal 'DST_Master_Starting' opened  #0000000000000754
+[00:00:05]: [IPC] Sending signal... #0000000000000754
+[00:00:06]: [200] Account Communication Success (6)
+[00:00:06]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether/1670190356/Cluster_2/Master/save/cached_userid
+[00:00:06]: Received (KU_NSBnThNL) from TokenPurpose
+[00:00:06]: Starting Dedicated Server Game	
+[00:00:06]: Network tick rate: U=15(2), D=0
+[00:00:06]: About to start a server with the following settings:
+[00:00:06]:   Dedicated: true
+[00:00:06]:   Online: true
+[00:00:06]:   Passworded: true
+[00:00:06]:   ServerPort: 10999
+[00:00:06]:   SteamAuthPort: 8766
+[00:00:06]:   SteamMasterServerPort: 27016
+[00:00:06]:   ClanID: false
+[00:00:06]:   ClanOnly: false
+[00:00:06]:   ClanAdmin: false
+[00:00:06]:   LanOnly: false
+[00:00:06]:   FriendsOnly: false
+[00:00:06]:   EnableAutosaver: true
+[00:00:06]:   EncodeUserPath: true
+[00:00:06]:   PVP: false
+[00:00:06]:   MaxPlayers: 6
+[00:00:06]:   GameMode: survival
+[00:00:06]:   OverridenDNS: 
+[00:00:06]:   PauseWhenEmpty: true
+[00:00:06]:   IdleTimeout: 1800s
+[00:00:06]:   VoteEnabled: false
+[00:00:06]:   InternetBroadcasting: true
+[00:00:06]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-3138571948	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1216718131	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1898292532	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-3092317730	
+[00:00:06]: Online Server Started on port: 10999
+[00:00:06]: SUCCESS: Loaded modoverrides.lua	
+[00:00:06]: Found a level data override file with these contents:	
+[00:00:06]: 	K: 	desc	 V: 	永不结束的饥荒沙盒模式。
+永远可以在绚丽之门复活。	
+[00:00:06]: 	K: 	hideminimap	 V: 	false	
+[00:00:06]: 	K: 	id	 V: 	ENDLESS	
+[00:00:06]: 	K: 	location	 V: 	forest	
+[00:00:06]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:06]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:06]: 	K: 	name	 V: 	无尽	
+[00:00:06]: 	K: 	numrandom_set_pieces	 V: 	4	
+[00:00:06]: 	K: 	override_level_string	 V: 	false	
+[00:00:06]: 	K: 	overrides	 V: 	table: 00000000139ACB80	
+[00:00:06]: 		K: 	alternatehunt	 V: 	default	
+[00:00:06]: 		K: 	angrybees	 V: 	default	
+[00:00:06]: 		K: 	antliontribute	 V: 	default	
+[00:00:06]: 		K: 	autumn	 V: 	default	
+[00:00:06]: 		K: 	balatro	 V: 	default	
+[00:00:06]: 		K: 	bananabush_portalrate	 V: 	default	
+[00:00:06]: 		K: 	basicresource_regrowth	 V: 	always	
+[00:00:06]: 		K: 	bats_setting	 V: 	default	
+[00:00:06]: 		K: 	bearger	 V: 	default	
+[00:00:06]: 		K: 	beefalo	 V: 	default	
+[00:00:06]: 		K: 	beefaloheat	 V: 	default	
+[00:00:06]: 		K: 	beequeen	 V: 	default	
+[00:00:06]: 		K: 	bees	 V: 	default	
+[00:00:06]: 		K: 	bees_setting	 V: 	default	
+[00:00:06]: 		K: 	berrybush	 V: 	default	
+[00:00:06]: 		K: 	birds	 V: 	default	
+[00:00:06]: 		K: 	boons	 V: 	default	
+[00:00:06]: 		K: 	branching	 V: 	default	
+[00:00:06]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:06]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:06]: 		K: 	butterfly	 V: 	default	
+[00:00:06]: 		K: 	buzzard	 V: 	default	
+[00:00:06]: 		K: 	cactus	 V: 	default	
+[00:00:06]: 		K: 	cactus_regrowth	 V: 	default	
+[00:00:06]: 		K: 	carrot	 V: 	default	
+[00:00:06]: 		K: 	carrots_regrowth	 V: 	default	
+[00:00:06]: 		K: 	catcoon	 V: 	default	
+[00:00:06]: 		K: 	catcoons	 V: 	default	
+[00:00:06]: 		K: 	chess	 V: 	default	
+[00:00:06]: 		K: 	cookiecutters	 V: 	default	
+[00:00:06]: 		K: 	crabking	 V: 	default	
+[00:00:06]: 		K: 	crow_carnival	 V: 	default	
+[00:00:06]: 		K: 	darkness	 V: 	default	
+[00:00:06]: 		K: 	day	 V: 	default	
+[00:00:06]: 		K: 	daywalker2	 V: 	default	
+[00:00:06]: 		K: 	deciduousmonster	 V: 	default	
+[00:00:06]: 		K: 	deciduoustree_regrowth	 V: 	default	
+[00:00:06]: 		K: 	deerclops	 V: 	default	
+[00:00:06]: 		K: 	dragonfly	 V: 	default	
+[00:00:06]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:06]: 		K: 	evergreen_regrowth	 V: 	default	
+[00:00:06]: 		K: 	extrastartingitems	 V: 	default	
+[00:00:06]: 		K: 	eyeofterror	 V: 	default	
+[00:00:06]: 		K: 	fishschools	 V: 	default	
+[00:00:06]: 		K: 	flint	 V: 	default	
+[00:00:06]: 		K: 	flowers	 V: 	default	
+[00:00:06]: 		K: 	flowers_regrowth	 V: 	default	
+[00:00:06]: 		K: 	frograin	 V: 	default	
+[00:00:06]: 		K: 	frogs	 V: 	default	
+[00:00:06]: 		K: 	fruitfly	 V: 	default	
+[00:00:06]: 		K: 	ghostenabled	 V: 	always	
+[00:00:06]: 		K: 	ghostsanitydrain	 V: 	none	
+[00:00:06]: 		K: 	gnarwail	 V: 	default	
+[00:00:06]: 		K: 	goosemoose	 V: 	default	
+[00:00:06]: 		K: 	grass	 V: 	default	
+[00:00:06]: 		K: 	grassgekkos	 V: 	default	
+[00:00:06]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:06]: 		K: 	has_ocean	 V: 	true	
+[00:00:06]: 		K: 	healthpenalty	 V: 	always	
+[00:00:06]: 		K: 	hound_mounds	 V: 	default	
+[00:00:06]: 		K: 	houndmound	 V: 	default	
+[00:00:06]: 		K: 	hounds	 V: 	default	
+[00:00:06]: 		K: 	hunger	 V: 	default	
+[00:00:06]: 		K: 	hunt	 V: 	default	
+[00:00:06]: 		K: 	junkyard	 V: 	default	
+[00:00:06]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:06]: 		K: 	klaus	 V: 	default	
+[00:00:06]: 		K: 	krampus	 V: 	default	
+[00:00:06]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:00:06]: 		K: 	lessdamagetaken	 V: 	none	
+[00:00:06]: 		K: 	liefs	 V: 	default	
+[00:00:06]: 		K: 	lightcrab_portalrate	 V: 	default	
+[00:00:06]: 		K: 	lightning	 V: 	default	
+[00:00:06]: 		K: 	lightninggoat	 V: 	default	
+[00:00:06]: 		K: 	loop	 V: 	default	
+[00:00:06]: 		K: 	lunarhail_frequency	 V: 	default	
+[00:00:06]: 		K: 	lureplants	 V: 	default	
+[00:00:06]: 		K: 	malbatross	 V: 	default	
+[00:00:06]: 		K: 	marshbush	 V: 	default	
+[00:00:06]: 		K: 	merm	 V: 	default	
+[00:00:06]: 		K: 	merms	 V: 	default	
+[00:00:06]: 		K: 	meteorshowers	 V: 	default	
+[00:00:06]: 		K: 	meteorspawner	 V: 	default	
+[00:00:06]: 		K: 	moles	 V: 	default	
+[00:00:06]: 		K: 	moles_setting	 V: 	default	
+[00:00:06]: 		K: 	monkeytail_portalrate	 V: 	default	
+[00:00:06]: 		K: 	moon_berrybush	 V: 	default	
+[00:00:06]: 		K: 	moon_bullkelp	 V: 	default	
+[00:00:06]: 		K: 	moon_carrot	 V: 	default	
+[00:00:06]: 		K: 	moon_fissure	 V: 	default	
+[00:00:06]: 		K: 	moon_fruitdragon	 V: 	default	
+[00:00:06]: 		K: 	moon_hotspring	 V: 	default	
+[00:00:06]: 		K: 	moon_rock	 V: 	default	
+[00:00:06]: 		K: 	moon_sapling	 V: 	default	
+[00:00:06]: 		K: 	moon_spider	 V: 	default	
+[00:00:06]: 		K: 	moon_spiders	 V: 	default	
+[00:00:06]: 		K: 	moon_starfish	 V: 	default	
+[00:00:06]: 		K: 	moon_tree	 V: 	default	
+[00:00:06]: 		K: 	moon_tree_regrowth	 V: 	default	
+[00:00:06]: 		K: 	mosquitos	 V: 	default	
+[00:00:06]: 		K: 	mushroom	 V: 	default	
+[00:00:06]: 		K: 	mutated_hounds	 V: 	default	
+[00:00:06]: 		K: 	no_joining_islands	 V: 	true	
+[00:00:06]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:06]: 		K: 	ocean_bullkelp	 V: 	default	
+[00:00:06]: 		K: 	ocean_otterdens	 V: 	default	
+[00:00:06]: 		K: 	ocean_seastack	 V: 	ocean_default	
+[00:00:06]: 		K: 	ocean_shoal	 V: 	default	
+[00:00:06]: 		K: 	ocean_waterplant	 V: 	ocean_default	
+[00:00:06]: 		K: 	ocean_wobsterden	 V: 	default	
+[00:00:06]: 		K: 	otters_setting	 V: 	default	
+[00:00:06]: 		K: 	palmcone_seed_portalrate	 V: 	default	
+[00:00:06]: 		K: 	palmconetree	 V: 	default	
+[00:00:06]: 		K: 	palmconetree_regrowth	 V: 	default	
+[00:00:06]: 		K: 	penguins	 V: 	default	
+[00:00:06]: 		K: 	penguins_moon	 V: 	default	
+[00:00:06]: 		K: 	perd	 V: 	default	
+[00:00:06]: 		K: 	petrification	 V: 	default	
+[00:00:06]: 		K: 	pigs	 V: 	default	
+[00:00:06]: 		K: 	pigs_setting	 V: 	default	
+[00:00:06]: 		K: 	pirateraids	 V: 	default	
+[00:00:06]: 		K: 	ponds	 V: 	default	
+[00:00:06]: 		K: 	portal_spawnrate	 V: 	default	
+[00:00:06]: 		K: 	portalresurection	 V: 	always	
+[00:00:06]: 		K: 	powder_monkey_portalrate	 V: 	default	
+[00:00:06]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:06]: 		K: 	rabbits	 V: 	default	
+[00:00:06]: 		K: 	rabbits_setting	 V: 	default	
+[00:00:06]: 		K: 	reeds	 V: 	default	
+[00:00:06]: 		K: 	reeds_regrowth	 V: 	default	
+[00:00:06]: 		K: 	regrowth	 V: 	default	
+[00:00:06]: 		K: 	resettime	 V: 	none	
+[00:00:06]: 		K: 	rifts_enabled	 V: 	default	
+[00:00:06]: 		K: 	rifts_frequency	 V: 	default	
+[00:00:06]: 		K: 	roads	 V: 	default	
+[00:00:06]: 		K: 	rock	 V: 	default	
+[00:00:06]: 		K: 	rock_ice	 V: 	default	
+[00:00:06]: 		K: 	saltstack_regrowth	 V: 	default	
+[00:00:06]: 		K: 	sapling	 V: 	default	
+[00:00:06]: 		K: 	season_start	 V: 	default	
+[00:00:06]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:06]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:06]: 		K: 	sharkboi	 V: 	default	
+[00:00:06]: 		K: 	sharks	 V: 	default	
+[00:00:06]: 		K: 	spawnmode	 V: 	fixed	
+[00:00:06]: 		K: 	spawnprotection	 V: 	default	
+[00:00:06]: 		K: 	specialevent	 V: 	default	
+[00:00:06]: 		K: 	spider_warriors	 V: 	default	
+[00:00:06]: 		K: 	spiderqueen	 V: 	default	
+[00:00:06]: 		K: 	spiders	 V: 	default	
+[00:00:06]: 		K: 	spiders_setting	 V: 	default	
+[00:00:06]: 		K: 	spring	 V: 	default	
+[00:00:06]: 		K: 	squid	 V: 	default	
+[00:00:06]: 		K: 	stageplays	 V: 	default	
+[00:00:06]: 		K: 	start_location	 V: 	default	
+[00:00:06]: 		K: 	summer	 V: 	default	
+[00:00:06]: 		K: 	summerhounds	 V: 	default	
+[00:00:06]: 		K: 	tallbirds	 V: 	default	
+[00:00:06]: 		K: 	task_set	 V: 	default	
+[00:00:06]: 		K: 	temperaturedamage	 V: 	default	
+[00:00:06]: 		K: 	tentacles	 V: 	default	
+[00:00:06]: 		K: 	terrariumchest	 V: 	default	
+[00:00:06]: 		K: 	touchstone	 V: 	default	
+[00:00:06]: 		K: 	trees	 V: 	default	
+[00:00:06]: 		K: 	tumbleweed	 V: 	default	
+[00:00:06]: 		K: 	twiggytrees_regrowth	 V: 	default	
+[00:00:06]: 		K: 	walrus	 V: 	default	
+[00:00:06]: 		K: 	walrus_setting	 V: 	default	
+[00:00:06]: 		K: 	wanderingtrader_enabled	 V: 	always	
+[00:00:06]: 		K: 	wasps	 V: 	default	
+[00:00:06]: 		K: 	weather	 V: 	default	
+[00:00:06]: 		K: 	wildfires	 V: 	default	
+[00:00:06]: 		K: 	winter	 V: 	default	
+[00:00:06]: 		K: 	winterhounds	 V: 	default	
+[00:00:06]: 		K: 	winters_feast	 V: 	default	
+[00:00:06]: 		K: 	wobsters	 V: 	default	
+[00:00:06]: 		K: 	world_size	 V: 	default	
+[00:00:06]: 		K: 	wormhole_prefab	 V: 	wormhole	
+[00:00:06]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_bunnyman	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_dragonfly	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_snake	 V: 	default	
+[00:00:06]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:06]: 	K: 	playstyle	 V: 	endless	
+[00:00:06]: 	K: 	random_set_pieces	 V: 	table: 00000000139ACCC0	
+[00:00:06]: 		K: 	1	 V: 	Sculptures_2	
+[00:00:06]: 		K: 	2	 V: 	Sculptures_3	
+[00:00:06]: 		K: 	3	 V: 	Sculptures_4	
+[00:00:06]: 		K: 	4	 V: 	Sculptures_5	
+[00:00:06]: 		K: 	5	 V: 	Chessy_1	
+[00:00:06]: 		K: 	6	 V: 	Chessy_2	
+[00:00:06]: 		K: 	7	 V: 	Chessy_3	
+[00:00:06]: 		K: 	8	 V: 	Chessy_4	
+[00:00:06]: 		K: 	9	 V: 	Chessy_5	
+[00:00:06]: 		K: 	10	 V: 	Chessy_6	
+[00:00:06]: 		K: 	11	 V: 	Maxwell1	
+[00:00:06]: 		K: 	12	 V: 	Maxwell2	
+[00:00:06]: 		K: 	13	 V: 	Maxwell3	
+[00:00:06]: 		K: 	14	 V: 	Maxwell4	
+[00:00:06]: 		K: 	15	 V: 	Maxwell6	
+[00:00:06]: 		K: 	16	 V: 	Maxwell7	
+[00:00:06]: 		K: 	17	 V: 	Warzone_1	
+[00:00:06]: 		K: 	18	 V: 	Warzone_2	
+[00:00:06]: 		K: 	19	 V: 	Warzone_3	
+[00:00:06]: 	K: 	required_prefabs	 V: 	table: 00000000139ACD10	
+[00:00:06]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:06]: 	K: 	required_setpieces	 V: 	table: 00000000139AE890	
+[00:00:06]: 		K: 	1	 V: 	Sculptures_1	
+[00:00:06]: 		K: 	2	 V: 	Maxwell5	
+[00:00:06]: 	K: 	settings_desc	 V: 	永不结束的饥荒沙盒模式。
+永远可以在绚丽之门复活。	
+[00:00:06]: 	K: 	settings_id	 V: 	ENDLESS	
+[00:00:06]: 	K: 	settings_name	 V: 	无尽	
+[00:00:06]: 	K: 	substitutes	 V: 	table: 00000000139AD850	
+[00:00:06]: 	K: 	version	 V: 	4	
+[00:00:06]: 	K: 	worldgen_desc	 V: 	永不结束的饥荒沙盒模式。
+永远可以在绚丽之门复活。	
+[00:00:06]: 	K: 	worldgen_id	 V: 	ENDLESS	
+[00:00:06]: 	K: 	worldgen_name	 V: 	无尽	
+[00:00:06]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:06]: Overwriting savedata with level data file.	
+[00:00:06]: Not applying world gen overrides.	
+[00:00:06]: Collecting garbage...
+[00:00:06]: lua_gc took 0.04 seconds
+[00:00:06]: ~ShardLuaProxy()
+[00:00:06]: ~cEventLeaderboardProxy()
+[00:00:06]: ~ItemServerLuaProxy()
+[00:00:06]: ~InventoryLuaProxy()
+[00:00:06]: ~NetworkLuaProxy()
+[00:00:06]: ~SimLuaProxy()
+[00:00:06]: FilesExistAsyncThread aborted.
+[00:00:06]: ... FilesExistAsyncThread complete
+[00:00:06]: lua_close took 0.06 seconds
+[00:00:06]: ReleaseAll
+[00:00:06]: ReleaseAll Finished
+[00:00:06]: cGame::StartPlaying
+[00:00:06]: AppVersion::GetArchitecture() x64
+[00:00:06]: LOADING LUA
+[00:00:06]: DoLuaFile scripts/main.lua
+[00:00:06]: DoLuaFile loading buffer scripts/main.lua
+[00:00:06]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:07]:   taskgrouplist:	default	联机版	
+[00:00:07]:   taskgrouplist:	classic	经典	
+[00:00:07]:   taskgrouplist:	cave_default	地下	
+[00:00:07]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:07]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:07]: Running main.lua
+	
+[00:00:07]: loaded modindex	
+[00:00:07]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:07]: SUCCESS: Loaded modoverrides.lua	
+[00:00:07]: modoverrides.lua enabling workshop-2287303119	
+[00:00:07]: modoverrides.lua enabling workshop-1185229307	
+[00:00:07]: modoverrides.lua enabling workshop-3138571948	
+[00:00:07]: modoverrides.lua enabling workshop-1216718131	
+[00:00:07]: modoverrides.lua enabling workshop-1898292532	
+[00:00:07]: modoverrides.lua enabling workshop-3092317730	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1216718131	
+[00:00:07]: Loading mod: workshop-1216718131 (防卡两招(Antistun)) Version:1.0.7	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:00:07]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.9.7	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:07]: Loading mod: workshop-1185229307 (史诗血量条) Version:98	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-3138571948	
+[00:00:07]: Loading mod: workshop-3138571948 (全图定位(完全同步)) Version:2.4.0	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1898292532	
+[00:00:07]: Loading mod: workshop-1898292532 (Tips) Version:1.6.6	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-3092317730	
+[00:00:07]: Loading mod: workshop-3092317730 (Combined Status) Version:1.9.1d	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:07]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:07]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:07]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:07]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:07]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option Show_range with value true	
+[00:00:07]: Overriding mod workshop-2287303119's option show_planar_resist with value true	
+[00:00:07]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:07]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:07]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option Show_naughtiness with value true	
+[00:00:07]: Overriding mod workshop-2287303119's option show_fueled with value 3	
+[00:00:07]: Overriding mod workshop-2287303119's option show_fuel with value true	
+[00:00:07]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:07]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-2287303119's option lang with value auto	
+[00:00:07]: Overriding mod workshop-2287303119's option show_nutrients with value 1	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:07]: Overriding mod workshop-1185229307's option CAPTURE with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option CAMERA with value true	
+[00:00:07]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:07]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:07]: Overriding mod workshop-1185229307's option GLOBAL with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option TAG with value EPIC	
+[00:00:07]: Overriding mod workshop-1185229307's option HEADER_SERVER with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option TRANSLATOR with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:07]: Overriding mod workshop-1185229307's option GLOBAL_NUMBERS with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option HEADER_CLIENT with value false	
+[00:00:07]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-3138571948	
+[00:00:07]: Overriding mod workshop-3138571948's option remove_maprevealer_tag with value false	
+[00:00:07]: Overriding mod workshop-3138571948's option GLOBAL_COURIER with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option OVERRIDEMODE with value false	
+[00:00:07]: Overriding mod workshop-3138571948's option FIREOPTIONS with value 2	
+[00:00:07]: Overriding mod workshop-3138571948's option UPDADTEFREQUENCY with value 0.5	
+[00:00:07]: Overriding mod workshop-3138571948's option ENABLEPINGS with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option disable_fogrevealer with value false	
+[00:00:07]: Overriding mod workshop-3138571948's option REMOVE_GHOST_ICONS with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option use_optimizer with value false	
+[00:00:07]: Overriding mod workshop-3138571948's option optimization_tile with value 0	
+[00:00:07]: Overriding mod workshop-3138571948's option lang with value auto	
+[00:00:07]: Overriding mod workshop-3138571948's option Space1 with value 0	
+[00:00:07]: Overriding mod workshop-3138571948's option SHAREMINIMAPPROGRESS with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option SHOWPLAYERICONS with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option SHOWFIREICONS with value true	
+[00:00:07]: Overriding mod workshop-3138571948's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:07]: Overriding mod workshop-3138571948's option COMPLETESYNC with value true	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-1216718131	
+[00:00:07]: Overriding mod workshop-1216718131's option stack with value true	
+[00:00:07]: Overriding mod workshop-1216718131's option lang with value true	
+[00:00:07]: Overriding mod workshop-1216718131's option clean with value true	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-1898292532	
+[00:00:07]: Overriding mod workshop-1898292532's option atrium_gate with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option antlion with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option bearger with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option daywalker with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option beequeenhive with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option crabking with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option klaus_sack with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option daywalker2 with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option dragonfly with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option deerclops with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option wagboss_robot with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option toadstool with value false	
+[00:00:07]: Overriding mod workshop-1898292532's option hound with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option lunarrift_portal with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option tips_method with value 1	
+[00:00:07]: Overriding mod workshop-1898292532's option prime_mate with value true	
+[00:00:07]: Overriding mod workshop-1898292532's option malbatross with value false	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-3092317730	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWTEMPBADGES with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWBEAVERNESS with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option UNIT with value T	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWWORLDTEMP with value false	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWMOON with value 1	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWWANINGMOON with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option FLIPMOON with value false	
+[00:00:07]: Overriding mod workshop-3092317730's option SEASONOPTIONS with value Clock	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWSTATNUMBERS with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option HUDSCALEFACTOR with value 100	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWCLOCKTEXT with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option HIDECAVECLOCK with value false	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWTEMPERATURE with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWNEXTFULLMOON with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWNAUGHTINESS with value true	
+[00:00:07]: Overriding mod workshop-3092317730's option SHOWMAXONNUMBERS with value true	
+[00:00:07]: Mod: workshop-1185229307 (史诗血量条)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-1185229307 (史诗血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-1185229307 (史诗血量条)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:07]: ShowMe version:	0.59.9.7	
+[00:00:07]: show_food_units	-1	-1	-1	
+[00:00:07]: show_uses	-1	-1	-1	
+[00:00:07]: Detected language for ShowMe: 	auto	zh	
+[00:00:07]: modimport: ../mods/workshop-2287303119/scripts/showme_range_indicators.lua	
+[00:00:07]: modimport: ../mods/workshop-2287303119/scripts/showme_naughtiness.lua	
+[00:00:07]: Mod: workshop-3092317730 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-3092317730 (Combined Status)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-1898292532 (Tips)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-1898292532 (Tips)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-1898292532 (Tips)	Loading modmain.lua	
+[00:00:07]: modimport: ../mods/workshop-1898292532/common	
+[00:00:07]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-1216718131 (防卡两招(Antistun))	Loading modmain.lua	
+[00:00:07]: modimport: ../mods/workshop-1216718131/scripts/stack.lua	
+[00:00:07]: modimport: ../mods/workshop-1216718131/scripts/clean.lua	
+[00:00:07]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-3138571948 (全图定位(完全同步))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-3138571948 (全图定位(完全同步))	Loading modmain.lua	
+[00:00:07]: [global position (CompleteSync)] This is a new version without GemCore	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1216718131	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3138571948	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1898292532	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3092317730	
+[00:00:08]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:08]: LOADING LUA SUCCESS
+[00:00:08]: Registering Server mod namespace "globalpositioncompletesync"
+[00:00:08]: Registering Server mod namespace "showmeshint"
+[00:00:08]: Registering Server mod namespace "tips"
+[00:00:08]: Registering Server mod namespace "showme"
+[00:00:08]: Registering Client mod namespace "workshop-1185229307"
+[00:00:08]: Registering Shard mod namespace "globalpositioncompletesync"
+[00:00:08]: PlayerDeaths could not load morgue	
+[00:00:08]: PlayerHistory could not load player_history	
+[00:00:08]: ServerPreferences could not load server_preferences	
+[00:00:08]: ConsoleScreenSettings could not load consolescreen	
+[00:00:08]: bloom_enabled	true	
+[00:00:08]: OnFilesLoaded()	
+[00:00:08]: OnUpdatePurchaseStateComplete	
+[00:00:08]: Loading world: session/44EC2868DDAD173E/0000000165	
+[00:00:08]: Save file is at version 5.156	
+[00:00:08]: Klump load on boot started.	
+[00:00:08]: Klump files loaded: 	0	
+[00:00:08]: 	Unload FE	
+[00:00:08]: 	Unload FE done	
+[00:00:10]: Mod: workshop-1185229307 (史诗血量条)	Registering prefabs	
+[00:00:10]: Mod: workshop-1185229307 (史诗血量条)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:10]: Mod: workshop-1185229307 (史诗血量条)	    epichealth_proxy	
+[00:00:10]: Mod: workshop-1185229307 (史诗血量条)	  Registering default mod prefab	
+[00:00:10]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:10]: Mod: workshop-2287303119 (Show Me (中文))	  Registering prefab file: prefabs/showme_range	
+[00:00:10]: Mod: workshop-2287303119 (Show Me (中文))	    lhr_range_indicator	
+[00:00:10]: Mod: workshop-2287303119 (Show Me (中文))	    ocep_range_indicator	
+[00:00:10]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:10]: Mod: workshop-3092317730 (Combined Status)	Registering prefabs	
+[00:00:10]: Mod: workshop-3092317730 (Combined Status)	  Registering default mod prefab	
+[00:00:10]: Mod: workshop-1898292532 (Tips)	Registering prefabs	
+[00:00:10]: Mod: workshop-1898292532 (Tips)	  Registering default mod prefab	
+[00:00:10]: Mod: workshop-1216718131 (防卡两招(Antistun))	Registering prefabs	
+[00:00:10]: Mod: workshop-1216718131 (防卡两招(Antistun))	  Registering default mod prefab	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	Registering prefabs	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalposition_classified	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/smoketrail	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	    smoketrail	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	    globalmapicon_noproxy	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering prefab file: prefabs/pings	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_generic	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_omw	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_danger	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_explore	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	    ping_gohere	
+[00:00:10]: Mod: workshop-3138571948 (全图定位(完全同步))	  Registering default mod prefab	
+[00:00:10]: 	LOAD BE	
+[00:00:19]: 	LOAD BE: done	
+[00:00:19]: Begin Session: 44EC2868DDAD173E
+[00:00:19]: saving to server_temp/server_save	
+[00:00:19]: OVERRIDE: setting	healthpenalty	to	always	
+[00:00:19]: OVERRIDE: setting	wanderingtrader_enabled	to	always	
+[00:00:19]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:00:19]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/campfire.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_generic.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_gohere.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_explore.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_danger.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/ping_omw.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/beef_bell_linked.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-3138571948/minimap/shadow_beef_bell_linked.xml )
+[00:00:19]: OLD[global position (CompleteSync)]The maprecorder is empty, are you starting a new game or adding this mod to old game?	
+[00:00:19]: Loading 19 new character(s)	
+[00:00:20]: Total 19 character(s) loaded	
+[00:00:20]: Loading Nav Grid	
+[00:00:20]: World generated on build 677386 with save version: 5.156, using seed: 421389217	
+[00:00:20]: setting 	summerlength	15	
+[00:00:20]: setting 	cavemoonphase	full	
+[00:00:20]: setting 	iscavefullmoon	false	
+[00:00:20]: setting 	isnightmaredawn	false	
+[00:00:20]: setting 	elapseddaysinseason	10	
+[00:00:20]: setting 	isfullmoon	false	
+[00:00:20]: setting 	moisture	1659.0646972656	
+[00:00:20]: setting 	springlength	20	
+[00:00:20]: setting 	islunarhailing	false	
+[00:00:20]: setting 	isnightmarewild	false	
+[00:00:20]: setting 	nightmaretimeinphase	0	
+[00:00:20]: setting 	precipitationrate	0	
+[00:00:20]: setting 	iswet	false	
+[00:00:20]: setting 	isnewmoon	false	
+[00:00:20]: setting 	israining	false	
+[00:00:20]: setting 	iswinter	false	
+[00:00:20]: setting 	isnightmarewarn	false	
+[00:00:20]: setting 	precipitation	none	
+[00:00:20]: setting 	iscavewaxingmoon	false	
+[00:00:20]: setting 	isacidraining	false	
+[00:00:20]: setting 	moonphase	full	
+[00:00:20]: setting 	remainingdaysinseason	10	
+[00:00:20]: setting 	temperature	32.287506095549	
+[00:00:20]: setting 	wetness	0	
+[00:00:20]: setting 	cycles	150	
+[00:00:20]: setting 	moistureceil	5169.0200195313	
+[00:00:20]: setting 	isday	false	
+[00:00:20]: setting 	winterlength	15	
+[00:00:20]: setting 	season	autumn	
+[00:00:20]: setting 	iswaxingmoon	false	
+[00:00:20]: setting 	isalterawake	false	
+[00:00:20]: setting 	isnightmarecalm	false	
+[00:00:20]: setting 	isnight	false	
+[00:00:20]: setting 	isdusk	true	
+[00:00:20]: setting 	isspring	false	
+[00:00:20]: setting 	isautumn	true	
+[00:00:20]: setting 	iscaveday	false	
+[00:00:20]: setting 	lunarhaillevel	0	
+[00:00:20]: setting 	pop	0.10022121495615	
+[00:00:20]: setting 	snowlevel	0	
+[00:00:20]: setting 	issnowcovered	false	
+[00:00:20]: setting 	autumnlength	20	
+[00:00:20]: setting 	phase	dusk	
+[00:00:20]: setting 	nightmaretime	0	
+[00:00:20]: setting 	issnowing	false	
+[00:00:20]: setting 	iscavedusk	true	
+[00:00:20]: setting 	nightmarephase	none	
+[00:00:20]: setting 	timeinphase	0.46643036736382	
+[00:00:20]: setting 	seasonprogress	0.5	
+[00:00:20]: setting 	iscavenight	false	
+[00:00:20]: setting 	iscavenewmoon	false	
+[00:00:20]: setting 	issummer	false	
+[00:00:20]: setting 	cavephase	dusk	
+[00:00:20]: setting 	time	0.67491138776143	
+[00:00:20]: Connected shards:	
+[00:00:20]: OVERRIDE: setting	ghostenabled	to	always	
+[00:00:20]: OVERRIDE: setting	resettime	to	none	
+[00:00:20]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:00:20]: OVERRIDE: setting	portalresurection	to	always	
+[00:00:20]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:00:20]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:00:23]: Reconstructing topology	
+[00:00:23]: 	...Sorting points	
+[00:00:23]: 	...Sorting edges	
+[00:00:23]: 	...Connecting nodes	
+[00:00:23]: 	...Validating connections	
+[00:00:23]: 	...Housekeeping	
+[00:00:23]: 	...Done!	
+[00:00:23]: in worldprefab postinit	
+[00:00:23]: [global position (CompleteSync)]The world is not newly created	
+[00:00:23]: [global position (CompleteSync)]The maprecorder is not empty.	
+[00:00:23]: 1 uploads added to server. From server_temp
+[00:00:23]: About to start a shard with these settings:
+[00:00:23]:   ShardName: [SHDMASTER]
+[00:00:23]:   ShardID: 1
+[00:00:23]:   ShardRole: MASTER
+[00:00:23]:   MasterHost: (null)
+[00:00:23]:   MasterBind: 127.0.0.1
+[00:00:23]:   MasterPort: 10888
+[00:00:23]: [Shard] Starting master server
+[00:00:23]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:23]: [Shard] Shard server started on port: 10888
+[00:00:23]: [IPC] Signal 'DST_Master_Ready' opened  #00000000000009A4
+[00:00:23]: [IPC] Sending signal... #00000000000009A4
+[00:00:23]: Telling Client our new session identifier: 44EC2868DDAD173E
+[00:00:23]: Check for write access: TRUE
+[00:00:23]: Check for read access: TRUE
+[00:00:23]: Available disk space for save files: 174949 MB
+[00:00:23]: ModIndex: Load sequence finished successfully.	
+[00:00:23]: Reset() returning
+[00:00:24]: Validating portal[1] <-> 1720328666[1] (inactive)	
+[00:00:24]: Validating portal[9] <-> 1720328666[9] (inactive)	
+[00:00:24]: Validating portal[6] <-> 1720328666[6] (inactive)	
+[00:00:24]: Validating portal[3] <-> 1720328666[3] (inactive)	
+[00:00:24]: Validating portal[7] <-> 1720328666[7] (inactive)	
+[00:00:24]: Validating portal[8] <-> 1720328666[8] (inactive)	
+[00:00:24]: Validating portal[4] <-> 1720328666[4] (inactive)	
+[00:00:24]: Validating portal[5] <-> 1720328666[5] (inactive)	
+[00:00:24]: Validating portal[10] <-> 1720328666[10] (inactive)	
+[00:00:24]: Validating portal[2] <-> 1720328666[2] (inactive)	
+[00:00:24]: Sim paused
+[00:00:24]: Server registered via geo DNS in ap-southeast-1
+[00:00:24]: [Shard] Secondary shard Caves(1720328666) connected: [LAN] 127.0.0.1
+[00:00:25]: [Shard] Secondary Caves(1720328666) ready!
+[00:00:25]: World 1720328666 is now connected	
+[00:00:25]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:25]: Validating portal[1] <-> 1720328666[1] (disabled)	
+[00:00:25]: Validating portal[9] <-> 1720328666[9] (active)	
+[00:00:25]: Validating portal[6] <-> 1720328666[6] (disabled)	
+[00:00:25]: Validating portal[3] <-> 1720328666[3] (disabled)	
+[00:00:25]: Validating portal[7] <-> 1720328666[7] (disabled)	
+[00:00:25]: Validating portal[8] <-> 1720328666[8] (disabled)	
+[00:00:25]: Validating portal[4] <-> 1720328666[4] (active)	
+[00:00:25]: Validating portal[5] <-> 1720328666[5] (disabled)	
+[00:00:25]: Validating portal[10] <-> 1720328666[10] (disabled)	
+[00:00:25]: Validating portal[2] <-> 1720328666[2] (disabled)	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option krampus = default to secondary shards.	
+[00:00:25]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:27]: New incoming connection 127.0.0.1|58486 <3447901613306406323>
+[00:00:27]: Client connected from [LAN] 127.0.0.1|58486 <3447901613306406323>
+[00:00:27]: ValidateGameSessionToken GUID<3447901613306406323>
+[00:00:27]: Client authenticated: (KU_NSBnThNL) 王好爱吃麻包蛋
+[00:00:27]: [Steam] Authenticated host '76561199630456084'
+[00:00:28]: There is no active event to validate against.
+[00:00:28]: [Shard] Read save location file for (KU_NSBnThNL)
+[00:00:48]: Resuming user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000165
+[00:00:48]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:00:48]: User ID	KU_NSBnThNL	assigned ownership to entity	120762 - wathgrithr	
+[00:00:48]: Spawning player at: [Load] (170.31, 0.00, 355.43)	
+[00:00:48]: Sim unpaused
+[00:00:48]: [global position (CompleteSync)]Player joined	
+[00:00:48]: [global position (CompleteSync)] learning from buffer	
+[00:00:48]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:00:49]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:00:49]: [global position (CompleteSync)] succeed	
+[00:00:54]: Server Autopaused	
+[00:01:18]: [P2P] Session request for '76561198839360386'
+[00:01:21]: [P2P] Create session: 220.201.39.136|1 '76561198839360386'
+[00:01:21]: [P2P] Received from 220.201.39.136|1 '76561198839360386'
+[00:01:21]: [P2P] Sent to 220.201.39.136|1 '76561198839360386'
+[00:01:21]: New incoming connection 220.201.39.136|1 <6443360981369890187>
+[00:01:21]: Client connected from 220.201.39.136|1 <6443360981369890187>
+[00:01:21]: ValidateGameSessionToken GUID<6443360981369890187>
+[00:01:22]: Client authenticated: (KU_iC59_4R2) Superboy
+[00:01:22]: [Steam] SendUserConnectAndAuthenticate for '76561198839360386'
+[00:01:22]: [Steam] Authenticated client '76561198839360386'
+[00:01:23]: There is no active event to validate against.
+[00:01:23]: [Shard] Read save location file for (KU_iC59_4R2)
+[00:01:49]: Resuming user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000165
+[00:01:49]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:01:49]: User ID	KU_iC59_4R2	assigned ownership to entity	121332 - wendy	
+[00:01:49]: Spawning player at: [Load] (169.80, 0.00, 349.03)	
+[00:01:50]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:01:58]: Server Unpaused	
+[00:01:58]: [global position (CompleteSync)]Player joined	
+[00:01:58]: [global position (CompleteSync)] saving to buffer	
+[00:01:58]: [global position (CompleteSync)] success to saving to buffer	
+[00:01:58]: [global position (CompleteSync)] learning from buffer	
+[00:01:58]: [global position (CompleteSync)] succeed	
+[00:02:00]: [P2P] Session request for '76561198812174063'
+[00:02:15]: [P2P] Connection failed for '76561198812174063' because of error code 4(The connection timed out because the target user didn't respond.).
+[00:02:16]: Server Paused	
+[00:02:49]: Server Unpaused	
+[00:03:00]: [P2P] Connection failed for '76561198812174063' because of error code 4(The connection timed out because the target user didn't respond.).
+[00:03:46]: [P2P] Connection failed for '76561198812174063' because of error code 4(The connection timed out because the target user didn't respond.).
+[00:04:49]: [P2P] Create session: 220.201.39.137|1 '76561198812174063'
+[00:04:49]: [P2P] Received from 220.201.39.137|1 '76561198812174063'
+[00:04:49]: [P2P] Sent to 220.201.39.137|1 '76561198812174063'
+[00:04:52]: New incoming connection 220.201.39.137|1 <605543407687050884>
+[00:04:53]: Client connected from 220.201.39.137|1 <605543407687050884>
+[00:04:53]: ValidateGameSessionToken GUID<605543407687050884>
+[00:04:54]: Client authenticated: (KU_Qvt-jPlq) King Jong-un
+[00:04:54]: [Steam] SendUserConnectAndAuthenticate for '76561198812174063'
+[00:04:54]: [Steam] Authenticated client '76561198812174063'
+[00:04:55]: There is no active event to validate against.
+[00:04:55]: [Shard] Read save location file for (KU_Qvt-jPlq)
+[00:04:58]: KU_NSBnThNL	running text command:	dance	true	
+[00:05:02]: Available disk space for save files: 174767 MB
+[00:05:02]: [global position (CompleteSync)] saving to buffer	
+[00:05:02]: [global position (CompleteSync)] success to saving to buffer	
+[00:05:02]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:05:02]: [global position (CompleteSync)] now delete map info from user	
+[00:05:02]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000166
+[00:05:02]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:05:02]: [global position (CompleteSync)] now delete map info from user	
+[00:05:02]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000166
+[00:05:02]: Serializing world: session/44EC2868DDAD173E/0000000166
+[00:05:35]: Resuming user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000165
+[00:05:35]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:05:35]: User ID	KU_Qvt-jPlq	assigned ownership to entity	121954 - wolfgang	
+[00:05:35]: Spawning player at: [Load] (160.65, 0.00, 332.03)	
+[00:05:35]: [global position (CompleteSync)]Player joined	
+[00:05:35]: [global position (CompleteSync)] saving to buffer	
+[00:05:35]: [global position (CompleteSync)] success to saving to buffer	
+[00:05:35]: [global position (CompleteSync)] learning from buffer	
+[00:05:35]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:05:36]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:05:37]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:05:38]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:05:38]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:05:39]: [global position (CompleteSync)] succeed	
+[00:11:09]: Failed to assign item skin ids due to ownership check failure.
+[00:13:02]: Available disk space for save files: 174762 MB
+[00:13:02]: [global position (CompleteSync)] saving to buffer	
+[00:13:02]: [global position (CompleteSync)] success to saving to buffer	
+[00:13:02]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:13:02]: [global position (CompleteSync)] now delete map info from user	
+[00:13:02]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000167
+[00:13:02]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:13:02]: [global position (CompleteSync)] now delete map info from user	
+[00:13:02]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000167
+[00:13:02]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:13:02]: [global position (CompleteSync)] now delete map info from user	
+[00:13:02]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000167
+[00:13:02]: Serializing world: session/44EC2868DDAD173E/0000000167
+[00:21:02]: Available disk space for save files: 174760 MB
+[00:21:02]: [global position (CompleteSync)] saving to buffer	
+[00:21:02]: [global position (CompleteSync)] success to saving to buffer	
+[00:21:02]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:21:02]: [global position (CompleteSync)] now delete map info from user	
+[00:21:02]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000168
+[00:21:02]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:21:02]: [global position (CompleteSync)] now delete map info from user	
+[00:21:02]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000168
+[00:21:02]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:21:02]: [global position (CompleteSync)] now delete map info from user	
+[00:21:02]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000168
+[00:21:03]: Serializing world: session/44EC2868DDAD173E/0000000168
+[00:21:36]: Activating portal[9] to 1720328666	
+[00:21:36]: [global position (CompleteSync)]Player despawned and migrate	
+[00:21:36]: [global position (CompleteSync)] saving to buffer	
+[00:21:36]: [global position (CompleteSync)] success to saving to buffer	
+[00:21:37]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:21:37]: [global position (CompleteSync)] now delete map info from user	
+[00:21:37]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000169
+[00:21:37]: [Shard] Migration request: (KU_NSBnThNL) to Caves(1720328666)
+[00:21:37]: [Shard] Begin migration #1 for (KU_NSBnThNL)
+[00:21:37]: [Shard] #1 [SHDMASTER](1) -> Caves(1720328666)
+[00:21:37]: [Shard] #1 <- session/44EC2868DDAD173E/A7ITOBONDDEL/0000000169
+[00:21:37]: [Shard] Writing save location file for (KU_NSBnThNL)
+[00:21:37]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:21:37]: [Steam] SendUserDisconnect for '76561199630456084'
+[00:21:37]: [Shard] (KU_NSBnThNL) disconnected from [SHDMASTER](1)
+[00:21:41]: [Shard] Completed migration #1 for player (KU_NSBnThNL)
+[00:29:03]: Available disk space for save files: 174756 MB
+[00:29:03]: [global position (CompleteSync)] saving to buffer	
+[00:29:03]: [global position (CompleteSync)] success to saving to buffer	
+[00:29:03]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:29:03]: [global position (CompleteSync)] now delete map info from user	
+[00:29:03]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000169
+[00:29:03]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:29:03]: [global position (CompleteSync)] now delete map info from user	
+[00:29:03]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000169
+[00:29:03]: Serializing world: session/44EC2868DDAD173E/0000000169
+[00:30:06]: [200] Account Communication Success (6)
+[00:30:06]: Received (KU_NSBnThNL) from TokenPurpose
+[00:37:03]: Available disk space for save files: 174749 MB
+[00:37:03]: [global position (CompleteSync)] saving to buffer	
+[00:37:03]: [global position (CompleteSync)] success to saving to buffer	
+[00:37:03]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:37:03]: [global position (CompleteSync)] now delete map info from user	
+[00:37:03]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000170
+[00:37:03]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:37:03]: [global position (CompleteSync)] now delete map info from user	
+[00:37:03]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000170
+[00:37:03]: Serializing world: session/44EC2868DDAD173E/0000000170
+[00:37:51]: [Shard] Begin migration #2 for (KU_NSBnThNL)
+[00:37:51]: [Shard] #2 Caves(1720328666) -> [SHDMASTER](1)
+[00:37:51]: [Shard] #2 -> session/44EC2868DDAD173E/A7ITOBONDDEL/0000000171
+[00:37:51]: [Shard] Received migration #2 data for (KU_NSBnThNL)
+[00:37:51]: [Shard] Writing save location file for (KU_NSBnThNL)
+[00:37:51]: [Shard] (KU_NSBnThNL) disconnected from Caves(1720328666)
+[00:37:54]: New incoming connection 127.0.0.1|54806 <3233711516305458912>
+[00:37:54]: Client connected from [LAN] 127.0.0.1|54806 <3233711516305458912>
+[00:37:54]: ValidateGameSessionToken GUID<3233711516305458912>
+[00:37:55]: Client authenticated: (KU_NSBnThNL) 王好爱吃麻包蛋
+[00:37:55]: [Steam] Authenticated host '76561199630456084'
+[00:37:55]: [Shard] Completed incoming migration #2 for (KU_NSBnThNL)
+[00:37:55]: [Shard] Completed migration #2 for player (KU_NSBnThNL)
+[00:38:05]: Resuming user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000171
+[00:38:05]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:38:05]: User ID	KU_NSBnThNL	assigned ownership to entity	131604 - wathgrithr	
+[00:38:05]: Player will spawn close to portal #4	
+[00:38:05]: Spawning player at: [Load] (-279.19, 0.00, -63.52)	
+[00:38:05]: [global position (CompleteSync)]Player joined	
+[00:38:05]: [global position (CompleteSync)] saving to buffer	
+[00:38:05]: [global position (CompleteSync)] success to saving to buffer	
+[00:38:05]: [global position (CompleteSync)] learning from buffer	
+[00:38:05]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:38:06]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:38:06]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:38:07]: [global position (CompleteSync)] succeed	
+[00:38:17]: Activating portal[4] to 1720328666	
+[00:38:17]: [global position (CompleteSync)]Player despawned and migrate	
+[00:38:17]: [global position (CompleteSync)] saving to buffer	
+[00:38:17]: [global position (CompleteSync)] success to saving to buffer	
+[00:38:18]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:38:18]: [global position (CompleteSync)] now delete map info from user	
+[00:38:18]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000171
+[00:38:18]: [Shard] Migration request: (KU_NSBnThNL) to Caves(1720328666)
+[00:38:18]: [Shard] Begin migration #3 for (KU_NSBnThNL)
+[00:38:18]: [Shard] #3 [SHDMASTER](1) -> Caves(1720328666)
+[00:38:18]: [Shard] #3 <- session/44EC2868DDAD173E/A7ITOBONDDEL/0000000171
+[00:38:18]: [Shard] Writing save location file for (KU_NSBnThNL)
+[00:38:18]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:38:18]: [Steam] SendUserDisconnect for '76561199630456084'
+[00:38:18]: [Shard] (KU_NSBnThNL) disconnected from [SHDMASTER](1)
+[00:38:21]: [Shard] Completed migration #3 for player (KU_NSBnThNL)
+[00:39:59]: [Shard] Begin migration #4 for (KU_NSBnThNL)
+[00:39:59]: [Shard] #4 Caves(1720328666) -> [SHDMASTER](1)
+[00:39:59]: [Shard] #4 -> session/44EC2868DDAD173E/A7ITOBONDDEL/0000000171
+[00:39:59]: [Shard] Received migration #4 data for (KU_NSBnThNL)
+[00:39:59]: [Shard] Writing save location file for (KU_NSBnThNL)
+[00:39:59]: [Shard] (KU_NSBnThNL) disconnected from Caves(1720328666)
+[00:40:02]: New incoming connection 127.0.0.1|55961 <548937237268610549>
+[00:40:02]: Client connected from [LAN] 127.0.0.1|55961 <548937237268610549>
+[00:40:02]: ValidateGameSessionToken GUID<548937237268610549>
+[00:40:04]: Client authenticated: (KU_NSBnThNL) 王好爱吃麻包蛋
+[00:40:04]: [Steam] Authenticated host '76561199630456084'
+[00:40:04]: [Shard] Completed incoming migration #4 for (KU_NSBnThNL)
+[00:40:04]: [Shard] Completed migration #4 for player (KU_NSBnThNL)
+[00:40:14]: Resuming user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000171
+[00:40:14]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[00:40:14]: User ID	KU_NSBnThNL	assigned ownership to entity	132288 - wathgrithr	
+[00:40:14]: Player will spawn close to portal #9	
+[00:40:14]: Spawning player at: [Load] (88.33, 0.00, 301.85)	
+[00:40:14]: [global position (CompleteSync)]Player joined	
+[00:40:14]: [global position (CompleteSync)] saving to buffer	
+[00:40:14]: [global position (CompleteSync)] success to saving to buffer	
+[00:40:14]: [global position (CompleteSync)] learning from buffer	
+[00:40:14]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:40:15]: [global position (CompleteSync)]Client is not ready, waiting	
+[00:40:15]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[00:40:16]: [global position (CompleteSync)] succeed	
+[00:44:28]: Could not find anim [spawn] in bank [squiderp]
+[00:44:29]: Could not find anim [spawn] in bank [squiderp]
+[00:45:03]: Available disk space for save files: 174741 MB
+[00:45:03]: [global position (CompleteSync)] saving to buffer	
+[00:45:03]: [global position (CompleteSync)] success to saving to buffer	
+[00:45:03]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:45:03]: [global position (CompleteSync)] now delete map info from user	
+[00:45:03]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000171
+[00:45:03]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:45:03]: [global position (CompleteSync)] now delete map info from user	
+[00:45:03]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000171
+[00:45:03]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:45:03]: [global position (CompleteSync)] now delete map info from user	
+[00:45:03]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000171
+[00:45:03]: Serializing world: session/44EC2868DDAD173E/0000000171
+[00:52:53]: Could not find anim [spawn] in bank [squiderp]
+[00:52:54]: Could not find anim [spawn] in bank [squiderp]
+[00:52:55]: Could not find anim [spawn] in bank [squiderp]
+[00:53:03]: Available disk space for save files: 174742 MB
+[00:53:04]: [global position (CompleteSync)] saving to buffer	
+[00:53:04]: [global position (CompleteSync)] success to saving to buffer	
+[00:53:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:53:04]: [global position (CompleteSync)] now delete map info from user	
+[00:53:04]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000172
+[00:53:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:53:04]: [global position (CompleteSync)] now delete map info from user	
+[00:53:04]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000172
+[00:53:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[00:53:04]: [global position (CompleteSync)] now delete map info from user	
+[00:53:04]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000172
+[00:53:04]: Serializing world: session/44EC2868DDAD173E/0000000172
+[01:00:07]: [200] Account Communication Success (6)
+[01:00:07]: Received (KU_NSBnThNL) from TokenPurpose
+[01:01:04]: Available disk space for save files: 174740 MB
+[01:01:04]: [global position (CompleteSync)] saving to buffer	
+[01:01:04]: [global position (CompleteSync)] success to saving to buffer	
+[01:01:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:01:04]: [global position (CompleteSync)] now delete map info from user	
+[01:01:04]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000173
+[01:01:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:01:04]: [global position (CompleteSync)] now delete map info from user	
+[01:01:04]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000173
+[01:01:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:01:04]: [global position (CompleteSync)] now delete map info from user	
+[01:01:04]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000173
+[01:01:04]: Serializing world: session/44EC2868DDAD173E/0000000173
+[01:03:27]: Activating portal[9] to 1720328666	
+[01:03:27]: [global position (CompleteSync)]Player despawned and migrate	
+[01:03:27]: [global position (CompleteSync)] saving to buffer	
+[01:03:27]: [global position (CompleteSync)] success to saving to buffer	
+[01:03:27]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:03:27]: [global position (CompleteSync)] now delete map info from user	
+[01:03:27]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000174
+[01:03:27]: [Shard] Migration request: (KU_Qvt-jPlq) to Caves(1720328666)
+[01:03:28]: [Shard] Begin migration #5 for (KU_Qvt-jPlq)
+[01:03:28]: [Shard] #5 [SHDMASTER](1) -> Caves(1720328666)
+[01:03:28]: [Shard] #5 <- session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000174
+[01:03:28]: [Shard] Writing save location file for (KU_Qvt-jPlq)
+[01:03:28]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:03:28]: [Steam] SendUserDisconnect for '76561198812174063'
+[01:03:28]: [Shard] (KU_Qvt-jPlq) disconnected from [SHDMASTER](1)
+[01:03:39]: [Shard] Completed migration #5 for player (KU_Qvt-jPlq)
+[01:04:28]: [Shard] Begin migration #6 for (KU_Qvt-jPlq)
+[01:04:28]: [Shard] #6 Caves(1720328666) -> [SHDMASTER](1)
+[01:04:28]: [Shard] #6 -> session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000174
+[01:04:28]: [Shard] Received migration #6 data for (KU_Qvt-jPlq)
+[01:04:28]: [Shard] Writing save location file for (KU_Qvt-jPlq)
+[01:04:28]: [Shard] (KU_Qvt-jPlq) disconnected from Caves(1720328666)
+[01:04:31]: [P2P] Received from 220.201.39.137|1 '76561198812174063'
+[01:04:31]: [P2P] Sent to 220.201.39.137|1 '76561198812174063'
+[01:04:32]: New incoming connection 220.201.39.137|1 <5474224113303097880>
+[01:04:32]: Client connected from 220.201.39.137|1 <5474224113303097880>
+[01:04:32]: ValidateGameSessionToken GUID<5474224113303097880>
+[01:04:33]: Client authenticated: (KU_Qvt-jPlq) King Jong-un
+[01:04:33]: [Steam] SendUserConnectAndAuthenticate for '76561198812174063'
+[01:04:33]: [Steam] Authenticated client '76561198812174063'
+[01:04:33]: [Shard] Completed incoming migration #6 for (KU_Qvt-jPlq)
+[01:04:33]: [Shard] Completed migration #6 for player (KU_Qvt-jPlq)
+[01:04:49]: Resuming user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000174
+[01:04:49]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[01:04:49]: User ID	KU_Qvt-jPlq	assigned ownership to entity	139440 - wolfgang	
+[01:04:49]: Player will spawn close to portal #9	
+[01:04:49]: Spawning player at: [Load] (86.80, 0.00, 299.28)	
+[01:04:49]: [global position (CompleteSync)]Player joined	
+[01:04:49]: [global position (CompleteSync)] saving to buffer	
+[01:04:49]: [global position (CompleteSync)] success to saving to buffer	
+[01:04:49]: [global position (CompleteSync)] learning from buffer	
+[01:04:49]: [global position (CompleteSync)]Client is not ready, waiting	
+[01:04:49]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[01:04:50]: [global position (CompleteSync)] succeed	
+[01:09:04]: Available disk space for save files: 174735 MB
+[01:09:04]: [global position (CompleteSync)] saving to buffer	
+[01:09:04]: [global position (CompleteSync)] success to saving to buffer	
+[01:09:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:09:04]: [global position (CompleteSync)] now delete map info from user	
+[01:09:04]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000174
+[01:09:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:09:04]: [global position (CompleteSync)] now delete map info from user	
+[01:09:04]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000174
+[01:09:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:09:04]: [global position (CompleteSync)] now delete map info from user	
+[01:09:04]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000174
+[01:09:04]: Serializing world: session/44EC2868DDAD173E/0000000174
+[01:17:04]: Available disk space for save files: 174729 MB
+[01:17:04]: [global position (CompleteSync)] saving to buffer	
+[01:17:04]: [global position (CompleteSync)] success to saving to buffer	
+[01:17:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:17:04]: [global position (CompleteSync)] now delete map info from user	
+[01:17:04]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000175
+[01:17:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:17:04]: [global position (CompleteSync)] now delete map info from user	
+[01:17:04]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000175
+[01:17:04]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:17:04]: [global position (CompleteSync)] now delete map info from user	
+[01:17:04]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000175
+[01:17:05]: Serializing world: session/44EC2868DDAD173E/0000000175
+[01:20:33]: [VFXParticleEmit] Cannot SetRenderResources with the texture "fx/frostbreath.tex" because it is invalid.
+[01:22:58]: 防卡两招：开始清理...	
+[01:22:58]: 防卡两招：清理了   燧石(flint)   101   1   100	
+[01:22:58]: 防卡两招：清理了   蚊子(mosquito)   14   4   10	
+[01:22:58]: 防卡两招：清理了   青蛙(frog)   31   11   20	
+[01:22:58]: 防卡两招：清理了   鸟粪(guano)   9   4   5	
+[01:22:58]: 防卡两招：清理了   种子(seeds)   40   30   10	
+[01:22:58]: 防卡两招：清理了   腐烂物(spoiled_food)   15   5   10	
+[01:22:58]: 防卡两招：清理了   多枝树(twiggytree)   403   253   150	
+[01:22:58]: 防卡两招：清理了   树枝(twigs)   137   37   100	
+[01:22:58]: 防卡两招：清理了   淡水钓竿(fishingrod)   4   1   3	
+[01:22:58]: 防卡两招：清理了   蜜蜂(bee)   36   26   10	
+[01:22:58]: 防卡两招：清理了   MISSING NAME(flies)   42   32   10	
+[01:22:58]: 防卡两招：清理了   臃肿常青树(evergreen_sparse)   283   33   250	
+[01:25:05]: Available disk space for save files: 174725 MB
+[01:25:05]: [global position (CompleteSync)] saving to buffer	
+[01:25:05]: [global position (CompleteSync)] success to saving to buffer	
+[01:25:05]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:25:05]: [global position (CompleteSync)] now delete map info from user	
+[01:25:05]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000176
+[01:25:05]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:25:05]: [global position (CompleteSync)] now delete map info from user	
+[01:25:05]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000176
+[01:25:05]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:25:05]: [global position (CompleteSync)] now delete map info from user	
+[01:25:05]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000176
+[01:25:05]: Serializing world: session/44EC2868DDAD173E/0000000176
+[01:27:20]: A timer with the name 	speak_time	 already exists on 	102960 - hermitcrab	!	
+[01:30:07]: [200] Account Communication Success (6)
+[01:30:07]: Received (KU_NSBnThNL) from TokenPurpose
+[01:32:04]: Could not find anim [spawn] in bank [squiderp]
+[01:32:05]: Could not find anim [spawn] in bank [squiderp]
+[01:33:05]: Available disk space for save files: 174720 MB
+[01:33:05]: [global position (CompleteSync)] saving to buffer	
+[01:33:05]: [global position (CompleteSync)] success to saving to buffer	
+[01:33:05]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:33:05]: [global position (CompleteSync)] now delete map info from user	
+[01:33:05]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000177
+[01:33:05]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:33:05]: [global position (CompleteSync)] now delete map info from user	
+[01:33:05]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000177
+[01:33:05]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:33:05]: [global position (CompleteSync)] now delete map info from user	
+[01:33:05]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000177
+[01:33:05]: Serializing world: session/44EC2868DDAD173E/0000000177
+[01:34:47]: A timer with the name 	speak_time	 already exists on 	102960 - hermitcrab	!	
+[01:41:05]: Available disk space for save files: 174716 MB
+[01:41:05]: [global position (CompleteSync)] saving to buffer	
+[01:41:05]: [global position (CompleteSync)] success to saving to buffer	
+[01:41:05]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:41:05]: [global position (CompleteSync)] now delete map info from user	
+[01:41:05]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000178
+[01:41:05]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:41:05]: [global position (CompleteSync)] now delete map info from user	
+[01:41:05]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000178
+[01:41:05]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:41:05]: [global position (CompleteSync)] now delete map info from user	
+[01:41:05]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000178
+[01:41:06]: Serializing world: session/44EC2868DDAD173E/0000000178
+[01:43:18]: Activating portal[9] to 1720328666	
+[01:43:18]: [global position (CompleteSync)]Player despawned and migrate	
+[01:43:18]: [global position (CompleteSync)] saving to buffer	
+[01:43:18]: [global position (CompleteSync)] success to saving to buffer	
+[01:43:18]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:43:18]: [global position (CompleteSync)] now delete map info from user	
+[01:43:18]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000179
+[01:43:18]: [Shard] Migration request: (KU_iC59_4R2) to Caves(1720328666)
+[01:43:18]: [Shard] Begin migration #7 for (KU_iC59_4R2)
+[01:43:18]: [Shard] #7 [SHDMASTER](1) -> Caves(1720328666)
+[01:43:18]: [Shard] #7 <- session/44EC2868DDAD173E/A7LGO54VOHM2/0000000179
+[01:43:18]: [Shard] Writing save location file for (KU_iC59_4R2)
+[01:43:18]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:43:18]: [Steam] SendUserDisconnect for '76561198839360386'
+[01:43:18]: [Shard] (KU_iC59_4R2) disconnected from [SHDMASTER](1)
+[01:43:30]: [Shard] Completed migration #7 for player (KU_iC59_4R2)
+[01:49:06]: Available disk space for save files: 174712 MB
+[01:49:06]: [global position (CompleteSync)] saving to buffer	
+[01:49:06]: [global position (CompleteSync)] success to saving to buffer	
+[01:49:06]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:49:06]: [global position (CompleteSync)] now delete map info from user	
+[01:49:06]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000179
+[01:49:06]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:49:06]: [global position (CompleteSync)] now delete map info from user	
+[01:49:06]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000179
+[01:49:06]: Serializing world: session/44EC2868DDAD173E/0000000179
+[01:53:24]: [P2P] Session timed out for '76561198839360386'
+[01:53:24]: [P2P] Remove session: 220.201.39.136|1 '76561198839360386'
+[01:57:06]: Available disk space for save files: 174704 MB
+[01:57:06]: [global position (CompleteSync)] saving to buffer	
+[01:57:06]: [global position (CompleteSync)] success to saving to buffer	
+[01:57:06]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:57:06]: [global position (CompleteSync)] now delete map info from user	
+[01:57:06]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000180
+[01:57:06]: [global position (CompleteSync)]In my SerializeUserSession	
+[01:57:06]: [global position (CompleteSync)] now delete map info from user	
+[01:57:06]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000180
+[01:57:06]: Serializing world: session/44EC2868DDAD173E/0000000180
+[01:58:47]: Failed to assign item skin ids due to ownership check failure.
+[02:00:06]: [200] Account Communication Success (6)
+[02:00:06]: Received (KU_NSBnThNL) from TokenPurpose
+[02:01:11]: Activating portal[9] to 1720328666	
+[02:01:11]: [global position (CompleteSync)]Player despawned and migrate	
+[02:01:11]: [global position (CompleteSync)] saving to buffer	
+[02:01:11]: [global position (CompleteSync)] success to saving to buffer	
+[02:01:11]: [global position (CompleteSync)]In my SerializeUserSession	
+[02:01:11]: [global position (CompleteSync)] now delete map info from user	
+[02:01:11]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000181
+[02:01:11]: [Shard] Migration request: (KU_Qvt-jPlq) to Caves(1720328666)
+[02:01:11]: [Shard] Begin migration #8 for (KU_Qvt-jPlq)
+[02:01:11]: [Shard] #8 [SHDMASTER](1) -> Caves(1720328666)
+[02:01:11]: [Shard] #8 <- session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000181
+[02:01:11]: [Shard] Writing save location file for (KU_Qvt-jPlq)
+[02:01:11]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:01:11]: [Steam] SendUserDisconnect for '76561198812174063'
+[02:01:11]: [Shard] (KU_Qvt-jPlq) disconnected from [SHDMASTER](1)
+[02:01:19]: [Shard] Completed migration #8 for player (KU_Qvt-jPlq)
+[02:02:17]: [Shard] Begin migration #9 for (KU_Qvt-jPlq)
+[02:02:17]: [Shard] #9 Caves(1720328666) -> [SHDMASTER](1)
+[02:02:17]: [Shard] #9 -> session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000181
+[02:02:17]: [Shard] Received migration #9 data for (KU_Qvt-jPlq)
+[02:02:17]: [Shard] Writing save location file for (KU_Qvt-jPlq)
+[02:02:17]: [Shard] (KU_Qvt-jPlq) disconnected from Caves(1720328666)
+[02:02:20]: [P2P] Received from 220.201.39.137|1 '76561198812174063'
+[02:02:20]: [P2P] Sent to 220.201.39.137|1 '76561198812174063'
+[02:02:22]: New incoming connection 220.201.39.137|1 <1934987354453808659>
+[02:02:22]: Client connected from 220.201.39.137|1 <1934987354453808659>
+[02:02:22]: ValidateGameSessionToken GUID<1934987354453808659>
+[02:02:24]: Client authenticated: (KU_Qvt-jPlq) King Jong-un
+[02:02:24]: [Steam] SendUserConnectAndAuthenticate for '76561198812174063'
+[02:02:24]: [Steam] Authenticated client '76561198812174063'
+[02:02:24]: [Shard] Completed incoming migration #9 for (KU_Qvt-jPlq)
+[02:02:24]: [Shard] Completed migration #9 for player (KU_Qvt-jPlq)
+[02:02:40]: Resuming user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000181
+[02:02:40]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[02:02:40]: User ID	KU_Qvt-jPlq	assigned ownership to entity	153730 - wolfgang	
+[02:02:40]: Player will spawn close to portal #9	
+[02:02:40]: Spawning player at: [Load] (86.39, 0.00, 301.26)	
+[02:02:40]: [global position (CompleteSync)]Player joined	
+[02:02:40]: [global position (CompleteSync)] saving to buffer	
+[02:02:40]: [global position (CompleteSync)] success to saving to buffer	
+[02:02:40]: [global position (CompleteSync)] learning from buffer	
+[02:02:40]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:02:40]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[02:02:41]: [global position (CompleteSync)] succeed	
+[02:03:39]: Activating portal[9] to 1720328666	
+[02:03:39]: [global position (CompleteSync)]Player despawned and migrate	
+[02:03:39]: [global position (CompleteSync)] saving to buffer	
+[02:03:39]: [global position (CompleteSync)] success to saving to buffer	
+[02:03:40]: [global position (CompleteSync)]In my SerializeUserSession	
+[02:03:40]: [global position (CompleteSync)] now delete map info from user	
+[02:03:40]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000181
+[02:03:40]: [Shard] Migration request: (KU_Qvt-jPlq) to Caves(1720328666)
+[02:03:40]: [Shard] Begin migration #10 for (KU_Qvt-jPlq)
+[02:03:40]: [Shard] #10 [SHDMASTER](1) -> Caves(1720328666)
+[02:03:40]: [Shard] #10 <- session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000181
+[02:03:40]: [Shard] Writing save location file for (KU_Qvt-jPlq)
+[02:03:40]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:03:40]: [Steam] SendUserDisconnect for '76561198812174063'
+[02:03:40]: [Shard] (KU_Qvt-jPlq) disconnected from [SHDMASTER](1)
+[02:03:46]: [Shard] Completed migration #10 for player (KU_Qvt-jPlq)
+[02:05:06]: Available disk space for save files: 174697 MB
+[02:05:06]: [global position (CompleteSync)] saving to buffer	
+[02:05:06]: [global position (CompleteSync)] success to saving to buffer	
+[02:05:06]: [global position (CompleteSync)]In my SerializeUserSession	
+[02:05:06]: [global position (CompleteSync)] now delete map info from user	
+[02:05:06]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000181
+[02:05:06]: Serializing world: session/44EC2868DDAD173E/0000000181
+[02:05:31]: [Shard] Begin migration #11 for (KU_Qvt-jPlq)
+[02:05:31]: [Shard] #11 Caves(1720328666) -> [SHDMASTER](1)
+[02:05:31]: [Shard] #11 -> session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000182
+[02:05:31]: [Shard] Received migration #11 data for (KU_Qvt-jPlq)
+[02:05:31]: [Shard] Writing save location file for (KU_Qvt-jPlq)
+[02:05:31]: [Shard] (KU_Qvt-jPlq) disconnected from Caves(1720328666)
+[02:05:34]: [P2P] Received from 220.201.39.137|1 '76561198812174063'
+[02:05:34]: [P2P] Sent to 220.201.39.137|1 '76561198812174063'
+[02:05:35]: New incoming connection 220.201.39.137|1 <2433362150511105416>
+[02:05:35]: Client connected from 220.201.39.137|1 <2433362150511105416>
+[02:05:35]: ValidateGameSessionToken GUID<2433362150511105416>
+[02:05:35]: Client authenticated: (KU_Qvt-jPlq) King Jong-un
+[02:05:35]: [Steam] SendUserConnectAndAuthenticate for '76561198812174063'
+[02:05:36]: [Steam] Authenticated client '76561198812174063'
+[02:05:36]: [Shard] Completed incoming migration #11 for (KU_Qvt-jPlq)
+[02:05:36]: [Shard] Completed migration #11 for player (KU_Qvt-jPlq)
+[02:05:52]: Resuming user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000182
+[02:05:52]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[02:05:52]: User ID	KU_Qvt-jPlq	assigned ownership to entity	154163 - wolfgang	
+[02:05:52]: Player will spawn close to portal #9	
+[02:05:52]: Spawning player at: [Load] (88.08, 0.00, 299.05)	
+[02:05:52]: [global position (CompleteSync)]Player joined	
+[02:05:52]: [global position (CompleteSync)] saving to buffer	
+[02:05:52]: [global position (CompleteSync)] success to saving to buffer	
+[02:05:52]: [global position (CompleteSync)] learning from buffer	
+[02:05:52]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:05:53]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[02:05:53]: [global position (CompleteSync)] succeed	
+[02:06:34]: [Shard] Begin migration #12 for (KU_iC59_4R2)
+[02:06:34]: [Shard] #12 Caves(1720328666) -> [SHDMASTER](1)
+[02:06:34]: [Shard] #12 -> session/44EC2868DDAD173E/A7LGO54VOHM2/0000000182
+[02:06:34]: [Shard] Received migration #12 data for (KU_iC59_4R2)
+[02:06:34]: [Shard] Writing save location file for (KU_iC59_4R2)
+[02:06:35]: [Shard] (KU_iC59_4R2) disconnected from Caves(1720328666)
+[02:06:41]: [P2P] Create session: 220.201.39.138|1 '76561198839360386'
+[02:06:41]: [P2P] Received from 220.201.39.138|1 '76561198839360386'
+[02:06:41]: [P2P] Sent to 220.201.39.138|1 '76561198839360386'
+[02:06:42]: New incoming connection 220.201.39.138|1 <7637627281678260544>
+[02:06:42]: Client connected from 220.201.39.138|1 <7637627281678260544>
+[02:06:42]: ValidateGameSessionToken GUID<7637627281678260544>
+[02:06:43]: Client authenticated: (KU_iC59_4R2) Superboy
+[02:06:43]: [Steam] SendUserConnectAndAuthenticate for '76561198839360386'
+[02:06:43]: [Steam] Authenticated client '76561198839360386'
+[02:06:43]: [Shard] Completed incoming migration #12 for (KU_iC59_4R2)
+[02:06:43]: [Shard] Completed migration #12 for player (KU_iC59_4R2)
+[02:06:55]: Resuming user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000182
+[02:06:55]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[02:06:55]: User ID	KU_iC59_4R2	assigned ownership to entity	154428 - wendy	
+[02:06:55]: Player will spawn close to portal #9	
+[02:06:55]: Spawning player at: [Load] (87.89, 0.00, 301.98)	
+[02:06:55]: [global position (CompleteSync)]Player joined	
+[02:06:55]: [global position (CompleteSync)] saving to buffer	
+[02:06:55]: [global position (CompleteSync)] success to saving to buffer	
+[02:06:55]: [global position (CompleteSync)] learning from buffer	
+[02:06:55]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:06:56]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[02:06:56]: [global position (CompleteSync)] succeed	
+[02:07:41]: CURL ERROR: (dst.metrics.klei.com) [28]Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[02:08:21]: Activating portal[9] to 1720328666	
+[02:08:21]: [global position (CompleteSync)]Player despawned and migrate	
+[02:08:21]: [global position (CompleteSync)] saving to buffer	
+[02:08:21]: [global position (CompleteSync)] success to saving to buffer	
+[02:08:22]: [global position (CompleteSync)]In my SerializeUserSession	
+[02:08:22]: [global position (CompleteSync)] now delete map info from user	
+[02:08:22]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000182
+[02:08:22]: [Shard] Migration request: (KU_Qvt-jPlq) to Caves(1720328666)
+[02:08:22]: [Shard] Begin migration #13 for (KU_Qvt-jPlq)
+[02:08:22]: [Shard] #13 [SHDMASTER](1) -> Caves(1720328666)
+[02:08:22]: [Shard] #13 <- session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000182
+[02:08:22]: [Shard] Writing save location file for (KU_Qvt-jPlq)
+[02:08:22]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:08:22]: [Steam] SendUserDisconnect for '76561198812174063'
+[02:08:22]: [Shard] (KU_Qvt-jPlq) disconnected from [SHDMASTER](1)
+[02:08:33]: [Shard] Completed migration #13 for player (KU_Qvt-jPlq)
+[02:13:06]: Available disk space for save files: 174690 MB
+[02:13:07]: [global position (CompleteSync)] saving to buffer	
+[02:13:07]: [global position (CompleteSync)] success to saving to buffer	
+[02:13:07]: [global position (CompleteSync)]In my SerializeUserSession	
+[02:13:07]: [global position (CompleteSync)] now delete map info from user	
+[02:13:07]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000182
+[02:13:07]: [global position (CompleteSync)]In my SerializeUserSession	
+[02:13:07]: [global position (CompleteSync)] now delete map info from user	
+[02:13:07]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000182
+[02:13:07]: Serializing world: session/44EC2868DDAD173E/0000000182
+[02:14:57]: Server Paused	
+[02:15:31]: Server Unpaused	
+[02:18:25]: [P2P] Session timed out for '76561198812174063'
+[02:18:25]: [P2P] Remove session: 220.201.39.137|1 '76561198812174063'
+[02:21:41]: Available disk space for save files: 174682 MB
+[02:21:41]: [global position (CompleteSync)] saving to buffer	
+[02:21:41]: [global position (CompleteSync)] success to saving to buffer	
+[02:21:41]: [global position (CompleteSync)]In my SerializeUserSession	
+[02:21:41]: [global position (CompleteSync)] now delete map info from user	
+[02:21:41]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000183
+[02:21:41]: [global position (CompleteSync)]In my SerializeUserSession	
+[02:21:41]: [global position (CompleteSync)] now delete map info from user	
+[02:21:41]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000183
+[02:21:41]: Serializing world: session/44EC2868DDAD173E/0000000183
+[02:22:09]: [Shard] Begin migration #14 for (KU_Qvt-jPlq)
+[02:22:09]: [Shard] #14 Caves(1720328666) -> [SHDMASTER](1)
+[02:22:09]: [Shard] #14 -> session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000184
+[02:22:09]: [Shard] Received migration #14 data for (KU_Qvt-jPlq)
+[02:22:09]: [Shard] Writing save location file for (KU_Qvt-jPlq)
+[02:22:09]: [Shard] (KU_Qvt-jPlq) disconnected from Caves(1720328666)
+[02:22:15]: [P2P] Create session: 220.201.39.139|1 '76561198812174063'
+[02:22:15]: [P2P] Received from 220.201.39.139|1 '76561198812174063'
+[02:22:15]: [P2P] Sent to 220.201.39.139|1 '76561198812174063'
+[02:22:16]: New incoming connection 220.201.39.139|1 <2529943963587596908>
+[02:22:16]: Client connected from 220.201.39.139|1 <2529943963587596908>
+[02:22:16]: ValidateGameSessionToken GUID<2529943963587596908>
+[02:22:16]: Client authenticated: (KU_Qvt-jPlq) King Jong-un
+[02:22:17]: [Steam] SendUserConnectAndAuthenticate for '76561198812174063'
+[02:22:17]: [Steam] Authenticated client '76561198812174063'
+[02:22:17]: [Shard] Completed incoming migration #14 for (KU_Qvt-jPlq)
+[02:22:17]: [Shard] Completed migration #14 for player (KU_Qvt-jPlq)
+[02:22:32]: Resuming user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000184
+[02:22:32]: [global position (CompleteSync)]In my AddPlayerPostInit	
+[02:22:32]: User ID	KU_Qvt-jPlq	assigned ownership to entity	159167 - wolfgang	
+[02:22:32]: Player will spawn close to portal #9	
+[02:22:32]: Spawning player at: [Load] (88.49, 0.00, 301.77)	
+[02:22:32]: [global position (CompleteSync)]Player joined	
+[02:22:32]: [global position (CompleteSync)] saving to buffer	
+[02:22:32]: [global position (CompleteSync)] success to saving to buffer	
+[02:22:32]: [global position (CompleteSync)] learning from buffer	
+[02:22:32]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:33]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:34]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:35]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:36]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:37]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:38]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:39]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:40]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:41]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:42]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:43]: [global position (CompleteSync)]Client is not ready, waiting	
+[02:22:44]: [global position (CompleteSync)] before RPC, the player.client_is_ready is nil	
+[02:22:44]: [global position (CompleteSync)] succeed	
+[02:22:58]: Activating portal[9] to 1720328666	
+[02:22:58]: [global position (CompleteSync)]Player despawned and migrate	
+[02:22:58]: [global position (CompleteSync)] saving to buffer	
+[02:22:58]: [global position (CompleteSync)] success to saving to buffer	
+[02:22:58]: [global position (CompleteSync)]In my SerializeUserSession	
+[02:22:58]: [global position (CompleteSync)] now delete map info from user	
+[02:22:58]: Serializing user: session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000184
+[02:22:58]: [Shard] Migration request: (KU_Qvt-jPlq) to Caves(1720328666)
+[02:22:58]: [Shard] Begin migration #15 for (KU_Qvt-jPlq)
+[02:22:58]: [Shard] #15 [SHDMASTER](1) -> Caves(1720328666)
+[02:22:58]: [Shard] #15 <- session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000184
+[02:22:58]: [Shard] Writing save location file for (KU_Qvt-jPlq)
+[02:22:58]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:23:01]: Invalid RPC sender: expected player, got userid	
+[02:23:01]: Invalid RPC sender: expected player, got userid	
+[02:23:01]: Invalid RPC sender: expected player, got userid	
+[02:23:01]: Invalid RPC sender: expected player, got userid	
+[02:23:10]: CURL ERROR: (dst.metrics.klei.com) [28]Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[02:23:10]: CURL ERROR: (dst.metrics.klei.com) [28]Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[02:23:10]: CURL ERROR: (dst.metrics.klei.com) [28]Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[02:23:14]: CURL ERROR: (dst.metrics.klei.com) [28]Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[02:23:16]: [Shard] (KU_Qvt-jPlq) disconnected from [SHDMASTER](1)
+[02:23:28]: [P2P] Received from 220.201.39.139|1 '76561198812174063'
+[02:23:41]: CURL ERROR: (lobby-v2.klei.com) [28]Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[02:23:41]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[02:23:52]: New incoming connection 220.201.39.139|1 <8496711922543099704>
+[02:23:52]: Client connected from 220.201.39.139|1 <8496711922543099704>
+[02:23:52]: ValidateGameSessionToken GUID<8496711922543099704>
+[02:24:00]: CURL ERROR: (login.kleientertainment.com) [56]SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054
+[02:24:00]: [ValidateGameSessionTokenResponse] Network Failure (0)
+[02:24:00]: CloseConnectionWithReason: ID_DST_GAME_SESSION_AUTH_FAILED
+[02:24:28]: [Shard] Migration for KU_Qvt-jPlq timed out.
+[02:24:28]: [Shard] Cancelling pending migration #15 for (KU_Qvt-jPlq)
+[02:24:33]: Server Paused	
+[02:24:34]: CURL ERROR: (dst.metrics.klei.com) [28]Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[02:24:35]: CURL ERROR: (dst.metrics.klei.com) [28]Connection timed out after 5000 milliseconds
+[02:24:41]: CURL ERROR: (lobby-v2.klei.com) [28]Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[02:24:41]: [Http] Curl failed[0] with HTTP_0, retrying (1 times). Response: __
+[02:24:51]: [P2P] Connection failed for '76561198812174063' because of error code 4(The connection timed out because the target user didn't respond.).
+[02:25:42]: CURL ERROR: (lobby-v2.klei.com) [28]Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[02:25:42]: [Http] Curl failed[0] with HTTP_0, retrying (0 times). Response: __
+[02:26:54]: CURL ERROR: (lobby-v2.klei.com) [28]Operation too slow. Less than 5 bytes/sec transferred the last 60 seconds
+[02:26:54]: Failed to send server broadcast message
+[02:27:54]: CURL ERROR: (lobby-v2.klei.com) [28]Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[02:27:54]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[02:28:54]: CURL ERROR: (lobby-v2.klei.com) [28]Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[02:28:54]: [Http] Curl failed[0] with HTTP_0, retrying (1 times). Response: __
+[02:29:17]: [global position (CompleteSync)]Player despawned	
+[02:29:17]: [global position (CompleteSync)] saving to buffer	
+[02:29:17]: [global position (CompleteSync)] success to saving to buffer	
+[02:29:17]: [Shard] (KU_NSBnThNL) disconnected from [SHDMASTER](1)
+[02:29:17]: Server Unpaused	
+[02:29:17]: [IPC] Received shutdown signal.
+[02:29:17]: Available disk space for save files: 174674 MB
+[02:29:17]: [global position (CompleteSync)] saving to buffer	
+[02:29:17]: [global position (CompleteSync)] success to saving to buffer	
+[02:29:17]: [global position (CompleteSync)]In my SerializeUserSession	
+[02:29:17]: [global position (CompleteSync)] now delete map info from user	
+[02:29:17]: Serializing user: session/44EC2868DDAD173E/A7ITOBONDDEL/0000000184
+[02:29:17]: [global position (CompleteSync)]In my SerializeUserSession	
+[02:29:17]: [global position (CompleteSync)] now delete map info from user	
+[02:29:17]: Serializing user: session/44EC2868DDAD173E/A7LGO54VOHM2/0000000184
+[02:29:17]: Serializing world: session/44EC2868DDAD173E/0000000184
+[02:29:17]: Truncating to snapshot #184...
+[02:29:17]:  - session/44EC2868DDAD173E/0000000160
+[02:29:17]:  - session/44EC2868DDAD173E/0000000161
+[02:29:17]:  - session/44EC2868DDAD173E/0000000162
+[02:29:17]:  - session/44EC2868DDAD173E/0000000163
+[02:29:17]:  - session/44EC2868DDAD173E/0000000164
+[02:29:17]:  - session/44EC2868DDAD173E/0000000165
+[02:29:17]:  - session/44EC2868DDAD173E/0000000166
+[02:29:17]:  - session/44EC2868DDAD173E/0000000167
+[02:29:17]:  - session/44EC2868DDAD173E/0000000168
+[02:29:17]:  - session/44EC2868DDAD173E/0000000169
+[02:29:17]:  - session/44EC2868DDAD173E/0000000170
+[02:29:17]:  - session/44EC2868DDAD173E/0000000171
+[02:29:17]:  - session/44EC2868DDAD173E/0000000172
+[02:29:17]:  - session/44EC2868DDAD173E/0000000173
+[02:29:17]:  - session/44EC2868DDAD173E/0000000174
+[02:29:17]:  - session/44EC2868DDAD173E/0000000175
+[02:29:17]:  - session/44EC2868DDAD173E/0000000176
+[02:29:17]:  - session/44EC2868DDAD173E/0000000177
+[02:29:17]:  - session/44EC2868DDAD173E/0000000178
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000178
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000177
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000176
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000175
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000174
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000173
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000172
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000171
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000169
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000168
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000167
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000166
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000165
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000164
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000163
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000162
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000161
+[02:29:17]:  - session/44EC2868DDAD173E/A7ITOBONDDEL/0000000160
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000178
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000177
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000176
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000175
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000174
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000173
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000172
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000171
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000170
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000169
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000168
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000167
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000165
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000164
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000163
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000162
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000161
+[02:29:17]:  - session/44EC2868DDAD173E/A7JBJNVBB6VK/0000000160
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000178
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000177
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000176
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000175
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000174
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000173
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000172
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000171
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000170
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000169
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000168
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000167
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000166
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000165
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000164
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000163
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000162
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000161
+[02:29:17]:  - session/44EC2868DDAD173E/A7LGO54VOHM2/0000000160
+[02:29:17]:    74 file(s) removed
+[02:29:17]:  > session/44EC2868DDAD173E/A7ITOBONDDEL/savelocation
+[02:29:17]:    1 file(s) updated
+[02:29:17]: Removing server from lobby
+[02:29:17]: [Shard] Stopping shard mode
+[02:29:17]: [global position (CompleteSync)]Player despawned	
+[02:29:17]: [global position (CompleteSync)] saving to buffer	
+[02:29:17]: [global position (CompleteSync)] success to saving to buffer	
+[02:29:18]: Collecting garbage...
+[02:29:18]: lua_gc took 0.23 seconds
+[02:29:18]: ~ShardLuaProxy()
+[02:29:18]: ~cEventLeaderboardProxy()
+[02:29:18]: ~ItemServerLuaProxy()
+[02:29:18]: ~InventoryLuaProxy()
+[02:29:18]: ~NetworkLuaProxy()
+[02:29:18]: ~SimLuaProxy()
+[02:29:18]: Cancelling LuaQueryCallback handle [235]
+[02:29:18]: Cancelling LuaQueryCallback handle [236]
+[02:29:18]: lua_close took 0.32 seconds
+[02:29:19]: CurlRequestManager::ClientThread::Main() complete
+[02:29:19]: HttpClient2 discarded 0 callbacks.
+[02:29:19]: Shutting down

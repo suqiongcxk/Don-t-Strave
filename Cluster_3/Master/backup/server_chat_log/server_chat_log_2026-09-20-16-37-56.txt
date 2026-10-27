@@ -1,0 +1,9 @@
+[00:00:45]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:12]: [Join Announcement] Readamancy
+[00:17:16]: [Death Announcement] Readamancy 死于： 皮弗娄牛。她变成了可怕的鬼魂！
+[00:20:28]: [Death Announcement] 王好爱吃麻包蛋 死于： 爬行恐惧。他变成了可怕的鬼魂！
+[00:23:46]: [Resurrect Announcement] Readamancy 复活自： 绚丽之门.
+[00:23:54]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 绚丽之门.
+[00:37:34]: [Skin Announcement] 王好爱吃麻包蛋 legs_jeans_grey_silver
+[00:37:52]: [Leave Announcement] 王好爱吃麻包蛋
+[00:37:53]: [Leave Announcement] Readamancy

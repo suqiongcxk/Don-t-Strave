@@ -1,0 +1,15 @@
+[00:01:20]: [Join Announcement] Superboy
+[00:01:26]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:09]: [Join Announcement] King Jong-un
+[00:08:31]: [Death Announcement] King Jong-un 死于： 爬行恐惧。他变成了可怕的鬼魂！
+[00:09:11]: [Resurrect Announcement] King Jong-un 复活自： 重生护符.
+[00:24:09]: [Death Announcement] 王好爱吃麻包蛋 死于： 火。她变成了可怕的鬼魂！
+[00:24:17]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 重生护符.
+[00:24:26]: [Death Announcement] King Jong-un 死于： 岩浆虫。他变成了可怕的鬼魂！
+[00:24:43]: [Resurrect Announcement] King Jong-un 复活自： 重生护符.
+[00:26:17]: [Death Announcement] Superboy 死于： 火。她变成了可怕的鬼魂！
+[00:26:43]: [Death Announcement] King Jong-un 死于： 龙蝇。他变成了可怕的鬼魂！
+[00:26:43]: [Death Announcement] 王好爱吃麻包蛋 死于： 岩浆虫。她变成了可怕的鬼魂！
+[00:26:49]: [Leave Announcement] 王好爱吃麻包蛋
+[00:26:50]: [Leave Announcement] Superboy
+[00:26:50]: [Leave Announcement] King Jong-un

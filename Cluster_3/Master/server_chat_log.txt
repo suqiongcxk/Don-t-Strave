@@ -1,0 +1,9 @@
+[00:01:07]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:06]: [Join Announcement] King Jong-un
+[00:02:28]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： King Jong-un.
+[00:04:18]: [Death Announcement] 王好爱吃麻包蛋 死于： 致命亮茄。他变成了可怕的鬼魂！
+[00:04:26]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： King Jong-un.
+[00:07:58]: [Skin Announcement] 王好爱吃麻包蛋 feet_ankleboot_red_firehound
+[00:33:09]: [Death Announcement] 王好爱吃麻包蛋 死于： 蜘蛛女王。他变成了可怕的鬼魂！
+[00:34:14]: [Leave Announcement] 王好爱吃麻包蛋
+[00:34:15]: [Leave Announcement] King Jong-un

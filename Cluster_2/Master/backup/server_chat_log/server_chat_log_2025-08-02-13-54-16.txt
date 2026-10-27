@@ -1,0 +1,28 @@
+[00:00:50]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:15]: [Join Announcement] King Jong-un
+[00:05:50]: [Death Announcement] 王好爱吃麻包蛋 死于： 恐怖尖喙。她变成了可怕的鬼魂！
+[00:05:56]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 重生护符.
+[00:06:04]: [Join Announcement] Readamancy
+[00:08:06]: [Join Announcement] Superboy
+[00:10:35]: [Death Announcement] Superboy 死于： 燧石。她变成了可怕的鬼魂！
+[00:12:41]: [Leave Announcement] Superboy
+[00:14:26]: [Join Announcement] Superboy
+[00:16:48]: [Death Announcement] 王好爱吃麻包蛋 死于： 恐怖尖喙。她变成了可怕的鬼魂！
+[00:17:48]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 试金石.
+[00:17:58]: [Resurrect Announcement] Superboy 复活自： 绚丽之门.
+[00:20:06]: [Death Announcement] Readamancy 死于： 饥饿。他变成了可怕的鬼魂！
+[00:20:46]: [Resurrect Announcement] Readamancy 复活自： 重生护符.
+[00:44:55]: [Say] (KU_iC59_4R2) Superboy: fan qie he tu dou yi qi zhong
+[01:00:03]: [Leave Announcement] King Jong-un
+[01:12:49]: [Death Announcement] Superboy 死于： 恐怖尖喙。她变成了可怕的鬼魂！
+[01:13:16]: [Leave Announcement] Superboy
+[01:14:37]: [Join Announcement] Superboy
+[01:15:03]: [Resurrect Announcement] Superboy 复活自： 重生护符.
+[01:22:32]: [Announcement] 大大果汁：本房间将于 30 秒后清理！
+[01:22:34]: [Announcement] 大大果汁：本房间将于 30 秒后清理！
+[01:23:02]: [Announcement] 大大果汁：正在清理，垃圾退散！
+[01:23:04]: [Announcement] 大大果汁：正在清理，垃圾退散！
+[01:25:33]: [Leave Announcement] Superboy
+[01:28:04]: [Skin Announcement] Readamancy legs_wortox_rose
+[01:33:38]: [Leave Announcement] 王好爱吃麻包蛋
+[01:33:39]: [Leave Announcement] Readamancy

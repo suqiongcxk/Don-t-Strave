@@ -1,0 +1,13 @@
+[00:01:00]: [Join Announcement] 王好爱吃麻包蛋
+[00:05:39]: [Join Announcement] Readamancy
+[00:06:27]: [Resurrect Announcement] Readamancy 复活自： 王好爱吃麻包蛋.
+[00:07:26]: [Skin Announcement] 王好爱吃麻包蛋 legs_walter_yule
+[00:56:50]: [Death Announcement] 王好爱吃麻包蛋 死于： 装甲熊獾。他变成了可怕的鬼魂！
+[00:58:26]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： Readamancy.
+[01:11:20]: [Death Announcement] Readamancy 死于： 洞穴蠕虫。她变成了可怕的鬼魂！
+[01:11:21]: [Death Announcement] 王好爱吃麻包蛋 死于： 洞穴蠕虫。他变成了可怕的鬼魂！
+[01:14:15]: [Leave Announcement] Readamancy
+[01:15:04]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 恶作剧.
+[01:15:40]: [Death Announcement] 王好爱吃麻包蛋 死于： 洞穴蠕虫。他变成了可怕的鬼魂！
+[01:15:42]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 恶作剧.
+[01:16:35]: [Leave Announcement] 王好爱吃麻包蛋

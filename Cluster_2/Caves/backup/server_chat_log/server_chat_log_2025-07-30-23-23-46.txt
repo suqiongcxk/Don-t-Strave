@@ -1,0 +1,27 @@
+[00:01:08]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:34]: [Join Announcement] Superboy
+[00:02:34]: [Join Announcement] Readamancy
+[00:03:08]: [Join Announcement] King Jong-un
+[00:04:39]: [Leave Announcement] Readamancy
+[00:06:13]: [Join Announcement] Readamancy
+[00:07:35]: [Leave Announcement] King Jong-un
+[00:09:29]: [Join Announcement] King Jong-un
+[01:13:07]: [Death Announcement] Readamancy 死于： 远古哨兵蜈蚣。他变成了可怕的鬼魂！
+[01:13:56]: [Resurrect Announcement] Readamancy 复活自： 重生护符.
+[01:18:08]: [Death Announcement] Readamancy 死于： 洞穴蠕虫。他变成了可怕的鬼魂！
+[01:18:12]: [Death Announcement] 王好爱吃麻包蛋 死于： 洞穴蠕虫。她变成了可怕的鬼魂！
+[01:18:21]: [Death Announcement] King Jong-un 死于： 洞穴蠕虫。他变成了可怕的鬼魂！
+[01:18:31]: [Vote Announcement] rollback passed
+[01:18:40]: [Death Announcement] Superboy 死于： 恐怖尖喙。她变成了可怕的鬼魂！
+[01:20:35]: [Leave Announcement] Readamancy
+[01:21:48]: [Join Announcement] Readamancy
+[01:22:14]: [Death Announcement] King Jong-un 死于： 洞穴蠕虫。他变成了可怕的鬼魂！
+[01:22:26]: [Vote Announcement] rollback passed
+[01:22:37]: [Death Announcement] 王好爱吃麻包蛋 死于： 洞穴蠕虫。她变成了可怕的鬼魂！
+[01:24:37]: [Death Announcement] 王好爱吃麻包蛋 死于： 洞穴蠕虫。她变成了可怕的鬼魂！
+[01:24:46]: [Death Announcement] King Jong-un 死于： 洞穴蠕虫。他变成了可怕的鬼魂！
+[01:25:00]: [Death Announcement] Superboy 死于： 洞穴蠕虫。她变成了可怕的鬼魂！
+[01:25:21]: [Leave Announcement] 王好爱吃麻包蛋
+[01:25:22]: [Leave Announcement] Superboy
+[01:25:22]: [Leave Announcement] Readamancy
+[01:25:22]: [Leave Announcement] King Jong-un

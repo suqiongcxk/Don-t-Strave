@@ -1,0 +1,11 @@
+[00:00:53]: [Join Announcement] 王好爱吃麻包蛋
+[00:01:36]: [Join Announcement] Superboy
+[00:01:44]: [Join Announcement] King Jong-un
+[00:06:40]: [Skin Announcement] 王好爱吃麻包蛋 legs_wickerbottom_yule
+[00:20:58]: [Skin Announcement] Superboy legs_pants_basic_green_forest
+[00:53:31]: [Death Announcement] 王好爱吃麻包蛋 死于： 蜘蛛女王。她变成了可怕的鬼魂！
+[00:53:58]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 重生护符.
+[00:59:09]: [Skin Announcement] 王好爱吃麻包蛋 feet_wickerbottom_ice1
+[01:02:08]: [Skin Announcement] Superboy legs_skirt_basic_blue_peacock
+[01:15:32]: [Skin Announcement] King Jong-un legs_walter_lunar
+[01:17:07]: [Leave Announcement] 王好爱吃麻包蛋

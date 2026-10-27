@@ -1,0 +1,15 @@
+[00:01:38]: [Join Announcement] 王好爱吃麻包蛋
+[00:03:06]: [Join Announcement] Readamancy
+[00:04:10]: [Leave Announcement] Readamancy
+[00:05:12]: [Join Announcement] Readamancy
+[00:31:43]: [Death Announcement] Readamancy 死于： 大虚影。她变成了可怕的鬼魂！
+[00:32:09]: [Resurrect Announcement] Readamancy 复活自： 王好爱吃麻包蛋.
+[00:35:15]: [Death Announcement] 王好爱吃麻包蛋 死于： 大虚影。他变成了可怕的鬼魂！
+[00:38:15]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： Readamancy.
+[00:40:33]: [Death Announcement] 王好爱吃麻包蛋 死于： 天体英雄。他变成了可怕的鬼魂！
+[00:43:12]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： Readamancy.
+[00:47:28]: [Death Announcement] Readamancy 死于： 大虚影。她变成了可怕的鬼魂！
+[00:48:48]: [Resurrect Announcement] Readamancy 复活自： 王好爱吃麻包蛋.
+[00:52:06]: [Death Announcement] Readamancy 死于： 发条主教。她变成了可怕的鬼魂！
+[00:52:25]: [Leave Announcement] 王好爱吃麻包蛋
+[00:52:26]: [Leave Announcement] Readamancy

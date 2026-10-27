@@ -1,0 +1,11 @@
+[00:00:41]: [Join Announcement] 王好爱吃麻包蛋
+[00:01:42]: [Join Announcement] Superboy
+[00:05:25]: [Join Announcement] King Jong-un
+[00:18:22]: [Skin Announcement] Superboy body_buttons_white_ghost
+[01:22:25]: [Announcement] 大大果汁：本房间将于 30 秒后清理！
+[01:22:28]: [Announcement] 大大果汁：本房间将于 30 秒后清理！
+[01:22:55]: [Announcement] 大大果汁：正在清理，垃圾退散！
+[01:22:58]: [Announcement] 大大果汁：正在清理，垃圾退散！
+[02:24:28]: [Leave Announcement] King Jong-un
+[02:29:17]: [Leave Announcement] 王好爱吃麻包蛋
+[02:29:17]: [Leave Announcement] Superboy

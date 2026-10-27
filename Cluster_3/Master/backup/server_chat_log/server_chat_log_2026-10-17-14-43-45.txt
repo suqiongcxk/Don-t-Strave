@@ -1,0 +1,4 @@
+[00:01:49]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:42]: [Join Announcement] King Jong-un
+[00:25:23]: [Leave Announcement] King Jong-un
+[00:25:23]: [Leave Announcement] 王好爱吃麻包蛋

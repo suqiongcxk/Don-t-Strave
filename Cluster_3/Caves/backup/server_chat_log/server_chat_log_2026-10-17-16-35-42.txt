@@ -1,0 +1,13 @@
+[00:01:35]: [Join Announcement] 王好爱吃麻包蛋
+[00:03:11]: [Join Announcement] King Jong-un
+[00:04:46]: [Join Announcement] Readamancy
+[00:08:27]: [Death Announcement] 王好爱吃麻包蛋 死于： 蜘蛛战士。他变成了可怕的鬼魂！
+[00:09:14]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： Readamancy.
+[00:33:13]: [Skin Announcement] 王好爱吃麻包蛋 legs_shorts_red_firehound
+[00:39:41]: [Skin Announcement] King Jong-un legs_swing_pants_pink_raspberry
+[01:19:37]: [Leave Announcement] Readamancy
+[01:19:47]: [Death Announcement] King Jong-un 死于： 蜜蜂。它变成了可怕的鬼魂！
+[01:20:08]: [Leave Announcement] King Jong-un
+[01:20:57]: [Join Announcement] King Jong-un
+[01:21:30]: [Join Announcement] Readamancy
+[01:22:29]: [Leave Announcement] 王好爱吃麻包蛋

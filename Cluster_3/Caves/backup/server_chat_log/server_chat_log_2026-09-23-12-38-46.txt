@@ -1,0 +1,25 @@
+[00:00:41]: [Join Announcement] 王好爱吃麻包蛋
+[00:01:37]: [Join Announcement] Readamancy
+[00:02:03]: [Join Announcement] King Jong-un
+[00:07:16]: [Skin Announcement] 王好爱吃麻包蛋 feet_wendy_yule
+[00:09:36]: [Leave Announcement] King Jong-un
+[00:12:23]: [Join Announcement] King Jong-un
+[00:49:42]: [Leave Announcement] Readamancy
+[00:52:50]: [Join Announcement] Readamancy
+[01:15:19]: [Skin Announcement] King Jong-un farm_hoe_invisible
+[01:20:25]: [Skin Announcement] 王好爱吃麻包蛋 body_buttons_purple_violet
+[01:36:47]: [Announcement] 大大果汁：本房间将于 30 秒后清理！
+[01:36:50]: [Announcement] 大大果汁：本房间将于 30 秒后清理！
+[01:37:17]: [Announcement] 大大果汁：正在清理，垃圾退散！
+[01:37:20]: [Announcement] 大大果汁：正在清理，垃圾退散！
+[01:47:23]: [Death Announcement] King Jong-un 死于： 守护者暗影触手。它变成了可怕的鬼魂！
+[01:52:53]: [Death Announcement] 王好爱吃麻包蛋 死于： 熊獾。他变成了可怕的鬼魂！
+[01:54:03]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： Readamancy.
+[01:58:03]: [Resurrect Announcement] King Jong-un 复活自： 王好爱吃麻包蛋.
+[02:33:49]: [Death Announcement] Readamancy 死于： 远古守护者。她变成了可怕的鬼魂！
+[02:35:45]: [Resurrect Announcement] Readamancy 复活自： 重生护符.
+[02:40:14]: [Skin Announcement] 王好爱吃麻包蛋 wilson_beard_yule
+[02:43:04]: [Skin Announcement] King Jong-un feet_wathgrithr_yule
+[02:47:17]: [Death Announcement] Readamancy 死于： 恐怖尖喙。她变成了可怕的鬼魂！
+[02:47:34]: [Leave Announcement] Readamancy
+[02:57:49]: [Leave Announcement] 王好爱吃麻包蛋

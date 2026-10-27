@@ -1,0 +1,8 @@
+[00:00:48]: [Join Announcement] 王好爱吃麻包蛋
+[00:01:15]: [Skin Announcement] 王好爱吃麻包蛋 legs_wanda_masquerade
+[00:01:35]: [Join Announcement] King Jong-un
+[00:50:39]: [Death Announcement] King Jong-un 死于： 月熠。他变成了可怕的鬼魂！
+[00:50:46]: [Vote Announcement] rollback passed
+[00:53:54]: [Skin Announcement] King Jong-un feet_webber_lunar
+[01:31:24]: [Leave Announcement] King Jong-un
+[01:47:42]: [Leave Announcement] 王好爱吃麻包蛋

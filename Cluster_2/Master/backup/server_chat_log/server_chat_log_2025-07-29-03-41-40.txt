@@ -1,0 +1,6 @@
+[00:02:05]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:22]: [Join Announcement] King Jong-un
+[00:02:33]: [Vote Announcement] rollback passed
+[00:03:15]: [Leave Announcement] 王好爱吃麻包蛋
+[00:03:16]: [Leave Announcement] King Jong-un
+[00:03:16]: [Leave Announcement] Superboy

@@ -1,0 +1,9 @@
+[00:01:19]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:49]: [Join Announcement] Readamancy
+[00:02:49]: [Join Announcement] King Jong-un
+[00:24:01]: [Skin Announcement] 王好爱吃麻包蛋 feet_captoe_shoe_white_ivory
+[01:01:39]: [Death Announcement] King Jong-un 死于： 饥饿。它变成了可怕的鬼魂！
+[01:02:41]: [Resurrect Announcement] King Jong-un 复活自： Readamancy.
+[01:56:38]: [Leave Announcement] 王好爱吃麻包蛋
+[01:56:38]: [Leave Announcement] Readamancy
+[01:56:38]: [Leave Announcement] King Jong-un

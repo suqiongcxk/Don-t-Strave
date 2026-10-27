@@ -1,0 +1,9 @@
+[00:00:42]: [Join Announcement] 王好爱吃麻包蛋
+[00:02:53]: [Join Announcement] King Jong-un
+[00:31:34]: [Resurrect Announcement] 王好爱吃麻包蛋 复活自： 重生护符.
+[00:31:59]: [Skin Announcement] 王好爱吃麻包蛋 body_flannel_blue_snowbird
+[00:34:42]: [Skin Announcement] King Jong-un legs_woodie_gladiator
+[00:49:20]: [Vote Announcement] rollback passed
+[01:05:30]: [Death Announcement] King Jong-un 死于： 红色猎犬。他变成了可怕的鬼魂！
+[01:05:36]: [Vote Announcement] rollback passed
+[01:46:16]: [Leave Announcement] 王好爱吃麻包蛋

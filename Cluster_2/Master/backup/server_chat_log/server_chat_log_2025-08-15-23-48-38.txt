@@ -1,0 +1,9 @@
+[00:02:08]: [Join Announcement] 王好爱吃麻包蛋
+[00:03:05]: [Join Announcement] King Jong-un
+[00:05:27]: [Skin Announcement] 王好爱吃麻包蛋 feet_wes_western
+[00:34:34]: [Death Announcement] King Jong-un 死于： 奇形鸟。他变成了可怕的鬼魂！
+[00:34:52]: [Vote Announcement] rollback passed
+[00:36:46]: [Death Announcement] King Jong-un 死于： 触手。他变成了可怕的鬼魂！
+[00:37:02]: [Vote Announcement] rollback passed
+[01:18:19]: [Leave Announcement] 王好爱吃麻包蛋
+[01:18:20]: [Leave Announcement] King Jong-un

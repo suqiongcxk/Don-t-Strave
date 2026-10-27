@@ -1,0 +1,6 @@
+[00:00:46]: [Join Announcement] 王好爱吃麻包蛋
+[00:01:06]: [Join Announcement] King Jong-un
+[00:01:30]: [Join Announcement] Superboy
+[00:02:13]: [Leave Announcement] 王好爱吃麻包蛋
+[00:02:14]: [Leave Announcement] King Jong-un
+[00:02:14]: [Leave Announcement] Superboy

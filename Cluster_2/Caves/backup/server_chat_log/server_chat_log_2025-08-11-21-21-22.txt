@@ -1,0 +1,5 @@
+[00:00:39]: [Join Announcement] 王好爱吃麻包蛋
+[00:10:56]: [Join Announcement] King Jong-un
+[00:39:14]: [Death Announcement] King Jong-un 死于： 海草。他变成了可怕的鬼魂！
+[00:39:30]: [Vote Announcement] rollback passed
+[00:49:38]: [Leave Announcement] 王好爱吃麻包蛋
